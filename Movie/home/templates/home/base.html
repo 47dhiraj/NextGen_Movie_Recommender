@@ -1,0 +1,738 @@
+{% load static %}
+{% load crispy_forms_tags %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Movie Recommendation </title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="{% static '/fonts.css' %}" rel="stylesheet">
+    <link href="{% static '/animate.css' %}" rel="stylesheet">
+    <link rel="stylesheet" href="{% static '/bootstrap-3.4.1-dist/css/bootstrap.min.css' %} ">
+    <link rel="stylesheet" href="{% static '/bootstrap-3.4.1-dist/css/bootstrap-theme.min.css' %} ">
+
+
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css'>
+
+
+    <script src="{% static '/jquery.min.js' %}"></script>
+    <script src="{% static '/bootstrap-3.4.1-dist/js/bootstrap.min.js' %} "></script>
+
+    {# DataTable Link for Bootstrap Table   #}
+    <script src="{% static '/bootstrap-3.4.1-dist/dataTable/dataTables.min.js' %} "></script>
+    <script src="{% static '/bootstrap-3.4.1-dist/dataTable/dataTables.bootstrap.min.js' %} "></script>
+
+    <!-- sweetalert link  -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+
+
+    <style>
+        /* For Signup */
+        body {
+            color: #fff;
+            background: #2f2f2f;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .form-control:focus {
+            border-color: #5cb85c;
+        }
+
+        .form-control,
+        .btn {
+            border-radius: 3px;
+        }
+
+        .signup-form {
+            width: 400px;
+            margin: 30px auto;
+            padding: 30px 0;
+        }
+
+        .signup-form h2 {
+            color: #000000;
+            margin: 0 0 15px;
+            position: relative;
+            text-align: center;
+        }
+
+        .signup-form h2:before,
+        .signup-form h2:after {
+            content: "";
+            height: 2px;
+            width: 27%;
+            background: #d4d4d4;
+            position: absolute;
+            top: 50%;
+            z-index: 2;
+        }
+
+        .signup-form h2:before {
+            left: 0;
+        }
+
+        .signup-form h2:after {
+            right: 0;
+        }
+
+        .signup-form .hint-text {
+            color: #999;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .signup-form form {
+            color: #000000;
+            border-radius: 3px;
+            margin-bottom: 15px;
+            background: #f2f3f7;
+            box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+            padding: 30px;
+        }
+
+        /* This is addedto style in order to remove the by default label that was provided by django */
+        .signup-form form label {
+            display: none;
+        }
+
+        /* This is addedto style in order to customize django error message that was provided by django */
+        .signup-form form p {
+            margin: 14px 0px -60px 6px;
+            color: rgb(245, 90, 90);
+            font-size: small;
+        }
+
+        .signup-form .form-group {
+            margin-bottom: 20px;
+        }
+
+        .signup-form input[type="checkbox"] {
+            margin-top: 3px;
+        }
+
+        .signup-form .btn {
+            font-size: 16px;
+            font-weight: bold;
+            min-width: 140px;
+            outline: none !important;
+            margin-top: 54px;
+        }
+
+        .signup-form .row div:first-child {
+            padding-right: 10px;
+        }
+
+        .signup-form .row div:last-child {
+            padding-left: 10px;
+        }
+
+        .signup-form a {
+            color: #fff;
+            text-decoration: underline;
+        }
+
+        .signup-form a:hover {
+            text-decoration: none;
+        }
+
+        .signup-form form a {
+            color: #5cb85c;
+            text-decoration: none;
+        }
+
+        .signup-form form a:hover {
+            text-decoration: underline;
+        }
+
+        /* For Login */
+        .login-form {
+            width: 400px;
+            margin: 40px auto;
+            padding: 30px 0;
+        }
+
+        .login-form h2 {
+            color: #000000;
+            margin: 0 0 15px;
+            position: relative;
+            text-align: center;
+        }
+
+        .login-form h2:before,
+        .login-form h2:after {
+            content: "";
+            height: 2px;
+            width: 30%;
+            background: #d4d4d4;
+            position: absolute;
+            top: 50%;
+            z-index: 2;
+        }
+
+        .login-form h2:before {
+            left: 0;
+        }
+
+        .login-form h2:after {
+            right: 0;
+        }
+
+        .login-form .hint-text {
+            color: #000000;
+            margin-bottom: 30px;
+            text-align: center;
+            padding-left: 118px;
+        }
+
+        .login-form form {
+            color: #000000;
+            border-radius: 3px;
+            margin-bottom: 15px;
+            background: #f2f3f7;
+            box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+            padding: 30px;
+        }
+
+        .login-form .form-group {
+            margin-bottom: 20px;
+        }
+
+        .login-form input[type="checkbox"] {
+            margin-top: 3px;
+        }
+
+        .login-form .btn {
+            font-size: 16px;
+            font-weight: bold;
+            min-width: 140px;
+            outline: none !important;
+        }
+
+        .login-form .row div:first-child {
+            padding-right: 10px;
+        }
+
+        .login-form .row div:last-child {
+            padding-left: 10px;
+        }
+
+        .login-form a {
+            color: #fff;
+            text-decoration: underline;
+        }
+
+        .login-form a:hover {
+            text-decoration: none;
+        }
+
+        .login-form form a {
+            color: #5cb85c;
+            text-decoration: none;
+        }
+
+        .login-form form a:hover {
+            text-decoration: underline;
+        }
+
+
+        /* For Resetting Password */
+        .reset-form h2:before {
+            left: 0;
+        }
+
+        .reset-form h2:after {
+            right: 0;
+        }
+
+        .reset-form {
+            width: 400px;
+            margin: 30px auto;
+            padding: 30px 0;
+        }
+
+        .reset-form h2 {
+            color: #000000;
+            margin: 0 0 15px;
+            position: relative;
+            text-align: center;
+        }
+
+        .reset-form h2:before,
+        .reset-form h2:after {
+            content: "";
+            height: 2px;
+            width: 17%;
+            background: #d4d4d4;
+            position: absolute;
+            top: 50%;
+            z-index: 2;
+        }
+
+        .reset-form h2:before {
+            left: 0;
+        }
+
+        .reset-form h2:after {
+            right: 0;
+        }
+
+        .reset-form .hint-text {
+            color: #999;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .reset-form form {
+            color: #000000;
+            border-radius: 3px;
+            margin-bottom: 15px;
+            background: #f2f3f7;
+            box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+            padding: 30px;
+        }
+
+        /* This is addedto style in order to remove the by default label that was provided by django */
+        .reset-form form label {
+            display: none;
+        }
+
+        #searchbutton:hover {
+
+            background-color: #5CB85c !important;
+            cursor: pointer;
+        }
+
+        .dropdown-submenu {
+            position: relative;
+        }
+
+        .dropdown-submenu .dropdown-menu {
+            top: 0;
+            left: 100%;
+            margin-top: -1px;
+        }
+
+        .star-rating {
+            line-height: 32px;
+            font-size: 1.25em;
+        }
+
+        .star-rating .fa-star {
+            color: yellow;
+        }
+
+
+        /* ac-results hidden-sm hidden-xs styling */
+
+
+        .ac-results {
+            display: none;
+            overflow: hidden;
+            z-index: 9;
+            margin: 0;
+            padding: 0;
+            top: 59px !important;
+            width: 250px !important;
+            text-align: left;
+            position: fixed !important;
+            border: 1px solid #2f2f2f;
+        }
+
+        /* ul styling  */
+
+        .ac-results ul {
+            list-style-position: outside;
+            list-style: none;
+            background: #1d1d1d;
+            margin: 0;
+            margin-left: -15%
+        }
+
+        /* li styling */
+        .ac-results li:first-child {
+            border: 0;
+        }
+
+        .ac-results li {
+            cursor: pointer;
+            display: block;
+            overflow: auto;
+            margin: 0;
+            padding: 0;
+            border-top: 1px solid #2f2f2f;
+            font-size: 14px;
+        }
+
+        li {
+            list-style: none;
+        }
+
+        /* anchor tag styling */
+        .ac-results li a {
+            display: block;
+            overflow: auto;
+            padding: 10px;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        a {
+            text-decoration: none !important;
+        }
+
+        a {
+            color: #428bca;
+            text-decoration: none;
+        }
+
+        a {
+            background-color: transparent;
+        }
+
+
+        /* img tag styling */
+        .ac-results li a img {
+            width: 43px;
+            height: auto;
+            height: 63px;
+            float: left;
+            margin-right: 15px;
+        }
+
+        fieldset,
+        img {
+            border: 0;
+        }
+
+        img {
+            vertical-align: middle;
+        }
+
+        img {
+            border: 0;
+        }
+
+        /* p tag styling */
+        .ac-results li a p {
+            font-size: 12px;
+            margin-top: 8px;
+            color: #919191;
+        }
+
+        .ac-results ul:hover {
+            background: #404040;
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            $('.dropdown-submenu a.test').on("click", function (e) {
+                $(this).next('ul').toggle();
+                e.stopPropagation();
+                e.preventDefault();
+            });
+        });
+
+
+    </script>
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{% url 'home' %}">Logo</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="{% url 'home' %}"><span class="glyphicon glyphicon-home"></span><b>
+                    Home</b></a>
+                </li>
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a style="color: white;" class="dropdown-toggle" data-toggle="dropdown" href="#">Genre
+                            <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/genre/Action">Action</a></li>
+                            <li><a href="/genre/Animation">Animation</a></li>
+                            <li><a href="/genre/Comedy">Comedy</a></li>
+                            <li><a href="/genre/Crime">Crime</a></li>
+                            <li><a href="/genre/Horror">Horror</a></li>
+                            <li><a href="/genre/Sci-Fi">Sci-Fi</a></li>
+                            <li><a href="/genre/War">War</a></li>
+                            <li class="dropdown-submenu">
+                                <a class="test" tabindex="-1">Other</a>
+                                <ul class="dropdown-menu">
+                                    <li><a tabindex="-1" href="/genre/Action Sci-Fi">Action Sci-Fi</a></li>
+                                    <li><a tabindex="-1" href="/genre/Comedy Crime">Comedy Crime</a></li>
+                                    <li><a tabindex="-1" href="/genre/Drama Thriller">Drama Thriller</a></li>
+
+                                </ul>
+                            </li>
+                        </ul>
+
+
+                    </li>
+                </ul>
+
+{#                <li><a style="color: white;" href="/recent/latest">Recent</a></li>#}
+                <li><a style="color: white;" href="/toprating/imdb_rating">Top Rated</a></li>
+            </ul>
+
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a style="color: white;" class="dropdown-toggle" data-toggle="dropdown" href="#">Year
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/year/2016">2016</a></li>
+                        <li><a href="/year/2015">2015</a></li>
+                        <li><a href="/year/2014">2014</a></li>
+                        <li><a href="/year/2013">2013</a></li>
+                        <li><a href="/year/2012">2012</a></li>
+                        <li><a href="/year/2011">2011</a></li>
+                    </ul>
+                </li>
+
+                <li><a style="color: white;" href="{% url 'movies' %}"> Filter Movies </a></li>
+
+            </ul>
+
+            <form class="navbar-form navbar-right" action="{% url 'home' %}">
+                <div class="form-group">
+                    <input style="color: black;" type="text" class="form-control" id="searchField"
+                           value="{{ request.GET.searchvalue }}" placeholder="Search">
+                </div>
+                <button type="submit" class="btn" id="searchbutton">
+                    <i style="color:black;" class="glyphicon glyphicon-search"></i>
+                </button>
+            </form>
+            <ul class="nav navbar-nav navbar-right">
+                {% if request.user.is_authenticated %}
+                    {% if request.user.is_client %}
+                        <li><a a style="color: whitesmoke;" href="{% url 'suggestion' %}"><span
+                                class="glyphicon glyphicon-film"></span><b> Suggestions </b></a></li>
+                        <li><a a style="color: whitesmoke;" href="{% url 'clienthome' %}"><span
+                                class="glyphicon glyphicon-user"></span><b> {{ request.user }} </b></a></li>
+
+                    {% else %}
+
+                        <li><a a style="color: whitesmoke;" href="{% url 'suggestion' %}"><span
+                                class="glyphicon glyphicon-film"></span><b> Suggestions </b></a></li>
+                        <li><a a style="color: whitesmoke;" href="{% url 'adminhome' %}"><span
+                                class="glyphicon glyphicon-edit"></span><b> Admin Panel </b></a></li>
+
+
+{#  models.py ko class vitra ko function lai template bata call garni  yesari ho. #}
+{#                        <li>#}
+{#                            {{ request.user.count_rated_movies }}#}
+{#                        </li>#}
+
+                    {% endif %}
+                {% endif %}
+
+
+                {% if not request.user.is_authenticated %}
+                    <li><a style="color: whitesmoke;" href="{% url 'clientregister' %}"><span
+                            class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                    <li><a style="color: whitesmoke;" href="{% url 'login' %}"><span
+                            class="glyphicon glyphicon-log-in"></span>
+                        Login</a></li>
+                {% else %}
+
+                    <!-- <li><a style="color: whitesmoke;" href="{% url 'logoutall' %}"><span class="glyphicon glyphicon-log-out"></span> Log Out</a></li> -->
+
+                    <form class="navbar-form navbar-right" action="{% url 'logoutall' %}" method="POST">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <li>
+                            <span class="glyphicon glyphicon-log-out" style="margin-top: 10px;">
+                            </span>
+                                <input
+                                        style="color: whitesmoke; background-color: #2f2f2f; border: none; font-weight: bold;"
+                                        type="submit" value="Logout">
+
+                            </li>
+                        </div>
+
+                    </form>
+
+                {% endif %}
+
+            </ul>
+
+
+        </div><!-- /.navbar-collapse -->
+        <!-- Search Dropdown -->
+        <div id="dropdown" class="ac-results hidden-sm hidden-xs"
+             style="margin-left: 82%; display: none; visibility: hidden;">
+
+        </div>
+
+    </div><!-- /.container-fluid -->
+</nav>
+
+
+{% block body %}
+
+{% endblock %}
+
+
+
+
+{% load sweetify %}
+
+{% sweetify %}
+
+
+<script type="text/javascript">
+    var $star_rating = $('.star-rating .fa');
+
+    var SetRatingStar = function ()
+    {
+
+        return $star_rating.each(function ()
+        {
+            if (parseInt($star_rating.siblings('input.rating-value').val()) >= parseInt($(this).data('rating')))
+            {
+                return $(this).removeClass('fa-star-o').addClass('fa-star');
+            }
+            else
+            {
+                return $(this).removeClass('fa-star').addClass('fa-star-o');
+            }
+        });
+
+    };
+
+    $star_rating.on('click', function ()
+    {
+        $star_rating.siblings('input.rating-value').val($(this).data('rating'));
+        return SetRatingStar();
+    });
+
+    SetRatingStar();
+
+</script>
+
+
+<script type="text/javascript">
+    function validateForm() {
+        var x = document.forms["ratingForm"]["rating"].value;
+        if (x == "0") {
+            {#Swal.fire("Invalid Input");#}
+            Swal.fire({
+                title: 'Error!',
+                text: 'Rating must be provided.',
+                icon: 'error',
+                confirmButtonText: 'Ok'
+            })
+            return false;
+        }
+    }
+
+
+</script>
+
+<script>
+    const searchField = document.querySelector("#searchField");
+
+
+    searchField.addEventListener('input', (e) => {
+        const searchValue = e.target.value;
+
+        var codeBlock = ``;
+
+        // console.log(searchValue.trim().length)
+
+        if (searchValue.trim().length >= 1) {
+            document.getElementById("dropdown").style.visibility = "visible";
+            document.getElementById("dropdown").style.display = "block";
+
+
+            console.clear();
+
+            var url = '/'
+            fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({'searchText': searchValue})
+            })
+                .then((response) => {
+                    return response.json();
+                })
+                .then((data) => {
+
+                    if (data.length != 0) {
+                        for (let index in data) {
+
+                            if (index < 5) {
+
+
+                                var block = `<ul>
+                                                <li class="ac-item-hover">
+                                                    <a href="{% if request.user.is_authenticated %} /detail/${data[index].id}/{{ request.user.id }}/ {% else %} /detail/${data[index].id}/ {% endif %}">
+                                                        <img src= "{% if request.user.is_authenticated %} ../../../media/${data[index].poster} {% else %} ../../media/${data[index].poster}{% endif %}">
+                                                        <span>${data[index].title}</span>
+                                                        <p>${data[index].year}</p>
+                                                    </a>
+                                                </li>
+                                            </ul>`
+
+                                codeBlock += block;
+
+
+                            }
+                        }
+                        document.getElementById("dropdown").innerHTML = codeBlock;
+
+                    } else {
+                        document.getElementById("dropdown").style.display = "none";
+                        document.getElementById("dropdown").style.visibility = "hidden";
+                    }
+
+                });
+        } else {
+            document.getElementById("dropdown").style.display = "none";
+            document.getElementById("dropdown").style.visibility = "hidden";
+        }
+
+    })
+
+
+</script>
+
+
+<!-- JavaScript Link For  Datatables -->
+<script src="{% static 'admin/vendors/datatables.net/js/jquery.dataTables.min.js' %}"></script>
+<script src="{% static 'admin/vendors/datatables.net-bs4/js/dataTables.bootstrap4.min.js' %}"></script>
+<script src="{% static 'admin/vendors/datatables.net-buttons/js/dataTables.buttons.min.js' %}"></script>
+<script src="{% static 'admin/vendors/datatables.net-buttons-bs4/js/buttons.bootstrap4.min.js' %}"></script>
+<script src="{% static 'admin/vendors/jszip/dist/jszip.min.js' %}"></script>
+<script src="{% static 'admin/vendors/pdfmake/build/pdfmake.min.js' %}"></script>
+<script src="{% static 'admin/vendors/pdfmake/build/vfs_fonts.js' %}"></script>
+<script src="{% static 'admin/vendors/datatables.net-buttons/js/buttons.html5.min.js' %}"></script>
+<script src="{% static 'admin/vendors/datatables.net-buttons/js/buttons.print.min.js' %}"></script>
+<script src="{% static 'admin/vendors/datatables.net-buttons/js/buttons.colVis.min.js' %}"></script>
+<script src="{% static 'admin/assets/js/init-scripts/data-table/datatables-init.js' %}"></script>
+
+
+</body>
+
+</html>

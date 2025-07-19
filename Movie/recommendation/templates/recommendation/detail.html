@@ -1,0 +1,386 @@
+{% extends 'home/base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+
+{% block body %}
+
+    <style>
+
+        .submit_btn {
+            background: #6ac045;
+            border-radius: 10px;
+            -webkit-border-radius: 10px;
+            -moz-border-radius: 10px;
+            display: block;
+            font-weight: 700;
+            color: #fff;
+            top: 5px;
+            font-size: 16px;
+            position: relative;
+            width: 130px;
+            padding: 7px 0;
+            margin: 0 auto;
+            -webkit-transition: all 300ms ease;
+            -moz-transition: all 300ms ease;
+            transition: all 300ms ease;
+        }
+
+        .panel-body {
+            padding: 12px 12px 0px 12px;
+        }
+
+        .panel-default {
+            border-color: white;
+        }
+
+        .panel {
+            background-color: white;
+            border: 1px solid transparent;
+            border-radius: 6px;
+
+        }
+
+        img {
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+        #movie-related a {
+            border: 4px solid #fff;
+            margin-bottom: 20px;
+            border-radius: 3px;
+            float: left;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+            transition: border .15s ease-in-out;
+            -moz-transition: border .15s ease-in-out;
+            -webkit-transition: border .15s ease-in-out;
+        }
+
+        #movie-related a:hover {
+            border: 4px solid #5cb85c;
+        }
+
+
+    </style>
+
+
+    <div class="container-fluid col-sm-offset-0">
+        <!-- Movie Details - Left Side -->
+        <div class="row">
+
+
+            <div class="col-sm-2 col-md-3" data-aos="fade-right" data-aos-duration="800">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <a href="#">
+                            <img src="{{ movies.poster.url }}" class="img-responsive">
+                        </a>
+                        <h2></h2>
+                    </div>
+                </div>
+                <div class="text-center" id="download_div" style="visibility: hidden">
+                    <a href="#" id="download_anchor">
+                        <button class="btn btn-success btn-lg btn-block">
+                            <i class="fa fa-download"></i>
+                            Download
+                        </button>
+                    </a>
+                </div>
+
+
+            </div>
+
+            <div class="col-sm-offset-0 col-sm-5 col-md-5">
+                <h1 style="background: -webkit-linear-gradient(#FFD700, white);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;" id="title"><b>{{ movies.title }}</b></h1>
+
+                <h3 style="color: white;">{{ movies.genre }}</h3>
+
+                <h3 style="background: -webkit-linear-gradient(#FFD700, white);-webkit-background-clip: text;background-clip: text;-webkit-text-fill-color: transparent;">
+                    <b><img src="{% static 'images/imdb_logo.svg' %}" width="45"> {{ movies.imdbrating }} / 10 </b></h3>
+
+                <h3 style="color: white;" id="year"><i class="fa fa-calendar" style="color: lightgreen"></i> {{ movies.year }}</h3>
+
+
+                {% if request.user.is_authenticated %}
+                    <h3><i class="fa fa-star" style="color:lightgreen;"></i> Rate Movie</h3>
+
+                    <form class="form-horizontal" role="search" method="post" action="{% url 'detail' movies.id %}"
+                          onsubmit="return validateForm()" name="ratingForm" id="rating_form">
+                        <div class="form-group">
+                            <div class="input-group">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="star-rating" style="font-size: 2.5em; margin-bottom: 10px;">
+                                            <span class="fa fa-star-o" data-rating="1"></span>
+                                            <span class="fa fa-star-o" data-rating="2"></span>
+                                            <span class="fa fa-star-o" data-rating="3"></span>
+                                            <span class="fa fa-star-o" data-rating="4"></span>
+                                            <span class="fa fa-star-o" data-rating="5"></span>
+
+                                            <input type="hidden" name="rating" class="rating-value" value="0">
+
+                                            <input type="hidden" name="user" value="{{ request.user.id }}">
+                                            <input type="hidden" name="movie" value="{{ movies.id }}">
+
+                                            {% csrf_token %}
+                                        </div>
+                                    </div>
+                                </div>
+                                <button type="submit" class="btn btn-success btn-lg btn-block"><i class="fa fa-star"
+                                                                                                  style="color: gold"></i>
+                                    Rate
+                                </button>
+                            </div>
+                        </div>
+                        {% if messages %}
+
+                            {% for message in messages %}
+                                <h5><b>{{ message }}</b></h5>
+                            {% endfor %}
+
+                        {% endif %}
+                    </form>
+
+
+                    <h3>Official Trailer</h3>
+
+                    <div id="trailer"></div>
+
+                {% else %}
+
+                    <h3 style="margin-top: 12%;">Official Trailer</h3>
+
+                    <div id="trailer"></div>
+
+                {% endif %}
+
+
+            </div>
+
+            <div class="col-sm-offset-0 col-sm-4 col-md-4">
+                <h2 style="margin-top: 5px;"><b>Similar Movies</b></h2>
+                <div id="movie-related">
+
+                    {% if recommended_movies %}
+                        {% for movie in recommended_movies|slice:":6" %}
+                            <!-- django template ma for loop lai limit garna  break use garna mildaina , so for loop lai limit garna  slice use garna parcha -->
+
+                            <a href="{% if request.user.is_authenticated %}{% url 'detail' movie.id request.user.id  %} {% else %} {% url 'detail' movie.id %}  {% endif %}" style="margin-right: 17px;">
+
+                                <img src="{{ movie.poster.url }}" width=155px; height=180px;>
+                            </a>
+
+                        {% endfor %}
+                    {% else %}
+                        <h2 style="margin-top: 40px; background: -webkit-linear-gradient(#FFD700, white);-webkit-background-clip: text;background-clip: text;-webkit-text-fill-color: transparent;">
+                            Sorry! Similar movies are not available.</h2>
+                    {% endif %}
+
+
+                </div>
+
+
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+
+
+    {#  Script For Youtube Trailer Usin Youtube API V3   #}
+    <script>
+
+        console.clear()
+
+        let API_KEY = "AIzaSyC8KHyCCzdotzrD-mQL-ZsTAlb9MlTuukY"
+        let trailer_search = $("#title").text() + " Official Trailer #1 Latest " + $("#year").text()
+        videoSearch(API_KEY, trailer_search, 1)
+
+
+        function videoSearch(key, search, maxResults)
+        {
+            $("#trailer").empty()
+
+            $.get("https://www.googleapis.com/youtube/v3/search?key=" + key + "&type=video&part=snippet&maxResults=" + maxResults + "&q=" + trailer_search, function (data)
+            {
+                data.items.forEach(item => {
+                    trailers = `<iframe class="youtube-player" style="width: 86%; height: 280px;" src="http://www.youtube.com/embed/${item.id.videoId}" frameborder="0" allowfullscreen></iframe>`
+                    $("#trailer").append(trailers)
+                })
+            })
+
+
+        }
+
+
+    </script>
+
+
+
+
+    {# Script For Movie Download Using YTS API V2   #}
+    <script>
+        $(document).ready(function ()
+        {
+
+
+            {#console.log("{{movies.title}} ({{movies.year}})")#}
+            var url = "https://yts.mx/api/v2/list_movies.json?query_term=" + "{{movies.title}} ({{movies.year}})"
+
+
+            fetch(url,
+            {
+                method: 'GET',
+                headers: {},
+            })
+
+            .then((response) =>
+            {
+                status = response.status;
+                return response.json()
+            })
+
+            .then(function (res_data)
+            {
+                {#console.log(res_data)#}
+                var movies = res_data.data.movies
+
+                {#console.log(movies)#}
+
+                var movie_year = '{{ movies.year }}'
+                var movie_title = '{{ movies.title }}'.toLowerCase()
+
+                var movie_url_response = ''
+
+                var ytx_yt_trailer_code = ''
+
+                for (var i in movies)
+                {
+                    var movie_year_response = movies[i].year
+
+                    if (movie_year == movie_year_response)
+                    {
+
+                        ytx_yt_trailer_code = movies[i].yt_trailer_code
+
+                        var torrents = movies[i].torrents
+
+                        for (var i in torrents)
+                        {
+
+
+                                var movie_quality_response = torrents[i].quality
+
+
+                                if (movie_quality_response == '720p')
+                                {
+                                    movie_url_response = torrents[0].url
+                                }
+
+                        }
+
+                    }
+
+                }
+
+
+                {# YTS Trailer #}
+                {#trailers = `<iframe class="youtube-player" style="width: 86%; height: 280px;" src="https://www.youtube.com/embed/${ytx_yt_trailer_code}" frameborder="0" allowfullscreen></iframe>`#}
+                {#$("#trailer").append(trailers)#}
+
+
+
+                {# For the YTS Movie Download Link #}
+                if (movie_url_response)
+                {
+                    {#console.log($('#download_anchor').attr('href'))#}
+
+                    $('#download_anchor').attr("href", movie_url_response)
+
+                    $('#download_div').css("visibility" , "visible")
+
+
+                }
+
+            })
+
+        })
+
+    </script>
+
+
+
+
+
+
+
+    {# Rating Submit garna ko lagi script. Ajax bata rating submit garna lako so that page reload nahos vanera #}
+    <script>
+
+    $(document).ready(function ()
+    {
+        var form = document.getElementById('rating_form')
+
+        form.addEventListener('submit', function (e)
+        {
+            e.preventDefault()
+
+            var url = "{% url 'rate_movie' movies.id %}"
+
+
+             /* Fetch API Call to the url */
+            fetch(url,
+            {
+                method: 'POST',
+                headers: {
+
+                },
+                body: new FormData(rating_form)
+
+            }).then((response) =>
+            {                                                          /* Response(in json) and stauts lyauni tarika */
+                status = response.status;
+                return response.json()
+            })
+            .then(function (data)
+            {
+                if (parseInt(status) == 200)
+                {
+                    Swal.fire({
+                    title: 'Success!',
+                    text: 'Rating submitted successfully.',
+                    icon: 'success',
+                    confirmButtonText: 'Ok'
+                    })
+
+                    var star_rating = $('.star-rating .fa');
+
+                    star_rating.removeClass('fa-star').addClass('fa-star-o')
+
+                    document.forms["ratingForm"]["rating"].value = '0';
+                }
+
+            })
+
+        })
+
+
+    })
+    </script>
+
+
+
+
+
+
+
+{% endblock %}
+

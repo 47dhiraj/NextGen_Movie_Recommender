@@ -1,0 +1,221 @@
+{% extends 'movie_admin/admin_base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block body %}
+
+    <div class="breadcrumbs">
+        <div class="col-sm-4">
+            <div class="page-header float-left">
+                <div class="page-title">
+                    <h1>Dashboard</h1>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-8">
+            <div class="page-header float-right">
+                <div class="page-title">
+                    <ol class="breadcrumb text-right">
+                        <li class="active">Dashboard</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="content mt-3">
+
+        <div class="col-sm-12">
+            <div class="alert  alert-success alert-dismissible fade show" role="alert">
+                <span class="badge badge-pill badge-success">Welcome!</span> to our admin dashboard.
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        </div>
+
+
+        <div class="col-sm-6 col-lg-3">
+            <div class="card text-white bg-flat-color-1">
+                <div class="card-body pb-0">
+                    <div class="dropdown float-right">
+                        <button class="btn bg-transparent dropdown-toggle theme-toggle text-light" type="button"
+                                id="dropdownMenuButton1" data-toggle="dropdown">
+                            <i class="fa fa-cog"></i>
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                            <div class="dropdown-menu-content">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <a class="dropdown-item" href="#">Something else here</a>
+                            </div>
+                        </div>
+                    </div>
+                    <h4 class="mb-0">
+                        <span class="count">{{ movie_count }}</span>
+                    </h4>
+                    <p class="text-light"><i class="fa fa-film"></i> Total Movies</p>
+
+                    <div class="chart-wrapper px-0" style="height:70px;" height="70">
+                        <canvas id="widgetChart1"></canvas>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+        <!--/.col-->
+
+        <div class="col-sm-6 col-lg-3">
+            <div class="card text-white bg-flat-color-2">
+                <div class="card-body pb-0">
+                    <div class="dropdown float-right">
+                        <button class="btn bg-transparent dropdown-toggle theme-toggle text-light" type="button"
+                                id="dropdownMenuButton2" data-toggle="dropdown">
+                            <i class="fa fa-cog"></i>
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+                            <div class="dropdown-menu-content">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <a class="dropdown-item" href="#">Something else here</a>
+                            </div>
+                        </div>
+                    </div>
+                    <h4 class="mb-0">
+                        <span class="count">{{ user_count }}</span>
+                    </h4>
+                    <p class="text-light"><i class="fa fa-user-circle"></i> User's Count</p>
+
+                    <div class="chart-wrapper px-0" style="height:70px;" height="70">
+                        <canvas id="widgetChart2"></canvas>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--/.col-->
+
+        <div class="col-sm-6 col-lg-3">
+            <div class="card text-white bg-flat-color-3">
+                <div class="card-body pb-0">
+                    <div class="dropdown float-right">
+                        <button class="btn bg-transparent dropdown-toggle theme-toggle text-light" type="button"
+                                id="dropdownMenuButton3" data-toggle="dropdown">
+                            <i class="fa fa-cog"></i>
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton3">
+                            <div class="dropdown-menu-content">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <a class="dropdown-item" href="#">Something else here</a>
+                            </div>
+                        </div>
+                    </div>
+                    <h4 class="mb-0">
+                        <span class="count">{{ admin_count }}</span>
+                    </h4>
+                    <p class="text-light"><i class="fa fa-user-md"></i> Admin's Count</p>
+
+                </div>
+
+                <div class="chart-wrapper px-0" style="height:70px;" height="70">
+                    <canvas id="widgetChart3"></canvas>
+                </div>
+            </div>
+        </div>
+        <!--/.col-->
+
+
+        <div class="col-sm-6 col-lg-2 offset-1">
+
+            <a href="{% url 'download_csv' %}" id="download_csv">
+            <button class="btn " style="background-color: #272c33; color: white"><i class="fa fa-download"></i> Export Rating CSV</button>
+            </a>
+
+        </div>
+        <!--/.col-->
+
+
+        <!--/.col-->
+    </div> <!-- .content -->
+
+    <!-- User Profile Card -->
+    <div class="content mt-3">
+        <div class="animated fadeIn">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <strong class="card-title mb-3">Profile Detail</strong>
+                        </div>
+                        <div class="card-body">
+                            <div class="mx-auto d-block">
+                                <img class="rounded-circle mx-auto d-block" src="{{ user.image.url }}" width="150;"
+                                     height="150;"
+                                     style="margin-top: 50px; border: 2px solid black; padding: 10px;"
+                                     alt="Card image cap">
+
+                                <h5 class="text-sm-center mt-2 mb-1">{{ request.user }}</h5>
+                                <form action="{% url 'upload_pic' %}" method="post" enctype="multipart/form-data">
+                                    {% csrf_token %}
+                                    <div class="text-sm-center mt-2 mb-1" style="margin-left: 18%">
+                                        <input id="id_image" type="file" name="image">
+
+                                    </div>
+                                    <div class="text-sm-center mt-2 mb-1">
+                                        <input type="submit" value="Submit" class="btn btn-success">
+                                    </div>
+                                </form>
+
+                            </div>
+
+                            <table class="table table-hover mt-4 text-center">
+                                <tbody>
+                                <tr>
+                                    <td>Username:</td>
+                                    <td>{{ request.user }}</td>
+                                </tr>
+                                <tr>
+                                    <td>Email:</td>
+                                    <td>{{ request.user.email }}</td>
+                                </tr>
+                                <tr>
+                                    {% if request.user.is_client %}
+                                        <td> User Type:</td>
+                                        <td> User</td>
+                                    {% else %}
+                                        <td> User Type:</td>
+                                        <td> Admin</td>
+                                    {% endif %}
+                                </tr>
+
+                                <tr>
+                                    <td>User ID :</td>
+                                    <td>{{ request.user.id }}</td>
+                                </tr>
+                                <tr>
+                                    <td>Joined Date:</td>
+                                    <td>{{ request.user.date_joined }}</td>
+                                </tr>
+
+                                <tr>
+                                    <td>Last Seen:</td>
+                                    <td>{{ request.user.last_login }}</td>
+                                </tr>
+
+                                <tr>
+                                    <td>Movie Rated:</td>
+                                    <td>{{ count }}</td>
+                                </tr>
+
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

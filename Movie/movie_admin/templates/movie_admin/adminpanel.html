@@ -1,0 +1,104 @@
+{% extends 'movie_admin/admin_base.html' %}
+{% load static %}
+
+
+{% block body %}
+    {% block style %}
+        <style>
+            .dataTables_filter, .pagination {
+                float: right;
+            }
+
+
+        </style>
+    {% endblock %}
+    <div class="breadcrumbs">
+        <div class="col-sm-4">
+            <div class="page-header float-left">
+                <div class="page-title">
+                    <h1>Dashboard</h1>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-8">
+            <div class="page-header float-right">
+                <div class="page-title">
+                    <ol class="breadcrumb text-right">
+                        <li><a href="{% url 'adminhome' %}">Dashboard</a></li>
+                        <li><a href="{% url 'adminpanel' %}">User</a></li>
+                        <li class="active">View User's Detail</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="content mt-3">
+        <div class="animated fadeIn">
+            <div class="row">
+
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <strong class="card-title">User's Detail</strong>
+                            <span class="float-right">
+                                <a href="{% url 'adminregister' %}" class="btn btn-dark">Add Admin</a>
+                            </span>
+                        </div>
+                        <div class="card-body">
+                            <table id="bootstrap-data-table-export" class="table  table-bordered table-hover">
+                                <thead>
+                                <tr>
+                                    <th>Username</th>
+                                    <th>Email</th>
+                                    <th>Is_admin</th>
+                                    <th>Is_client</th>
+                                    <th>Action</th>
+
+                                </tr>
+                                </thead>
+                                <tbody>
+                                {% for user in users %}
+                                    <tr>
+                                        <td>{{ user.username }}</td>
+                                        <td>{{ user.email }}</td>
+                                        {% if user.is_admin == True %}
+                                            <td class="text-center">
+                                                <img src="{% static 'images/user_active.png' %}" alt="True" width="50">
+                                            </td>
+                                        {% else %}
+                                            <td class="text-center">
+                                                <img src="{% static 'images/user_deactive.png' %}" alt="False"
+                                                     width="50">
+                                            </td>
+                                        {% endif %}
+
+                                        {% if user.is_client == True %}
+                                            <td class="text-center">
+                                                <img src="{% static 'images/user_active.png' %}" alt="True" width="50">
+                                            </td>
+                                        {% else %}
+                                            <td class="text-center">
+                                                <img src="{% static 'images/user_deactive.png' %}" alt="False"
+                                                     width="50">
+                                            </td>
+                                        {% endif %}
+                                        <td>
+                                            <a href="{% url 'rating_details' user.id %}"><span
+                                                    class="btn btn-success">View Details</span></a>
+
+                                        </td>
+                                    </tr>
+                                {% endfor %}
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div><!-- .animated -->
+    </div><!-- .content -->
+{% endblock %}

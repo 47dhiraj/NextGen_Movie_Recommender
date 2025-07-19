@@ -1,0 +1,46 @@
+[
+{
+    "model": "login_signup.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$150000$ZfEgkmVpmLcv$7o2RsSuXsxF7lVeWd5bqB3NpaRE8NNE/hiVynf6Gpf4=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "dipen.stha8786@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-12-21T04:03:31.784Z",
+        "is_client": false,
+        "is_admin": true,
+        "image": "uploads/img_avatar.png",
+        "is_verified": true,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "login_signup.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$150000$ZfEgkmVpmLcv$7o2RsSuXsxF7lVeWd5bqB3NpaRE8NNE/hiVynf6Gpf4=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "dhiraj",
+        "first_name": "Dhiraj",
+        "last_name": "Kafle",
+        "email": "dhirajkafle553@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-12-21T04:03:31.784Z",
+        "is_client": false,
+        "is_admin": true,
+        "image": "uploads/img_avatar.png",
+        "is_verified": true,
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

@@ -1,0 +1,147 @@
+{% extends 'home/base.html' %}
+
+{% load socialaccount %}
+{# django-allauth le socialaccount.py vanni file banaideko huncha jasma all of the codes available huncha. #}
+{% providers_media_js %}    {# only for facebook #}
+
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block body %}
+
+    <style>
+
+
+        /* Center the image and position the close button */
+        .imgcontainer {
+            text-align: center;
+            margin: 24px 0 12px 0;
+            position: relative;
+        }
+
+
+        img.avatar {
+            width: 30%;
+            border-radius: 30%;
+        }
+
+        a:link img {
+            transition: .2s;
+        }
+
+        a:link img:hover {
+            transform: scale(1.1);
+        }
+
+
+        /* For Password Field eye-type icon */
+        .field-icon {
+            float: right;
+            margin-left: -25px;
+            /* margin-right: 5px; */
+            margin-top: 10px;
+            cursor: pointer;
+            position: absolute;
+            z-index: 2;
+        }
+
+
+
+    </style>
+    <div class="fadeInDown">
+        <div class="login-form">
+
+            <form method="POST" action="">
+                {% csrf_token %}
+
+                <h2>Login</h2>
+                <div class="imgcontainer">
+                    <img src="{% static 'images/img_avatar.png' %}" alt="Avatar" class="avatar">
+
+
+                </div>
+
+                <div class="form-group">
+                    <label for="username"><b>Username</b></label>
+
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                        <input class="form-control" type="text" class="form-control" name="username"
+                               placeholder="Username" required="required">
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+                    <label for="password"><b>Password</b></label>
+
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+                        <input type="password" class="form-control" name="password" placeholder="Password"
+                               required="required" id="password">
+                        <span toggle="#password" class="fa fa-fw fa-eye fa-lg field-icon toggle-password"
+                              title="show password"></span>
+                    </div>
+                </div>
+
+                {% if messages %}
+
+                    {% for message in messages %}
+                        <div class="alert {{ message.tags }} alert-dismissible fade in" role="alert">
+                            <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+
+                            <!-- messages vannale djago ma vayeko messages haru vanni bujinxa -->
+                            <p id="messages">{{ message }}</p>    <!-- id="messages"  styling chai mathi diyeko xa -->
+
+                        </div>
+                    {% endfor %}
+                {% endif %}
+
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-success btn-lg btn-block">LOGIN</button>
+                </div>
+
+                <div class="text-center">
+                    <div style="width: 100%; height: 15px; border-bottom: 1px solid black; text-align: center; margin-bottom: 15px;">
+                          <span style="font-size: 20px; background-color: #F3F5F6; padding: 0 10px;">
+                            or Login With<!--Padding is optional-->
+                          </span>
+                    </div>
+                    <a href="{% provider_login_url "facebook" method="oauth2" %}" style="margin-right: 15px;">
+                        <img src="{% static 'images/fb.png' %}" width="40">
+                    </a>
+
+                    <a href="{% provider_login_url "google" %}">
+                        <img src="{% static 'images/gp.png' %}" width="40">
+                    </a>
+                </div>
+            </form>
+
+
+            <div class="text-center"><b>Don't have an account ? </b><a href="{% url 'clientregister' %}"><b> Create
+                one </b></a></div>
+            </br>
+            <div class="text-center"><b> Forgot password ? </b><a href="{% url 'reset_password' %}"><b> Reset
+                password </b></a></div>
+        </div>
+
+    </div>
+
+    <!-- For show password eye-type icon  -->
+    <script>
+        $(".toggle-password").click(function () {
+
+
+            $(this).toggleClass("fa-eye fa-eye-slash");
+            var input = $($(this).attr("toggle"));
+            if (input.attr("type") == "password") {
+                input.attr("type", "text");
+            } else {
+                input.attr("type", "password");
+            }
+        });
+
+
+    </script>
+{% endblock %}

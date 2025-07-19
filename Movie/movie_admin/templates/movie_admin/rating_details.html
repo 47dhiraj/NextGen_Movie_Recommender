@@ -1,0 +1,91 @@
+{% extends 'movie_admin/admin_base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block body %}
+    {% block style %}
+        <style>
+            .dataTables_filter, .pagination {
+                float: right;
+            }
+
+
+        </style>
+    {% endblock %}
+    <div class="breadcrumbs">
+        <div class="col-sm-4">
+            <div class="page-header float-left">
+                <div class="page-title">
+                    <h1>Dashboard</h1>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-8">
+            <div class="page-header float-right">
+                <div class="page-title">
+                    <ol class="breadcrumb text-right">
+                        <li><a href="{% url 'adminhome' %}">Dashboard</a></li>
+                        <li><a href="{% url 'adminpanel' %}">View User's Detail</a></li>
+                        <li class="active">Rating Details</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="content mt-3">
+        <div class="animated fadeIn">
+            <div class="row">
+
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <strong class="card-title">{{ users.username|capfirst }} Rating's Detail</strong>
+                            <div class="float-right">
+                                <a href="{% url 'adminpanel' %}" class="btn btn-primary">Go Back</a>
+                                {% if users.is_admin != True %}
+                                    <a href="{% url 'delete' users.id %}"><span class="btn btn-danger">Delete User</span></a>
+                                {% endif %}
+                            </div>
+
+                        </div>
+                        <div class="card-body">
+                            <table id="bootstrap-data-table-export"
+                                   class="table  table-bordered table-hover text-center">
+                                <thead>
+                                <tr>
+                                    <th>Movie Title</th>
+                                    <th>Rating</th>
+
+
+                                </tr>
+                                </thead>
+                                <tbody>
+
+
+                                {% for client in clients %}
+                                    <tr>
+                                        <td>
+                                            <img src="{{ client.movie.poster.url }}" alt="movie_poster" width="80"><br>
+                                            {{ client.movie.title }}
+                                        </td>
+                                        <td style="vertical-align: middle">
+                                            <i class="fa fa-star" aria-hidden="true" style="color: gold"></i>
+                                            {{ client.rating }}
+                                        </td>
+                                    </tr>
+
+                                {% endfor %}
+
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div><!-- .animated -->
+    </div><!-- .content -->
+{% endblock %}

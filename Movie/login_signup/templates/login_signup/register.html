@@ -1,0 +1,192 @@
+{% extends 'home/base.html' %}
+
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block body %}
+
+    <style>
+        /* Center the image and position the close button */
+        .imgcontainer {
+            text-align: center;
+            margin: 5px 0 12px 0;
+            position: relative;
+        }
+
+        img.avatar {
+            width: 30%;
+            border-radius: 50%;
+        }
+
+        /* Add Zoom Animation */
+        .animate {
+            -webkit-animation: animatezoom 0.6s;
+            animation: animatezoom 0.6s
+        }
+
+        .error {
+            color: #f66767;
+        }
+
+        @-webkit-keyframes animatezoom {
+            from {
+                -webkit-transform: scale(0)
+            }
+            to {
+                -webkit-transform: scale(1)
+            }
+        }
+
+        @keyframes animatezoom {
+            from {
+                transform: scale(0)
+            }
+            to {
+                transform: scale(1)
+            }
+        }
+
+        /* For Password Field eye-type icon */
+        .field-icon {
+            float: right;
+            margin-left: -25px;
+            /* margin-right: 5px; */
+            margin-top: 10px;
+            cursor: pointer;
+            position: absolute;
+            z-index: 2;
+        }
+
+
+    </style>
+
+    <!-- <div class="fadeInDown"> -->
+    <div class="fadeInDown">
+        <div class="signup-form">
+
+            <form action="" method="post">
+
+
+                {% csrf_token %}
+                {% if request.user.is_admin %}
+                    <h2> Add Admin</h2>
+                    <p class="hint-text">Add New Admin</p>
+
+                {% else %}
+                    <h2>Register</h2>
+                    <p class="hint-text">Create your account. It's free and only takes a minute.</p>
+
+                {% endif %}
+                <div class="imgcontainer">
+                    {% if request.user.is_admin %}
+                        <img src="{% static 'images/avatar.png' %}" alt="Avatar" class="avatar">
+
+                    {% else %}
+                        <img src="{% static 'images/img_avatar.png' %}" alt="Avatar" class="avatar">
+
+                    {% endif %}
+                </div>
+
+                {% if form.non_field_errors %}
+                    <div class="alert alert-danger">
+                        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times; </a>
+                        {{ form.non_field_errors }}
+
+                    </div>
+                {% endif %}
+
+                <div id="div_id_username" class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                        <input class="form-control" type="text" name="username" id="id_username" placeholder="Username"
+                               required="required"
+                               value="{% if form.username.value %}{{ form.username.value }}{% endif %}">
+                    </div>
+                    <div class='error'>{{ form.errors.username }}</div>
+                </div>
+
+
+                <div id="div_id_email" class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+                        <input type="email" name="email" maxlength="254" class="emailinput form-control"
+                               id="id_email" placeholder="Enter Valid Email.."
+                               value="{% if form.email.value %}{{ form.email.value }}{% endif %}">
+                    </div>
+                    <div class='error'>{{ form.errors.email }}</div>
+
+
+                </div>
+
+                <div id="div_id_password1" class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+                        <input type="password" name="password1" class="textinput form-control"
+                               required="" id="id_password1" placeholder="Enter password..."
+                               value="{% if form.password1.value %}{{ form.password1.value }}{% endif %}">
+
+                        <span toggle="#id_password1" class="fa fa-fw fa-eye fa-lg field-icon toggle-password"
+                              title="show password"></span>
+
+
+                    </div>
+                    <div class='error'>{{ form.errors.password1 }}</div>
+
+                </div>
+
+                <div id="div_id_password2" class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-check"></i></span>
+                        <input type="password" name="password2" class="textinput form-control"
+                               required="" id="id_password2" placeholder="Re-enter Password..."
+                               value="{% if form.password2.value %}{{ form.password2.value }}{% endif %}">
+                        <span toggle="#id_password2" class="fa fa-fw fa-eye fa-lg field-icon toggle-password"
+                              title="show password"></span>
+                    </div>
+                    <div class='error'>{{ form.errors.password2 }}</div>
+
+                </div>
+
+                <div class="form-group">
+                    {% if request.user.is_admin %}
+                        <button type="submit" class="btn btn-info btn-lg btn-block">Add Admin</button>
+
+                    {% else %}
+                        <button type="submit" class="btn btn-success btn-lg btn-block">REGISTER</button>
+
+                    {% endif %}
+                </div>
+
+            </form>
+            {% if request.user.is_admin %}
+                <div class="text-center"><b> Don't want to add admin?</b><a href="{% url 'adminpanel' %}"><b> Go
+                    Back </b></a></div>
+
+            {% else %}
+                <div class="text-center"><b> Already have an account ? </b><a href="/login"><b> Login </b></a></div>
+
+            {% endif %}
+
+        </div>
+
+    </div>
+
+    <!-- For show password eye-type icon  -->
+    <script>
+        $(".toggle-password").click(function () {
+
+
+            $(this).toggleClass("fa-eye fa-eye-slash");
+            var input = $($(this).attr("toggle"));
+            if (input.attr("type") == "password") {
+                input.attr("type", "text");
+            } else {
+                input.attr("type", "password");
+            }
+        });
+
+
+    </script>
+
+
+{% endblock %}

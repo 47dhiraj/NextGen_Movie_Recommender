@@ -1,0 +1,144 @@
+{% extends 'movie_admin/admin_base.html' %}
+{% load static %}
+
+
+{% block body %}
+    {% block style %}
+        <style>
+            .dataTables_filter, .pagination {
+                float: right;
+            }
+
+            .table td {
+                vertical-align: middle
+            }
+
+
+        </style>
+    {% endblock %}
+    <div class="breadcrumbs">
+        <div class="col-sm-4">
+            <div class="page-header float-left">
+                <div class="page-title">
+                    <h1>Dashboard</h1>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-8">
+            <div class="page-header float-right">
+                <div class="page-title">
+                    <ol class="breadcrumb text-right">
+                        <li><a href="{% url 'adminhome' %}">Dashboard</a></li>
+                        <li class="active">Movie's List</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="content mt-3">
+        <div class="animated fadeIn">
+            <div class="row">
+
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <strong class="card-title">Movies's Detail</strong>
+                            <span class="float-right">
+                                <a href="{% url 'add_movies' %}" class="btn btn-info">Add Movies</a>
+                            </span>
+                        </div>
+                        <div class="card-body">
+                            <table id="bootstrap-data-table-export"
+                                   class="table  table-bordered table-hover text-center">
+                                <thead>
+                                <tr>
+                                    <th>Title</th>
+                                    <th>Genre</th>
+                                    <th>IMDB Rating</th>
+                                    <th>Year</th>
+                                    <th>Action</th>
+
+                                </tr>
+                                </thead>
+                                <tbody>
+                                {% for movie in all_movies|slice:200 %}
+                                    <tr>
+                                        <td>
+                                            <img src="{{ movie.poster.url }}" alt="movie_image" width="80"><br>
+                                            {{ movie.title }}</td>
+                                        <td>{{ movie.genre }}</td>
+                                        <td><i class="fa fa-star" aria-hidden="true"
+                                               style="color: gold"></i> {{ movie.imdbrating }}</td>
+                                        <td>{{ movie.year }}</td>
+                                        <td>
+                                            {#                                            {% url 'edit_movie' movie.id %}#}
+
+
+                                            <div class="dropdown float-right">
+                                                <button class="btn bg-secondary btn-sm dropdown-toggle theme-toggle text-light"
+                                                        type="button" id="dropdownMenuButton3" data-toggle="dropdown">
+                                                    Action
+                                                </button>
+                                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton3">
+                                                    <div class="dropdown-menu-content">
+                                                        <a class="dropdown-item" href="{% url 'edit_movies' movie.id %}"><i class="fa fa-edit"></i> Edit</a>
+                                                        <form action="{% url 'delete_movies' movie.id %}" method="POST">
+                                                            {% csrf_token %}
+                                                            <button class="dropdown-item"
+                                                               style="color: #ff0000; cursor: pointer"  onclick="deleteFunction()"
+                                                               type="submit"><i class="fa fa-fw fa-trash"></i>
+                                                                Delete
+                                                            </button>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </td>
+                                    </tr>
+                                {% endfor %}
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div><!-- .animated -->
+    </div><!-- .content -->
+    {% block script %}
+
+        <!-- Sweet alert Link -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+        <link rel="stylesheet" type="text/css"
+              href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+        <script>
+            function deleteFunction() {
+                event.preventDefault(); // prevent form submit
+                let form = event.target.form; // storing the form
+                swal({
+                        title: "Are you sure you want to delete  this Movie?",
+                        text: "Once it's done it can't be undone.",
+                        type: "warning",
+                        showCancelButton: true,
+                        cancelButtonColor: "#FFF",
+                        confirmButtonColor: "#dd6b55",
+                        confirmButtonText: "Yes, Delete it!",
+                        cancelButtonText: "No, cancel please!",
+                        closeOnConfirm: false,
+                        closeOnCancel: false
+                    },
+                    function (isConfirm) {
+                        if (isConfirm) {
+                            form.submit();          // submitting the form when user press yes
+                        } else {
+                            swal("Cancelled", "Movie not deleted. ", "error");
+                        }
+                    });
+            }
+        </script>
+    {% endblock %}
+{% endblock %}

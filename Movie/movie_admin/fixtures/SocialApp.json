@@ -1,0 +1,60 @@
+[
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "facebook",
+        "client_id": "781354872450988",
+        "secret": "8b68e68f7ad2b1886ca3876ddc5f6c57",
+        "key": "",
+        "sites": [
+            1
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "36748409319-d4qg7a428bg328costtp85eme8atle04.apps.googleusercontent.com",
+        "secret": "8s_tpmi3jTtiJ6TMcK99WJO1",
+        "key": "",
+        "sites": [
+            1
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 3,
+    "fields": {
+        "provider": "facebook",
+        "name": "facebook",
+        "client_id": "781354872450988",
+        "secret": "8b68e68f7ad2b1886ca3876ddc5f6c57",
+        "key": "",
+        "sites": [
+            2
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 4,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "36748409319-d4qg7a428bg328costtp85eme8atle04.apps.googleusercontent.com",
+        "secret": "8s_tpmi3jTtiJ6TMcK99WJO1",
+        "key": "",
+        "sites": [
+            2
+        ]
+    }
+}
+
+
+]

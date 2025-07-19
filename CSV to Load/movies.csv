@@ -1,0 +1,2826 @@
+id,title,genre,poster,imdbrating,year
+1,10 Cloverfield Lane,Thriller,10CloverfieldLane.jpg,7.2,2016
+2,13 Hours,Drama,13Hours.jpg,7.3,2016
+3,50 50,Comedy,5050.jpg,8.3,2016
+4,Arrival,Sci-Fi,Arrival.jpg,7.9,2016
+5,Batman v Superman Dawn of Justice,Action Adventure Fantasy Sci-Fi,BatmanvSupermanDawnofJustice.jpg,6.5,2016
+6,Captain America Civil War,Action Sci-Fi,CaptainAmericaCivilWar.jpg,7.8,2016
+7,Contact,Drama Sci-Fi,Contact.jpg,7.9,2016
+8,Deadpool,Action Comedy Sci-Fi,Deadpool.jpg,8,2016
+9,Doctor Strange,Sci-Fi,DoctorStrange.jpg,7.5,2016
+10,Don't Breathe,Thriller,Don'tBreathe.jpg,7.1,2016
+11,Fantastic Beasts and Where to Find Them,Fantasy,FantasticBeastsandWheretoFindThem.jpg,7.3,2016
+12,Finding Dory,Animation Comedy,FindingDory.jpg,7.3,2016
+13,Hacksaw Ridge,War,HacksawRidge.jpg,8.1,2016
+14,Hail Caesar!,Comedy,HailCaesar!.jpg,6.3,2016
+15,Hell or High Water,Crime Drama,HellorHighWater.jpg,7.6,2016
+16,Hidden Figures,Drama,HiddenFigures.jpg,7.8,2016
+17,Hush,Thriller,Hush.jpg,6.6,2016
+18,Inferno,Mystery Thriller,Inferno.jpg,6.2,2016
+19,Jason Bourne,Action,JasonBourne.jpg,6.6,2016
+20,Kubo and the Two Strings,Animation Children Fantasy,KuboandtheTwoStrings.jpg,7.8,2016
+21,Kung Fu Panda 3,Animation,KungFuPanda3.jpg,7.1,2016
+22,La La Land,Comedy,LaLaLand.jpg,8,2016
+23,Manchester by the Sea,Drama,ManchesterbytheSea.jpg,7.8,2016
+24,Moana,Animation Children Comedy Fantasy,Moana.jpg,7.6,2016
+25,Neighbors 2 Sorority Rising,Comedy,Neighbors2SororityRising.jpg,5.7,2016
+26,Now You See Me 2,Action Comedy Thriller,NowYouSeeMe2.jpg,6.5,2016
+27,Passengers,Adventure Drama Romance Sci-Fi,Passengers.jpg,7,2016
+28,Rogue One A Star Wars Story,Action Adventure Fantasy Sci-Fi,RogueOneAStarWarsStory.jpg,7.8,2016
+29,Sausage Party,Animation Comedy Fantasy,SausageParty.jpg,7.3,2016
+30,Star Trek Beyond,Sci-Fi,StarTrekBeyond.jpg,7.3,2016
+31,Suicide Squad,Action Sci-Fi,SuicideSquad.jpg,6.6,2016
+32,The Conjuring,Horror,TheConjuring2.jpg,7.5,2016
+33,The Jungle Book,Adventure Drama Family Fantasy,TheJungleBook.jpg,7.5,2016
+34,The Legend of Tarzan,Action Adventure Romance,TheLegendofTarzan.jpg,6.2,2016
+35,The Secret Life of Pets,Animation,TheSecretLifeofPets.jpg,6.4,2016
+36,Warcraft,Action,Warcraft.jpg,7.1,2016
+37,X-Men Apocalypse,Sci-Fi,X-MenApocalypse.jpg,7.1,2016
+38,American Ultra,Action Comedy Sci-Fi Thriller,AmericanUltra.jpg,6.1,2015
+39,Ant-Man,Sci-Fi,Ant-Man.jpg,7.3,2015
+40,Avengers Age of Ultron,Sci-Fi,AvengersAgeofUltron.jpg,7.3,2015
+41,Blind Date,Comedy Romance,BlindDate.jpg,5.1,2015
+42,Bridge of Spies,Drama Thriller,BridgeofSpies.jpg,7.6,2015
+43,Chappie,Action Thriller,Chappie.jpg,6.8,2015
+44,Cinderella,Animation Children Fantasy Musical Romance,Cinderella.jpg,6.9,2015
+45,Crazy Beautiful,Drama Romance,CrazyBeautiful.jpg,7.2,2015
+46,Creed,Drama,Creed.jpg,7.6,2015
+47,Daddy's Home,Comedy,Daddy'sHome.jpg,6.2,2015
+48,Dope,Comedy,Dope.jpg,7.2,2015
+49,Everest,Adventure Drama Thriller,Everest.jpg,7.1,2015
+50,Fantastic Four,Sci-Fi,FantasticFour.jpg,4.3,2015
+51,Focus,Comedy Crime Romance,Focus.jpg,6.6,2015
+52,Furious 7,Action,Furious7.jpg,7.1,2015
+53,Get Hard,Comedy Crime,GetHard.jpg,6,2015
+54,Heist,Crime Drama,Heist.jpg,6.1,2015
+55,Home,Documentary,Home.jpg,6.6,2015
+56,Inside Out,Animation Children Comedy Fantasy,InsideOut.jpg,8.1,2015
+57,Insurgent,Action Sci-Fi,Insurgent.jpg,6.2,2015
+58,Jurassic World,Action Thriller,JurassicWorld.jpg,7,2015
+59,Kung Fury,Action Comedy Fantasy Sci-Fi,KungFury.jpg,8,2015
+60,Love and Death,Comedy,LoveandDeath.jpg,6.9,2015
+61,Macbeth,Drama,Macbeth.jpg,6.6,2015
+62,Mad Max Fury Road,Action Thriller,MadMaxFuryRoad.jpg,8.1,2015
+63,Me and Earl and the Dying Girl,Drama,MeandEarlandtheDyingGirl.jpg,7.7,2015
+64,Minions,Animation Children Comedy,Minions.jpg,6.4,2015
+65,Pitch Perfect 2,Comedy,PitchPerfect2.jpg,6.4,2015
+66,Pixels,Action Comedy Sci-Fi,Pixels.jpg,5.5,2015
+67,Room,Drama,Room.jpg,8.2,2015
+68,Sicario,Action Mystery Thriller,Sicario.jpg,7.3,2015
+69,Southpaw,Drama Sport,Southpaw.jpg,7.3,2015
+70,Spectre,Action,Spectre.jpg,6.4,2015
+71,Spotlight,Biography Crime Drama History,Spotlight.jpg,8,2015
+72,Steve Jobs,Biography Drama,SteveJobs.jpg,6.9,2015
+73,Straight Outta Compton,Biography Crime Drama History Music,StraightOuttaCompton.jpg,7.8,2015
+74,Ted 2,Comedy,Ted2.jpg,6,2015
+75,Terminator Genisys,Sci-Fi,TerminatorGenisys.jpg,6.2,2015
+76,The Big Short,Biography Comedy History,TheBigShort.jpg,7.5,2015
+77,The Craft,Drama Fantasy Horror Thriller,CraftThe.jpg,6.8,2015
+78,The DUFF,Comedy,TheDUFF.jpg,6.2,2015
+79,The Gift,Thriller,GiftThe.jpg,7,2015
+80,The Hateful Eight,Crime Western,TheHatefulEight.jpg,7.8,2015
+81,The Hunger Games Mockingjay - Part 2,Adventure Sci-Fi,TheHungerGamesMockingjay-Part2.jpg,6.2,2015
+82,The Intern,Comedy,TheIntern.jpg,6.9,2015
+83,The Man from U.N.C.L.E.,Action,TheManfromU.N.C.L.E..jpg,7.1,2015
+84,The Martian,Sci-Fi,TheMartian.jpg,8,2015
+85,The Paper,Comedy,PaperThe.jpg,6.3,2015
+86,The Revenant,Adventure Drama Thriller Western,TheRevenant.jpg,8,2015
+87,Tomorrowland,Action Adventure Family Mystery Sci-Fi,Tomorrowland.jpg,6.2,2015
+88,Trainwreck,Comedy,Trainwreck.jpg,6,2015
+89,Vacation,Adventure Comedy,Vacation.jpg,5.7,2015
+90,22 Jump Street,Comedy Crime,22JumpStreet.jpg,7,2014
+91,A Million Ways to Die in the West,Comedy Western,AMillionWaystoDieintheWest.jpg,6.1,2014
+92,American Sniper,War,AmericanSniper.jpg,7.3,2014
+93,Big Hero 6,Animation Comedy,BigHero6.jpg,7.8,2014
+94,Blended,Comedy,Blended.jpg,6.5,2014
+95,Boyhood,Drama,Boyhood.jpg,7.9,2014
+96,Captain America The Winter Soldier,Sci-Fi,CaptainAmericaTheWinterSoldier.jpg,7.7,2014
+97,Dawn of the Planet of the Apes,Sci-Fi,DawnofthePlanetoftheApes.jpg,7.6,2014
+98,Divergent,Adventure Romance Sci-Fi,Divergent.jpg,6.7,2014
+99,Edge of Tomorrow,Action Sci-Fi,EdgeofTomorrow.jpg,7.9,2014
+100,Enigma,Romance Thriller,Enigma.jpg,8,2014
+101,Ex Machina,Drama Sci-Fi Thriller,ExMachina.jpg,7.7,2014
+102,Flowers in the Attic,Drama Thriller,FlowersintheAttic.jpg,6.1,2014
+103,Fury,War,Fury.jpg,7.6,2014
+104,Godzilla,Action Sci-Fi,Godzilla.jpg,6.4,2014
+105,Gone Girl,Drama Thriller,GoneGirl.jpg,8.1,2014
+106,Guardians of the Galaxy,Sci-Fi,GuardiansoftheGalaxy.jpg,8,2014
+107,Horrible Bosses 2,Comedy Crime,HorribleBosses2.jpg,6.3,2014
+108,How to Train Your Dragon 2,Animation,HowtoTrainYourDragon2.jpg,7.8,2014
+109,Inherent Vice,Comedy Crime Mystery Romance,InherentVice.jpg,6.7,2014
+110,Interstellar,Sci-Fi,Interstellar.jpg,8.6,2014
+111,Invincible,Drama,Invincible.jpg,7.2,2014
+112,John Wick,Action Thriller,JohnWick.jpg,7.4,2014
+113,Kingsman The Secret Service,Action Comedy Crime,KingsmanTheSecretService.jpg,7.7,2014
+114,Let's Be Cops,Comedy Crime,Let'sBeCops.jpg,6.4,2014
+115,Lucy,Action Sci-Fi,Lucy.jpg,6.4,2014
+116,Maleficent,Action Adventure Children IMAX,Maleficent.jpg,7,2014
+117,Neighbors,Comedy,Neighbors.jpg,6.3,2014
+118,Night at the Museum Secret of the Tomb,Adventure Children Comedy Fantasy,NightattheMuseumSecretoftheTomb.jpg,6.2,2014
+119,Nightcrawler,Crime,Nightcrawler.jpg,7.9,2014
+120,Noah,Adventure Drama IMAX,Noah.jpg,5.7,2014
+121,Penguins of Madagascar,Animation Children Comedy,PenguinsofMadagascar.jpg,6.7,2014
+122,Predestination,Action Mystery Sci-Fi Thriller,Predestination.jpg,7.5,2014
+123,Ride Along,Action Comedy,RideAlong.jpg,6.2,2014
+124,Sex Tape,Comedy,SexTape.jpg,4.6,2014
+125,Still Alice,Drama,StillAlice.jpg,7.3,2014
+126,Taken 3,Action Thriller,Taken3.jpg,5.5,2014
+127,Teenage Mutant Ninja Turtles,Action Sci-Fi,TeenageMutantNinjaTurtles.jpg,5.5,2014
+128,The Amazing Spider-Man 2,Action Sci-Fi,TheAmazingSpider-Man2.jpg,6.4,2014
+129,The Equalizer,Action,TheEqualizer.jpg,6.9,2014
+130,The Fault in Our Stars,Drama Romance,TheFaultinOurStars.jpg,7.5,2014
+131,The Giver,Drama Romance Sci-Fi,TheGiver.jpg,6.2,2014
+132,The Grand Budapest Hotel,Adventure Comedy Crime,TheGrandBudapestHotel.jpg,8,2014
+133,The Hobbit The Battle of the Five Armies,Adventure Fantasy,TheHobbitTheBattleoftheFiveArmies.jpg,7.3,2014
+134,The Hunger Games Mockingjay - Part 1,Adventure Sci-Fi Thriller,TheHungerGamesMockingjay-Part1.jpg,6.4,2014
+135,The Imitation Game,Biography War,TheImitationGame.jpg,8,2014
+136,The Interview,Comedy,TheInterview.jpg,6.2,2014
+137,The Lego Movie,Animation,TheLegoMovie.jpg,7.5,2014
+138,The Maze Runner,Action Mystery Sci-Fi,TheMazeRunner.jpg,6.8,2014
+139,The Monuments Men,War,TheMonumentsMen.jpg,5.7,2014
+140,The Other Woman,Comedy,TheOtherWoman.jpg,5.5,2014
+141,The Purge Anarchy,Sci-Fi,ThePurgeAnarchy.jpg,6.2,2014
+142,The Theory of Everything,Biography Drama Romance,TheTheoryofEverything.jpg,7.5,2014
+143,Transcendence,Drama Mystery Romance Sci-Fi Thriller,Transcendence.jpg,6,2014
+144,Whiplash,Drama Music,Whiplash.jpg,8.4,2014
+145,Wild,Adventure Biography Drama,Wild.jpg,6.9,2014
+146,X-Men Days of Future Past,Sci-Fi,X-MenDaysofFuturePast.jpg,7.8,2014
+147,12 Years a Slave,Drama,12YearsaSlave.jpg,8.1,2013
+148,47 Ronin,Action Adventure Fantasy,47Ronin.jpg,6.3,2013
+149,A Good Day to Die Hard,Action IMAX,GoodDaytoDieHardA.jpg,5.3,2013
+150,About Time,Drama Fantasy Romance,AboutTime.jpg,7.8,2013
+151,American Hustle,Crime Drama,AmericanHustle.jpg,7.2,2013
+152,Anchorman 2 The Legend Continues,Comedy,Anchorman2TheLegendContinues.jpg,6.3,2013
+153,Batman The Dark Knight Returns Part 2,Animation,BatmanTheDarkKnightReturnsPart2.jpg,8.4,2013
+154,Captain Phillips,Adventure Drama Thriller IMAX,CaptainPhillips.jpg,7.8,2013
+155,Dallas Buyers Club,Drama,DallasBuyersClub.jpg,8,2013
+156,Despicable Me 2,Animation Children Comedy IMAX,DespicableMe2.jpg,7.3,2013
+157,Don Jon,Comedy,DonJon.jpg,6.5,2013
+158,Elysium,Action Sci-Fi,Elysium.jpg,6.6,2013
+159,Ender's Game,Sci-Fi,Ender'sGame.jpg,6.6,2013
+160,Enemy,Mystery Thriller,Enemy.jpg,6.9,2013
+161,Fast & Furious 6,Action IMAX,Fast&Furious6.jpg,7.1,2013
+162,Grand Illusion,War,GrandIllusion.jpg,7.3,2013
+163,Gravity,Action Sci-Fi,Gravity.jpg,7.7,2013
+164,Grown Ups 2,Comedy,GrownUps2.jpg,5.4,2013
+165,Hansel & Gretel Witch Hunters,Action Fantasy Horror IMAX,Hansel&GretelWitchHunters.jpg,6.1,2013
+166,Her,Drama Romance Sci-Fi,Her.jpg,8,2013
+167,Inside Llewyn Davis,Drama,InsideLlewynDavis.jpg,7.5,2013
+168,Iron Man 3,Action Sci-Fi,IronMan3.jpg,7.2,2013
+169,Jack the Giant Slayer,Adventure Fantasy IMAX,JacktheGiantSlayer.jpg,6.2,2013
+170,Kick-Ass 2,Comedy Crime,Kick-Ass2.jpg,6.5,2013
+171,Man of Steel,Action Adventure Fantasy Sci-Fi,ManofSteel.jpg,7,2013
+172,Monsters University,Animation Comedy,MonstersUniversity.jpg,7.3,2013
+173,Now You See Me,Crime Mystery Thriller,NowYouSeeMe.jpg,7.3,2013
+174,Oblivion,Sci-Fi,Oblivion.jpg,7,2013
+175,Olympus Has Fallen,Action Thriller,OlympusHasFallen.jpg,6.5,2013
+176,Oz the Great and Powerful,Action Adventure Fantasy IMAX,OztheGreatandPowerful.jpg,6.3,2013
+177,Pacific Rim,Sci-Fi,PacificRim.jpg,6.9,2013
+178,Pain & Gain,Comedy Crime,Pain&Gain.jpg,6.4,2013
+179,Prisoners,Drama Mystery Thriller,Prisoners.jpg,8.1,2013
+180,Rush,Action Biography Drama Sport,Rush.jpg,8,2013
+181,Saving Mr. Banks,Biography Comedy History Music,SavingMr.Banks.jpg,7.3,2013
+182,Side Effects,Crime,SideEffects.jpg,6.9,2013
+183,Sleepy Hollow,Adventure Drama Fantasy Mystery Thriller,SleepyHollow.jpg,7.3,2013
+184,Snowpiercer,Sci-Fi,Snowpiercer.jpg,6.6,2013
+185,Star Trek Into Darkness,Sci-Fi,StarTrekIntoDarkness.jpg,7.5,2013
+186,The Best Offer,Crime Romance,TheBestOffer.jpg,7.5,2013
+187,The Croods,Animation Fantasy,TheCroods.jpg,7.1,2013
+188,The Great Gatsby,Drama Romance,TheGreatGatsby.jpg,7.1,2013
+189,The Heat,Action,TheHeat.jpg,6.2,2013
+190,The HobbitThe Desolation of Smaug,Adventure Fantasy,TheHobbitTheDesolationofSmaug.jpg,7.8,2013
+191,The Hunger Games Catching Fire,Adventure Sci-Fi Thriller,TheHungerGamesCatchingFire.jpg,7.3,2013
+192,The Internship,Comedy,TheInternship.jpg,6,2013
+193,The Lone Ranger,Action Adventure Western,TheLoneRanger.jpg,6.2,2013
+194,The Secret Life of Walter Mitty,Adventure Comedy Fantasy Romance,TheSecretLifeofWalterMitty.jpg,7.1,2013
+195,The Wolf of Wall Street,Biography Comedy Crime,TheWolfofWallStreet.jpg,8,2013
+196,The Wolverine,Sci-Fi,TheWolverine.jpg,6.4,2013
+197,The World's End,Action,TheWorld'sEnd.jpg,6.6,2013
+198,This Is the End,Comedy Fantasy,ThisIstheEnd.jpg,6.4,2013
+199,Thor The Dark World,Action,ThorTheDarkWorld.jpg,6.9,2013
+200,Warm Bodies,Comedy Horror Romance,WarmBodies.jpg,6.6,2013
+201,We're the Millers,Comedy Crime,We'retheMillers.jpg,6.6,2013
+202,White House Down,Action Drama Thriller,WhiteHouseDown.jpg,6,2013
+203,World War Z,Action Adventure Horror,WorldWarZ.jpg,6.6,2013
+204,Zulu,Crime,Zulu.jpg,6.4,2013
+205,21 Jump Street,Comedy Crime,21JumpStreet.jpg,7.2,2012
+206,Abraham Lincoln Vampire Hunter,Action Fantasy Horror Thriller,AbrahamLincolnVampireHunter.jpg,5.9,2012
+207,Argo,Drama Thriller,Argo.jpg,7.7,2012
+208,Batman The Dark Knight Returns Part 1,Animation Sci-Fi,BatmanTheDarkKnightReturnsPart1.jpg,8,2012
+209,Beasts of the Southern Wild,Drama Fantasy,BeastsoftheSouthernWild.jpg,7.3,2012
+210,Brave,Animation Children,Brave.jpg,7.1,2012
+211,Chronicle,Action Sci-Fi,Chronicle.jpg,7,2012
+212,Cloud Atlas,Drama Sci-Fi,CloudAtlas.jpg,7.4,2012
+213,Dark Shadows,Comedy Horror IMAX,DarkShadows.jpg,6.2,2012
+214,Django Unchained,Action Drama Western,DjangoUnchained.jpg,8.4,2012
+215,Dr. Seuss' The Lorax,Animation Fantasy Musical IMAX,Dr.Seuss'TheLorax.jpg,6.4,2012
+216,Dredd,Action Sci-Fi,Dredd.jpg,7.1,2012
+217,End of Watch,Crime,EndofWatch.jpg,7.6,2012
+218,Flight,Drama,Flight.jpg,7.3,2012
+219,Here Comes the Boom,Action Comedy,HereComestheBoom.jpg,6.4,2012
+220,Hotel Transylvania,Animation Children Comedy,HotelTransylvania.jpg,7.1,2012
+221,Ice Age 4 Continental Drift,Animation Comedy,IceAgeContinentalDrift.jpg,6.6,2012
+222,Jack Reacher,Action,JackReacher.jpg,7,2012
+223,John Carter,Sci-Fi,JohnCarter.jpg,6.6,2012
+224,Judge Dredd,Action Crime Sci-Fi,JudgeDredd.jpg,7.1,2012
+225,Life of Pi,Adventure Drama IMAX,LifeofPi.jpg,7.9,2012
+226,Looper,Action Crime Sci-Fi,Looper.jpg,7.4,2012
+227,Madagascar 3 Europe's Most Wanted,Animation Children Comedy IMAX,Madagascar3Europe'sMostWanted.jpg,6.8,2012
+228,Magic Mike,Drama Romance,MagicMike.jpg,6.1,2012
+229,Men in Black III,Action Comedy Sci-Fi,MeninBlackIII.jpg,6.8,2012
+230,Moonrise Kingdom,Comedy,MoonriseKingdom.jpg,7.8,2012
+231,Paperman,Animation Comedy,Paperman.jpg,8.3,2012
+232,Pitch Perfect,Comedy Musical,PitchPerfect.jpg,7.2,2012
+233,Premium Rush,Action Thriller,PremiumRush.jpg,6.5,2012
+234,Project X,Comedy,ProjectX.jpg,6.6,2012
+235,Prometheus,Sci-Fi,Prometheus.jpg,7,2012
+236,Rise of the Guardians,Animation Children Fantasy IMAX,RiseoftheGuardians.jpg,7.3,2012
+237,Safe,Action,Safe.jpg,6.2,2012
+238,Safety Not Guaranteed,Comedy,SafetyNotGuaranteed.jpg,6.6,2012
+239,Seven Psychopaths,Comedy Crime,SevenPsychopaths.jpg,6.9,2012
+240,Silver Linings Playbook,Comedy,SilverLiningsPlaybook.jpg,7.5,2012
+241,Skyfall,Action,Skyfall.jpg,7.5,2012
+242,Snow White and the Huntsman,Action Adventure Fantasy,SnowWhiteandtheHuntsman.jpg,5.7,2012
+243,Taken 2,Action,Taken2.jpg,6,2012
+244,Ted,Comedy Fantasy,Ted.jpg,6.6,2012
+245,The Amazing Spider-Man,Action,TheAmazingSpider-Man.jpg,6.6,2012
+246,The Avengers,Sci-Fi,TheAvengers.jpg,8,2012
+247,The Bourne Legacy,Action,TheBourneLegacy.jpg,6.4,2012
+248,The Campaign,Comedy,CampaignThe.jpg,6.1,2012
+249,The Dark Knight Rises,Action Thriller,TheDarkKnightRises.jpg,8.4,2012
+250,The Dictator,Comedy,TheDictator.jpg,6,2012
+251,The Expendables 2,Action,TheExpendables2.jpg,6.4,2012
+252,The Hobbit An Unexpected Journey,Adventure Fantasy,TheHobbitAnUnexpectedJourney.jpg,7.8,2012
+253,The Hunger Games,Sci-Fi,TheHungerGames.jpg,7.1,2012
+254,The Hunt,Drama,TheHunt.jpg,8.2,2012
+255,The Killing,Crime Film-Noir,KillingThe.jpg,6.2,2012
+256,The Mask,Comedy Crime Fantasy,MaskThe.jpg,5.6,2012
+257,The Master,Drama,TheMaster.jpg,6.9,2012
+258,The Perks of Being a Wallflower,Drama Romance,ThePerksofBeingaWallflower.jpg,7.8,2012
+259,The Place Beyond the Pines,Crime,ThePlaceBeyondthePines.jpg,7.1,2012
+260,The Watch,Action,TheWatch.jpg,5.3,2012
+261,This Is 40,Comedy,ThisIs40.jpg,5.7,2012
+262,This Means War,Action Comedy,ThisMeansWar.jpg,6,2012
+263,Underworld Awakening,Action Fantasy Horror,UnderworldAwakening.jpg,6,2012
+264,Wanderlust,Comedy,Wanderlust.jpg,5.1,2012
+265,Wreck-It Ralph,Animation Sci-Fi,Wreck-ItRalph.jpg,7.5,2012
+266,Zero Dark Thirty,War,ZeroDarkThirty.jpg,7.1,2012
+267,30 Minutes or Less,Comedy Crime,30MinutesorLess.jpg,6.1,2011
+268,Attack the Block,Action Comedy Sci-Fi,AttacktheBlock.jpg,6.6,2011
+269,Bad Teacher,Comedy,BadTeacher.jpg,5.6,2011
+270,Bridesmaids,Comedy,Bridesmaids.jpg,6.8,2011
+271,Captain America The First Avenger,Action Thriller War,CaptainAmericaTheFirstAvenger.jpg,6.9,2011
+272,Colombiana,Action Thriller,Colombiana.jpg,6.4,2011
+273,Contagion,Sci-Fi Thriller IMAX,Contagion.jpg,6.7,2011
+274,Cowboys & Aliens,Action Sci-Fi Western IMAX,Cowboys&Aliens.jpg,6,2011
+275,Crazy Stupid,Comedy,CrazyStupid.jpg,7.4,2011
+276,Fast Five,Action Crime IMAX,FastFive.jpg,7.3,2011
+277,Friends with Benefits,Comedy,FriendswithBenefits.jpg,6.5,2011
+278,Ghost Rider Spirit of Vengeance,Action Fantasy Thriller,GhostRiderSpiritofVengeance.jpg,4.3,2011
+279,Green Lantern,Sci-Fi,GreenLantern.jpg,5.5,2011
+280,Harry Potter and the Deathly Hallows Part II,Action Adventure Fantasy Mystery IMAX,HarryPotterandtheDeathlyHallowsPartII.jpg,7,2011
+281,Headhunters,Action,Headhunters.jpg,7.5,2011
+282,Horrible Bosses,Comedy Crime,HorribleBosses.jpg,6.9,2011
+283,Hugo,Children Drama Mystery,Hugo.jpg,7.5,2011
+284,I Am Number Four,Action Sci-Fi,IAmNumberFour.jpg,6.1,2011
+285,In Time,Crime Sci-Fi Thriller,InTime.jpg,6.7,2011
+286,Intouchables,Comedy,Intouchables.jpg,8.5,2011
+287,Jack and Jill,Comedy,JackandJill.jpg,3.3,2011
+288,Jane Eyre,Drama Romance,JaneEyre.jpg,7.3,2011
+289,Jiro Dreams of Sushi,Documentary,JiroDreamsofSushi.jpg,7.9,2011
+290,Johnny English Reborn,Adventure Comedy Thriller,JohnnyEnglishReborn.jpg,6.3,2011
+291,Just Go with It,Comedy,JustGowithIt.jpg,6.4,2011
+292,Kung Fu Panda 2,Animation Children Comedy IMAX,KungFuPanda2.jpg,7.2,2011
+293,Limitless,Sci-Fi Thriller,Limitless.jpg,7.4,2011
+294,Louis C.K. Live at the Beacon Theater,Comedy,LouisC.K.LiveattheBeaconTheater.jpg,8.4,2011
+295,Manhattan,Comedy,Manhattan.jpg,7,2011
+296,Margin Call,Drama Thriller,MarginCall.jpg,7.1,2011
+297,Melancholia,Drama Sci-Fi,Melancholia.jpg,7.2,2011
+298,Midnight in Paris,Comedy Fantasy Romance,MidnightinParis.jpg,7.7,2011
+299,Mission Impossible - Ghost Protocol,Action Thriller IMAX,MissionImpossible-GhostProtocol.jpg,7.4,2011
+300,Moneyball,Drama,Moneyball.jpg,7.6,2011
+301,Mr. Popper's Penguins,Comedy,Mr.Popper'sPenguins.jpg,6,2011
+302,No Strings Attached,Comedy,NoStringsAttached.jpg,6.2,2011
+303,Pirates of the Caribbean On Stranger Tides,Action Adventure Fantasy IMAX,PiratesoftheCaribbeanOnStrangerTides.jpg,6.6,2011
+304,Priest,Drama,Priest.jpg,5.7,2011
+305,Puss in Boots,Animation Comedy Fantasy IMAX,PussinBoots.jpg,6.6,2011
+306,Rango,Animation Children Comedy Western,Rango.jpg,7.2,2011
+307,Real Steel,Action Sci-Fi,RealSteel.jpg,7.1,2011
+308,Rise of the Planet of the Apes,Action Thriller,RiseofthePlanetoftheApes.jpg,7.6,2011
+309,Shame,Drama,Shame.jpg,7.1,2011
+310,Sherlock Holmes A Game of Shadows,Action Adventure Crime Mystery Thriller,SherlockHolmesAGameofShadows.jpg,7.3,2011
+311,Source Code,Mystery Sci-Fi Thriller,SourceCode.jpg,7.3,2011
+312,Straw Dogs,Action Drama Thriller,StrawDogs.jpg,5.3,2011
+313,Sucker Punch,Action Fantasy,SuckerPunch.jpg,5.7,2011
+314,Super 8,Mystery Sci-Fi Thriller,Super8.jpg,6.9,2011
+315,The Adjustment Bureau,Romance Sci-Fi Thriller,TheAdjustmentBureau.jpg,6.9,2011
+316,The Adventures of Tintin,Action Adventure Family Mystery,TheAdventuresofTintin.jpg,7.1,2011
+317,The Artist,Comedy,TheArtist.jpg,7.8,2011
+318,The Change-Up,Comedy,Change-UpThe.jpg,6.3,2011
+319,The Descendants,Comedy,TheDescendants.jpg,7.1,2011
+320,The Girl with the Dragon Tattoo,Crime,TheGirlwiththeDragonTattoo.jpg,7.5,2011
+321,The Green Hornet,Sci-Fi,TheGreenHornet.jpg,5.3,2011
+322,The Grey,Action,TheGrey.jpg,6.4,2011
+323,The Hangover Part II,Comedy,TheHangoverPartII.jpg,6.2,2011
+324,The Help,Drama,TheHelp.jpg,8,2011
+325,The Ides of March,Drama,TheIdesofMarch.jpg,6.9,2011
+326,The Lincoln Lawyer,Crime,TheLincolnLawyer.jpg,7.1,2011
+327,The Muppets,Children Comedy Musical,MuppetsThe.jpg,7.1,2011
+328,The Raid Redemption,Action,TheRaidRedemption.jpg,7.3,2011
+329,The Sitter,Comedy,TheSitter.jpg,5.3,2011
+330,Thor,Action,Thor.jpg,6.6,2011
+331,Tinker Tailor Soldier Spy,Drama Mystery Thriller,TinkerTailorSoldierSpy.jpg,6.9,2011
+332,Transformers Dark of the Moon,Sci-Fi,TransformersDarkoftheMoon.jpg,6,2011
+333,Unknown,Action Mystery Thriller,Unknown.jpg,6.6,2011
+334,Warrior,Drama Sport,Warrior.jpg,8,2011
+335,We Bought a Zoo,Comedy,WeBoughtaZoo.jpg,6.9,2011
+336,X-Men First Class,Sci-Fi,X-MenFirstClass.jpg,7.5,2011
+337,Your Highness,Adventure Comedy Fantasy,YourHighness.jpg,5.1,2011
+338,127 Hours,Adventure Drama Thriller,127Hours.jpg,7.6,2010
+339,Alice,Comedy Fantasy Romance,Alice.jpg,6.4,2010
+340,Alice in Wonderland,Animation Children Fantasy Musical,AliceinWonderland.jpg,6.4,2010
+341,Black Swan,Drama Thriller,BlackSwan.jpg,8,2010
+342,Blue Valentine,Drama Romance,BlueValentine.jpg,7.4,2010
+343,Clash of the Titans,Action Adventure Fantasy,ClashoftheTitans.jpg,5.8,2010
+344,Cop Out,Comedy Crime,CopOut.jpg,5.6,2010
+345,Date Night,Action Comedy,DateNight.jpg,6.3,2010
+346,Day & Night,Animation Children,Day&Night.jpg,8.1,2010
+347,Despicable Me,Animation Children Comedy Crime,DespicableMe.jpg,7.6,2010
+348,Dinner for Schmucks,Comedy,DinnerforSchmucks.jpg,5.9,2010
+349,Diva,Action Drama Mystery Romance Thriller,Diva.jpg,6.4,2010
+350,Due Date,Comedy,DueDate.jpg,6.5,2010
+351,Easy A,Comedy,EasyA.jpg,7.1,2010
+352,Elite Squad The Enemy Within,Action Crime,EliteSquadTheEnemyWithin.jpg,8,2010
+353,Exit Through the Gift Shop,Comedy Documentary,ExitThroughtheGiftShop.jpg,8,2010
+354,Fair Game,Action,FairGame.jpg,6.8,2010
+355,Four Lions,Comedy,FourLions.jpg,7.3,2010
+356,Get Him to the Greek,Comedy,GetHimtotheGreek.jpg,6.4,2010
+357,Green Zone,War,GreenZone.jpg,6.8,2010
+358,Grown Ups,Comedy,GrownUps.jpg,5.9,2010
+359,Gulliver's Travels,Adventure Comedy Fantasy,Gulliver'sTravels.jpg,4.9,2010
+360,Harry Potter and the Deathly Hallows Part I,Action Adventure Fantasy IMAX,HarryPotterandtheDeathlyHallowsPartI.jpg,6,2010
+361,Hot Tub Time Machine,Comedy Sci-Fi,HotTubTimeMachine.jpg,6.4,2010
+362,How to Train Your Dragon,Animation Children Fantasy IMAX,HowtoTrainYourDragon.jpg,8.1,2010
+363,I Spit on Your Grave,Horror Thriller,ISpitonYourGrave.jpg,6.3,2010
+364,Incendies,War,Incendies.jpg,8.3,2010
+365,Inception,Action Crime Sci-Fi Thriller IMAX,Inception.jpg,8.8,2010
+366,Inside Job,Documentary,InsideJob.jpg,8.2,2010
+367,Ip Man 2,Action,IpMan2.jpg,7.5,2010
+368,Iron Man 2,Action Thriller IMAX,IronMan2.jpg,7,2010
+369,It's Kind of a Funny Story,Comedy,It'sKindofaFunnyStory.jpg,7.1,2010
+370,Jackass 3D,Action Comedy Documentary,Jackass3D.jpg,7,2010
+371,Kick-Ass,Action Comedy,Kick-Ass.jpg,7.6,2010
+372,Knight and Day,Action Comedy,KnightandDay.jpg,6.3,2010
+373,Leap Year,Comedy,LeapYear.jpg,6.5,2010
+374,Let Me In,Drama Horror Mystery,LetMeIn.jpg,7.1,2010
+375,Life as We Know It,Comedy,LifeasWeKnowIt.jpg,6.5,2010
+376,Little Fockers,Comedy,LittleFockers.jpg,5.5,2010
+377,Louis C.K. Hilarious,Comedy,LouisC.K.Hilarious.jpg,8.5,2010
+378,Love and Other Drugs,Comedy,LoveandOtherDrugs.jpg,6.7,2010
+379,Machete,Action Comedy Crime,Machete.jpg,6.6,2010
+380,Megamind,Animation Children Comedy Sci-Fi,Megamind.jpg,7.2,2010
+381,Morning Glory,Comedy,MorningGlory.jpg,6.5,2010
+382,Paranormal Activity 2,Horror IMAX,ParanormalActivity2.jpg,5.6,2010
+383,Percy Jackson & the Olympians The Lightning Thief,Adventure Fantasy,PercyJackson&theOlympiansTheLightningThief.jpg,5.9,2010
+384,Piranha,Horror,Piranha.jpg,5.4,2010
+385,Predators,Action Sci-Fi,Predators.jpg,6.4,2010
+386,Prince of Persia The Sands of Time,Action Adventure Fantasy Romance IMAX,PrinceofPersiaTheSandsofTime.jpg,6.6,2010
+387,Repo Men,Action Sci-Fi,RepoMen.jpg,6.3,2010
+388,Resident Evil Afterlife,Sci-Fi Thriller IMAX,ResidentEvilAfterlife.jpg,5.8,2010
+389,Salt,Action Crime Mystery Thriller,Salt.jpg,6,2010
+390,Scott Pilgrim vs. the World,Action Comedy Fantasy Romance,ScottPilgrimvs.theWorld.jpg,7.3,2010
+391,She's Out of My League,Comedy,She'sOutofMyLeague.jpg,6,2010
+392,Shrek Forever After,Animation Fantasy,ShrekForeverAfter.jpg,6,2010
+393,Shutter Island,Mystery Thriller,ShutterIsland.jpg,8,2010
+394,Super,Crime,Super.jpg,6.4,2010
+395,Tangled,Animation Fantasy Musical Romance,Tangled.jpg,7.5,2010
+396,The Book of Eli,Action,TheBookofEli.jpg,6.6,2010
+397,The Bounty Hunter,Action Comedy,TheBountyHunter.jpg,5.1,2010
+398,The Chronicles of Narnia The Voyage of the Dawn Treader,Adventure Family Fantasy,TheChroniclesofNarniaTheVoyageoftheDawnTreader.jpg,6,2010
+399,The Expendables,Action,TheExpendables.jpg,6.2,2010
+400,The Fighter,Biography Drama Sport,TheFighter.jpg,7.8,2010
+401,The Ghost Writer,Mystery Thriller,TheGhostWriter.jpg,6.9,2010
+402,The Kids Are All Right,Comedy,TheKidsAreAllRight.jpg,6.9,2010
+403,The King's Speech,Drama,King'sSpeechThe.jpg,8,2010
+404,The Last Airbender,Action Adventure Family Fantasy,TheLastAirbender.jpg,3.5,2010
+405,The Next Three Days,Crime Romance Thriller,TheNextThreeDays.jpg,7.1,2010
+406,The Other Guys,Action,TheOtherGuys.jpg,6.4,2010
+407,The Social Network,Biography Drama,TheSocialNetwork.jpg,7.5,2010
+408,The Sorcerer's Apprentice,Action Adventure Family Fantasy,TheSorcerer'sApprentice.jpg,5.7,2010
+409,The Switch,Comedy,TheSwitch.jpg,5.7,2010
+410,The Town,Crime,TheTown.jpg,7.3,2010
+411,The Twilight Saga Eclipse,Adventure Drama Fantasy Romance,TheTwilightSagaEclipse.jpg,4.4,2010
+412,Toy Story 3,Animation Fantasy,ToyStory3.jpg,8.2,2010
+413,True Grit,Adventure Drama Western,TrueGrit.jpg,7.5,2010
+414,Unstoppable,Action Thriller,Unstoppable.jpg,6.4,2010
+415,Winter's Bone,Drama,Winter'sBone.jpg,6.9,2010
+416,9,Animation Sci-Fi,9.jpg,7.1,2009
+417,2012,Action Thriller,2012.jpg,5.8,2009
+418,(500) Days of Summer,Comedy,(500)DaysofSummer.jpg,7.7,2009
+419,17 Again,Comedy,17Again.jpg,6.3,2009
+420,Adventureland,Comedy,Adventureland.jpg,6.8,2009
+421,Angels & Demons,Crime Thriller,Angels&Demons.jpg,6.7,2009
+422,Antichrist,Drama Fantasy,Antichrist.jpg,6.6,2009
+423,Brothers,War,Brothers.jpg,7.1,2009
+424,Cloudy with a Chance of Meatballs,Animation Children Fantasy IMAX,CloudywithaChanceofMeatballs.jpg,6.9,2009
+425,Coraline,Animation Fantasy Thriller,Coraline.jpg,7.7,2009
+426,Crank High Voltage,Comedy Crime,CrankHighVoltage.jpg,6.2,2009
+427,Crazy Heart,Drama Romance,CrazyHeart.jpg,7.2,2009
+428,Daybreakers,Drama Horror Thriller,Daybreakers.jpg,6.4,2009
+429,District 9,Mystery Sci-Fi Thriller,District9.jpg,7.9,2009
+430,Dorian Gray,Drama Horror,DorianGray.jpg,6.3,2009
+431,Drag Me to Hell,Comedy Horror,DragMetoHell.jpg,6.5,2009
+432,Exam,Mystery Thriller,Exam.jpg,6.8,2009
+433,Fanboys,Adventure Comedy,Fanboys.jpg,6.6,2009
+434,Fantastic Mr. Fox,Animation Children Comedy Crime,FantasticMr.Fox.jpg,7.9,2009
+435,Frequently Asked Questions About Time Travel,Comedy Sci-Fi,FrequentlyAskedQuestionsAboutTimeTravel.jpg,7.1,2009
+436,Funny People,Comedy,FunnyPeople.jpg,6.3,2009
+437,Futurama Into the Wild Green Yonder,Animation Comedy Sci-Fi,FuturamaIntotheWildGreenYonder.jpg,7.3,2009
+438,G.I. Joe The Rise of Cobra,Action Thriller,G.I.JoeTheRiseofCobra.jpg,5.8,2009
+439,Gamer,Action Sci-Fi,Gamer.jpg,5.8,2009
+440,Ghost Ship,Horror,GhostShip.jpg,6.9,2009
+441,Harry Potter and the Half-Blood Prince,Adventure Fantasy Mystery Romance IMAX,HarryPotterandtheHalf-BloodPrince.jpg,7.6,2009
+442,He's Just Not That Into You,Comedy,He'sJustNotThatIntoYou.jpg,6.4,2009
+443,Ice Age Dawn of the Dinosaurs,Animation Children Comedy,IceAgeDawnoftheDinosaurs.jpg,6.9,2009
+444,In the Loop,Comedy,IntheLoop.jpg,7.4,2009
+445,Inglorious Bastards,Action Adventure,IngloriousBastards.jpg,8.3,2009
+446,Inglourious Basterds,War,InglouriousBasterds.jpg,8.3,2009
+447,Invictus,Drama,Invictus.jpg,7.3,2009
+448,Julie & Julia,Comedy,Julie&Julia.jpg,7,2009
+449,Knowing,Action Drama Mystery Sci-Fi Thriller,Knowing.jpg,6.2,2009
+450,Land of the Lost,Action Comedy Sci-Fi,LandoftheLost.jpg,5.3,2009
+451,Law Abiding Citizen,Drama Thriller,LawAbidingCitizen.jpg,7.4,2009
+452,Mary and Max,Animation Comedy,MaryandMax.jpg,8.1,2009
+453,Monsters vs. Aliens,Animation Sci-Fi,Monstersvs.Aliens.jpg,6.4,2009
+454,Moon,Drama Mystery Sci-Fi Thriller,Moon.jpg,7.9,2009
+455,Mr. Nobody,Drama Fantasy Romance Sci-Fi,Mr.Nobody.jpg,7.8,2009
+456,Night at the Museum Battle of the Smithsonian,Action Comedy IMAX,NightattheMuseumBattleoftheSmithsonian.jpg,6,2009
+457,Pandorum,Horror,Pandorum.jpg,6.7,2009
+458,Paul Blart Mall Cop,Comedy Crime,PaulBlartMallCop.jpg,5.2,2009
+459,Pirate Radio,Comedy,PirateRadio.jpg,7.4,2009
+460,Public Enemies,Crime,PublicEnemies.jpg,7,2009
+461,Sherlock Holmes,Action Adventure Crime Mystery Thriller,SherlockHolmes.jpg,7.3,2009
+462,Star Trek,Sci-Fi,StarTrek.jpg,7.8,2009
+463,Surrogates,Sci-Fi,Surrogates.jpg,6,2009
+464,Terminator Salvation,Sci-Fi,TerminatorSalvation.jpg,6.2,2009
+465,The Blind Side,Drama,BlindSideThe.jpg,7.6,2009
+466,The Hangover,Comedy,TheHangover.jpg,7.5,2009
+467,The Imaginarium of Doctor Parnassus,Adventure Fantasy Mystery,TheImaginariumofDoctorParnassus.jpg,6.4,2009
+468,The Invention of Lying,Comedy,InventionofLyingThe.jpg,6.4,2009
+469,The Men Who Stare at Goats,Comedy War,TheMenWhoStareatGoats.jpg,5.7,2009
+470,The Princess and the Frog,Animation Musical Romance,ThePrincessandtheFrog.jpg,6.9,2009
+471,The Proposal,Comedy,TheProposal.jpg,6.4,2009
+472,The Secret in Their Eyes,Drama Mystery Thriller,TheSecretinTheirEyes.jpg,8,2009
+473,The Time Traveler's Wife,Drama Fantasy Romance Sci-Fi,TheTimeTraveler'sWife.jpg,6.9,2009
+474,The Twilight Saga New Moon,Adventure Drama Fantasy Romance,TheTwilightSagaNewMoon.jpg,3.9,2009
+475,The Ugly Truth,Comedy,TheUglyTruth.jpg,6.2,2009
+476,Transformers Revenge of the Fallen,Sci-Fi,TransformersRevengeoftheFallen.jpg,5.5,2009
+477,Underworld Rise of the Lycans,Sci-Fi,UnderworldRiseoftheLycans.jpg,6.2,2009
+478,Up,Animation,Up.jpg,8.2,2009
+479,Up in the Air,Drama Romance,UpintheAir.jpg,7.1,2009
+480,Watchmen,Action Drama Mystery Sci-Fi,Watchmen.jpg,7.5,2009
+481,Where the Wild Things Are,Adventure Drama Family Fantasy,WheretheWildThingsAre.jpg,6.4,2009
+482,Whip It,Drama Sport,WhipIt.jpg,6.6,2009
+483,X-Men Origins Wolverine,Sci-Fi,X-MenOriginsWolverine.jpg,6.4,2009
+484,Year One,Adventure Comedy,YearOne.jpg,4.4,2009
+485,Youth in Revolt,Comedy,YouthinRevolt.jpg,6.2,2009
+486,Zombieland,Horror,Zombieland.jpg,7.5,2009
+487,21,Crime Drama Romance Thriller,21.jpg,6.8,2008
+488,27 Dresses,Comedy,27Dresses.jpg,6.1,2008
+489,Australia,Adventure Drama Western,Australia.jpg,6.6,2008
+490,Baby Mama,Comedy,BabyMama.jpg,6,2008
+491,Be Kind Rewind,Comedy,BeKindRewind.jpg,6.4,2008
+492,Bedtime Stories,Adventure Children Comedy,BedtimeStories.jpg,6,2008
+493,Body of Lies,Action Drama Thriller,BodyofLies.jpg,7.1,2008
+494,Bolt,Animation Children Comedy,Bolt.jpg,6.8,2008
+495,Burn After Reading,Comedy Crime,BurnAfterReading.jpg,7,2008
+496,Changeling,Crime,Changeling.jpg,7.7,2008
+497,Cloverfield,Action Mystery Sci-Fi Thriller,Cloverfield.jpg,7,2008
+498,Death Race,Action Thriller,DeathRace.jpg,6.4,2008
+499,Definitely Maybe,Comedy,DefinitelyMaybe.jpg,7.1,2008
+500,Doubt,Drama Mystery,Doubt.jpg,7.5,2008
+501,Eagle Eye,Action IMAX,EagleEye.jpg,6.6,2008
+502,Food Inc.,Documentary,FoodInc..jpg,7.8,2008
+503,Forgetting Sarah Marshall,Comedy,ForgettingSarahMarshall.jpg,7.1,2008
+504,Futurama Bender's Game,Animation Comedy Fantasy Sci-Fi,FuturamaBender'sGame.jpg,7.3,2008
+505,Futurama The Beast with a Billion Backs,Animation Comedy Sci-Fi,FuturamaTheBeastwithaBillionBacks.jpg,7.2,2008
+506,Get Smart,Action Comedy,GetSmart.jpg,6.5,2008
+507,Gran Torino,Crime Drama,GranTorino.jpg,8.1,2008
+508,Hancock,Action Comedy Crime Fantasy,Hancock.jpg,6.4,2008
+509,Harold & Kumar Escape from Guantanamo Bay,Adventure Comedy,Harold&KumarEscapefromGuantanamoBay.jpg,6.6,2008
+510,Horton Hears a Who!,Animation Children Comedy,HortonHearsaWho!.jpg,6.8,2008
+511,How to Lose Friends & Alienate People,Comedy,HowtoLoseFriends&AlienatePeople.jpg,6.4,2008
+512,In Bruges,Comedy Crime,InBruges.jpg,7.9,2008
+513,Indiana Jones and the Kingdom of the Crystal Skull,Action Comedy Sci-Fi,IndianaJonesandtheKingdomoftheCrystalSkull.jpg,6.1,2008
+514,Inkheart,Adventure Fantasy,Inkheart.jpg,6.1,2008
+515,Ip Man,War,IpMan.jpg,8,2008
+516,Iron Man,Sci-Fi,IronMan.jpg,7.9,2008
+517,Journey to the Center of the Earth,Sci-Fi,JourneytotheCenteroftheEarth.jpg,5.8,2008
+518,Jumper,Action Thriller,Jumper.jpg,6.1,2008
+519,Kung Fu Panda,Animation Children Comedy IMAX,KungFuPanda.jpg,7.5,2008
+520,Let the Right One In,Drama Fantasy Horror Romance,LettheRightOneIn.jpg,7.9,2008
+521,Louis C.K. Chewed Up,Comedy,LouisC.K.ChewedUp.jpg,8.6,2008
+522,Madagascar Escape 2 Africa,Animation Children Comedy IMAX,MadagascarEscape2Africa.jpg,6.6,2008
+523,Mamma Mia!,Comedy Musical Romance,MammaMia!.jpg,6.4,2008
+524,Man on Wire,Documentary,ManonWire.jpg,7.7,2008
+525,Marley & Me,Comedy,Marley&Me.jpg,7.1,2008
+526,Milk,Drama,Milk.jpg,7.5,2008
+527,Mouse Hunt,Children Comedy,MouseHunt.jpg,6,2008
+528,Nick and Norah's Infinite Playlist,Comedy,NickandNorah'sInfinitePlaylist.jpg,6.6,2008
+529,Pineapple Express,Comedy Crime,PineappleExpress.jpg,6.9,2008
+530,Ponyo,Animation Children Fantasy,Ponyo.jpg,7.7,2008
+531,Punisher War Zone,Action Crime,PunisherWarZone.jpg,5.9,2008
+532,Quantum of Solace,Action Thriller,QuantumofSolace.jpg,6.6,2008
+533,Religulous,Comedy Documentary,Religulous.jpg,7.6,2008
+534,Revolutionary Road,Drama Romance,RevolutionaryRoad.jpg,7.3,2008
+535,RocknRolla,Action Crime,RocknRolla.jpg,7.3,2008
+536,Role Models,Comedy,RoleModels.jpg,6.8,2008
+537,Semi-Pro,Comedy Sport,Semi-Pro.jpg,5.3,2008
+538,Seven Pounds,Drama Romance,SevenPounds.jpg,7.5,2008
+539,Slumdog Millionaire,Drama Romance,SlumdogMillionaire.jpg,7.8,2008
+540,Star Wars The Clone Wars,Animation Sci-Fi,StarWarsTheCloneWars.jpg,7.8,2008
+541,Step Brothers,Comedy,StepBrothers.jpg,6.6,2008
+542,Taken,Action Thriller,Taken.jpg,7.8,2008
+543,The Bank Job,Crime Romance Thriller,TheBankJob.jpg,7.1,2008
+544,The Boy in the Striped Pajamas,War,TheBoyintheStripedPajamas.jpg,7.5,2008
+545,The Chronicles of Narnia Prince Caspian,Action Adventure Family Fantasy,TheChroniclesofNarniaPrinceCaspian.jpg,6.2,2008
+546,The Curious Case of Benjamin Button,Drama Fantasy Romance,TheCuriousCaseofBenjaminButton.jpg,7.5,2008
+547,The Dark Knight,Action Thriller,TheDarkKnight.jpg,8.9,2008
+548,The Day the Earth Stood Still,Drama Sci-Fi Thriller,TheDaytheEarthStoodStill.jpg,5.1,2008
+549,The Happening,Sci-Fi,TheHappening.jpg,4.4,2008
+550,The House Bunny,Comedy,TheHouseBunny.jpg,5.1,2008
+551,The Hurt Locker,War,TheHurtLocker.jpg,7.3,2008
+552,The Incredible Hulk,Sci-Fi,TheIncredibleHulk.jpg,6.4,2008
+553,The Lost Boys,Comedy Horror Thriller,LostBoysThe.jpg,4.5,2008
+554,The Mummy Tomb of the Dragon Emperor,Horror,TheMummyTomboftheDragonEmperor.jpg,4.6,2008
+555,The Other Boleyn Girl,War Romance,TheOtherBoleynGirl.jpg,6.4,2008
+556,The Reader,Drama Romance,TheReader.jpg,7.3,2008
+557,The Ruins,Horror,TheRuins.jpg,5.5,2008
+558,The Spiderwick Chronicles,Adventure Family Fantasy,TheSpiderwickChronicles.jpg,6.2,2008
+559,The Wave,Drama Thriller,TheWave.jpg,7.3,2008
+560,The Wrestler,Drama Sport,TheWrestler.jpg,7.8,2008
+561,Tropic Thunder,Action Comedy,TropicThunder.jpg,6.6,2008
+562,Twilight,Drama Fantasy Romance,Twilight.jpg,4.6,2008
+563,Valkyrie,War,Valkyrie.jpg,6.9,2008
+564,Vantage Point,Crime,VantagePoint.jpg,6.2,2008
+565,Vicky Cristina Barcelona,Drama Romance,VickyCristinaBarcelona.jpg,6.9,2008
+566,Waltz with Bashir,Animation Biography Documentary Drama History War,WaltzwithBashir.jpg,7.8,2008
+567,Wanted,Action Crime Fantasy Thriller,Wanted.jpg,6.4,2008
+568,Yes Man,Comedy,YesMan.jpg,6.4,2008
+569,You Don't Mess with the Zohan,Action Comedy,YouDon'tMesswiththeZohan.jpg,5.1,2008
+570,Zack and Miri Make a Porno,Comedy,ZackandMiriMakeaPorno.jpg,6.2,2008
+571,1408,Drama Horror Thriller,1408.jpg,6.8,2007
+572,[REC],Drama Horror Thriller,[REC].jpg,7.4,2007
+573,28 Weeks Later,Horror,28WeeksLater.jpg,7,2007
+574,3 10 to Yuma,Action Crime Western,310toYuma.jpg,7.7,2007
+575,30 Days of Night,Horror Thriller,30DaysofNight.jpg,6.6,2007
+576,Across the Universe,Drama Fantasy Musical Romance,AcrosstheUniverse.jpg,7.3,2007
+577,American Gangster,Crime,AmericanGangster.jpg,7.8,2007
+578,Atonement,Drama Romance War,Atonement.jpg,7.8,2007
+579,August Rush,Drama Musical,AugustRush.jpg,7.5,2007
+580,AVPR Aliens vs. Predator - Requiem,Sci-Fi,AVPRAliensvs.Predator-Requiem.jpg,4.7,2007
+581,Battlestar Galactica Razor,Action Thriller,BattlestarGalacticaRazor.jpg,7.6,2007
+582,Becoming Jane,Drama Romance,BecomingJane.jpg,7.1,2007
+583,Bee Movie,Animation Comedy,BeeMovie.jpg,6.1,2007
+584,Beowulf,Animation Fantasy IMAX,Beowulf.jpg,6.2,2007
+585,Blades of Glory,Comedy,BladesofGlory.jpg,6.3,2007
+586,Bridge to Terabithia,Adventure Children Fantasy,BridgetoTerabithia.jpg,7.1,2007
+587,Charlie Bartlett,Comedy,CharlieBartlett.jpg,7,2007
+588,Charlie Wilson's War,Comedy War,CharlieWilson'sWar.jpg,7,2007
+589,Dan in Real Life,Comedy,DaninRealLife.jpg,6.7,2007
+590,Death at a Funeral,Comedy,DeathataFuneral.jpg,7.4,2007
+591,Death Proof,Action Adventure Horror Thriller,DeathProof.jpg,7,2007
+592,Disturbia,Drama Thriller,Disturbia.jpg,6.8,2007
+593,Eastern Promises,Crime,EasternPromises.jpg,7.6,2007
+594,Elite Squad,Action Crime,EliteSquad.jpg,8.1,2007
+595,Enchanted,Animation Children Comedy Fantasy Musical Romance,Enchanted.jpg,7,2007
+596,Evan Almighty,Comedy Fantasy,EvanAlmighty.jpg,5.4,2007
+597,Fantastic Four Rise of the Silver Surfer,Sci-Fi,FantasticFourRiseoftheSilverSurfer.jpg,5.6,2007
+598,Fracture,Crime Thriller,Fracture.jpg,7.2,2007
+599,Funny Games,Drama Horror Thriller,FunnyGames.jpg,6.6,2007
+600,Futurama Bender's Big Score,Animation Comedy Sci-Fi,FuturamaBender'sBigScore.jpg,7.7,2007
+601,Ghost Rider,Action Fantasy Thriller,GhostRider.jpg,5.2,2007
+602,Gone Baby Gone,Crime,GoneBabyGone.jpg,7.6,2007
+603,Grindhouse,Action Horror,Grindhouse.jpg,7.5,2007
+604,Hairspray,Comedy Drama,Hairspray.jpg,6.6,2007
+605,Harry Potter and the Order of the Phoenix,Adventure Drama Fantasy IMAX,HarryPotterandtheOrderofthePhoenix.jpg,7.5,2007
+606,Hitman,Action Crime Thriller,Hitman.jpg,6.3,2007
+607,Hot Fuzz,Comedy Crime Mystery,HotFuzz.jpg,7.8,2007
+608,Hot Rod,Comedy,HotRod.jpg,6.7,2007
+609,I Am Legend,Sci-Fi Thriller IMAX,IAmLegend.jpg,7.2,2007
+610,Into the Wild,Action Adventure,IntotheWild.jpg,8.1,2007
+611,Juno,Comedy,Juno.jpg,7.4,2007
+612,Knocked Up,Comedy,KnockedUp.jpg,6.9,2007
+613,Lars and the Real Girl,Comedy,LarsandtheRealGirl.jpg,7.3,2007
+614,Live Free or Die Hard,Action Adventure Crime Thriller,LiveFreeorDieHard.jpg,7.1,2007
+615,Louis C.K. Shameless,Comedy,LouisC.K.Shameless.jpg,8.6,2007
+616,Meet the Robinsons,Animation Children Comedy Sci-Fi,MeettheRobinsons.jpg,6.8,2007
+617,Michael Clayton,Drama Thriller,MichaelClayton.jpg,7.2,2007
+618,Mr. Brooks,Crime,Mr.Brooks.jpg,7.3,2007
+619,Music and Lyrics,Comedy,MusicandLyrics.jpg,6.5,2007
+620,National Treasure Book of Secrets,Action Adventure,NationalTreasureBookofSecrets.jpg,6.5,2007
+621,Next,Action Sci-Fi,Next.jpg,6.2,2007
+622,No Country for Old Men,Crime Drama,NoCountryforOldMen.jpg,8.1,2007
+623,Ocean's Thirteen,Crime Thriller,Ocean'sThirteen.jpg,6.9,2007
+624,Once,Drama Musical Romance,Once.jpg,7.8,2007
+625,P.S. I Love You,Comedy,P.S.ILoveYou.jpg,7,2007
+626,Paranormal Activity,Horror Thriller,ParanormalActivity.jpg,6.3,2007
+627,Persepolis,Animation,Persepolis.jpg,8,2007
+628,Persuasion,Drama Romance,Persuasion.jpg,7.5,2007
+629,Pirates of the Caribbean At World's End,Action Comedy Fantasy,PiratesoftheCaribbeanAtWorld'sEnd.jpg,7.1,2007
+630,Planet Terror,Sci-Fi,PlanetTerror.jpg,7.1,2007
+631,Ratatouille,Animation Children Drama,Ratatouille.jpg,8,2007
+632,Reign Over Me,Drama,ReignOverMe.jpg,7.4,2007
+633,Resident Evil Extinction,Sci-Fi Thriller,ResidentEvilExtinction.jpg,6.3,2007
+634,Run Fatboy Run,Comedy Sport,RunFatboyRun.jpg,6.2,2007
+635,Rush Hour 3,Action Thriller,RushHour3.jpg,5.7,2007
+636,Saving Grace,Drama Fantasy,SavingGrace.jpg,7.3,2007
+637,Saw IV,Horror,SawIV.jpg,5.5,2007
+638,Shooter,Action Mystery Thriller,Shooter.jpg,6.9,2007
+639,Shrek the Third,Animation Fantasy,ShrektheThird.jpg,5.7,2007
+640,Sicko,Documentary Drama,Sicko.jpg,7.8,2007
+641,Spider-Man 3,Action Adventure Romance,Spider-Man3.jpg,5.7,2007
+642,Stardust,Adventure Family Fantasy Romance,Stardust.jpg,7.5,2007
+643,Sunshine,Adventure Sci-Fi Thriller,Sunshine.jpg,7.1,2007
+644,Superbad,Comedy,Superbad.jpg,7.3,2007
+645,Surf's Up,Animation Sport,Surf'sUp.jpg,6.4,2007
+646,The Assassination of Jesse James by the Coward Robert Ford,Biography Crime Drama History Western,TheAssassinationofJesseJamesbytheCowardRobertFord.jpg,7.3,2007
+647,The Bourne Ultimatum,Action Mystery Thriller,TheBourneUltimatum.jpg,8,2007
+648,The Bucket List,Comedy,BucketListThe.jpg,7.4,2007
+649,The Diving Bell and the Butterfly,Biography Drama,TheDivingBellandtheButterfly.jpg,7.8,2007
+650,The Golden Compass,Adventure Family Fantasy,TheGoldenCompass.jpg,5.7,2007
+651,The Kingdom,Action Drama Thriller,TheKingdom.jpg,6.9,2007
+652,The Man from Earth,Drama Romance Sci-Fi,TheManfromEarth.jpg,7.8,2007
+653,The Mist,Horror,TheMist.jpg,6.9,2007
+654,The Number 23,Mystery Thriller,TheNumber23.jpg,6,2007
+655,The Orphanage,Drama Mystery Thriller,TheOrphanage.jpg,7.3,2007
+656,The Simpsons Movie,Animation Comedy,TheSimpsonsMovie.jpg,7.1,2007
+657,There Will Be Blood,Drama,ThereWillBeBlood.jpg,8,2007
+658,TMNT,Animation Sci-Fi,TMNT.jpg,6,2007
+659,Transformers,Sci-Fi,Transformers.jpg,6.9,2007
+660,Waitress,Comedy,Waitress.jpg,6.9,2007
+661,Walk Hard The Dewey Cox Story,Comedy Music,WalkHardTheDeweyCoxStory.jpg,6.4,2007
+662,Wild Hogs,Action,WildHogs.jpg,5.5,2007
+663,Zodiac,Crime,Zodiac.jpg,7.5,2007
+664,20,Sci-Fi,20.jpg,7.6,2006
+665,300,Action Fantasy War IMAX,300.jpg,7.6,2006
+666,16 Blocks,Crime Thriller,16Blocks.jpg,6.6,2006
+667,A Prairie Home Companion,Comedy Musical,PrairieHomeCompanionA.jpg,6.7,2006
+668,Accepted,Comedy,Accepted.jpg,6.4,2006
+669,Akeelah and the Bee,Drama,AkeelahandtheBee.jpg,7.3,2006
+670,All the King's Men,Drama,AlltheKing'sMen.jpg,6.2,2006
+671,Alpha Dog,Crime Drama,AlphaDog.jpg,6.9,2006
+672,An Inconvenient Truth,Documentary,InconvenientTruthAn.jpg,7.4,2006
+673,Apocalypto,Adventure Drama Thriller,Apocalypto.jpg,7.8,2006
+674,Art School Confidential,Comedy,ArtSchoolConfidential.jpg,6.3,2006
+675,Babel,Drama Thriller,Babel.jpg,7.4,2006
+676,Beerfest,Comedy,Beerfest.jpg,6.3,2006
+677,Blood Diamond,Action Adventure Crime War,BloodDiamond.jpg,8,2006
+678,Cars,Animation Children Comedy,Cars.jpg,7.1,2006
+679,Casino Royale,Action Thriller,CasinoRoyale.jpg,8,2006
+680,Charlotte's Web,Animation Children,Charlotte'sWeb.jpg,6.3,2006
+681,Children of Men,Action Thriller,ChildrenofMen.jpg,7.9,2006
+682,Clerks II,Comedy,ClerksII.jpg,7.3,2006
+683,Click,Adventure Comedy Fantasy Romance,Click.jpg,6.4,2006
+684,Crank,Action Thriller,Crank.jpg,6.9,2006
+685,Dreamgirls,Drama Musical,Dreamgirls.jpg,6.5,2006
+686,Employee of the Month,Comedy,EmployeeoftheMonth.jpg,5.5,2006
+687,Eragon,Action Adventure Fantasy,Eragon.jpg,5.1,2006
+688,Failure to Launch,Comedy,FailuretoLaunch.jpg,5.6,2006
+689,Fido,Comedy Horror Thriller,Fido.jpg,6.7,2006
+690,Final Destination 3,Horror Mystery Thriller,FinalDestination3.jpg,5.8,2006
+691,Flags of Our Fathers,War,FlagsofOurFathers.jpg,7.1,2006
+692,Flushed Away,Animation Comedy,FlushedAway.jpg,6.6,2006
+693,Grandma's Boy,Comedy,Grandma'sBoy.jpg,7,2006
+694,Half Nelson,Drama,HalfNelson.jpg,7.2,2006
+695,Hollywoodland,Crime Thriller,Hollywoodland.jpg,6.5,2006
+696,Ice Age 2 The Meltdown,Animation Children Comedy,IceAgeTheMeltdown.jpg,6.8,2006
+697,Idiocracy,Adventure Comedy Sci-Fi Thriller,Idiocracy.jpg,6.6,2006
+698,Inland Empire,Drama Mystery Thriller,InlandEmpire.jpg,6.9,2006
+699,Inside Man,Crime,InsideMan.jpg,7.6,2006
+700,Jackass Number Two,Comedy Documentary,JackassNumberTwo.jpg,7,2006
+701,Jesus Camp,Documentary Drama,JesusCamp.jpg,7.4,2006
+702,Jet Li's Fearless,Action Drama,JetLi'sFearless.jpg,7.6,2006
+703,John Tucker Must Die,Comedy,JohnTuckerMustDie.jpg,5.8,2006
+704,Lady in the Water,Drama Fantasy Mystery,LadyintheWater.jpg,5.5,2006
+705,Letters from Iwo Jima,War,LettersfromIwoJima.jpg,7.9,2006
+706,Little Miss Sunshine,Adventure Comedy,LittleMissSunshine.jpg,7.8,2006
+707,Lucky Number Slevin,Crime,LuckyNumberSlevin.jpg,7.7,2006
+708,Marie Antoinette,Drama Romance,MarieAntoinette.jpg,6.4,2006
+709,Mission Impossible III,Action Thriller,MissionImpossibleIII.jpg,6.9,2006
+710,Monster House,Animation Children Fantasy Mystery,MonsterHouse.jpg,6.6,2006
+711,My Super Ex-Girlfriend,Comedy Fantasy Romance,MySuperEx-Girlfriend.jpg,5.1,2006
+712,Nacho Libre,Comedy,NachoLibre.jpg,5.7,2006
+713,Night at the Museum,Action Comedy Fantasy IMAX,NightattheMuseum.jpg,6.4,2006
+714,Over the Hedge,Animation Children Comedy,OvertheHedge.jpg,6.7,2006
+715,Pan's Labyrinth,Drama Fantasy Thriller,Pan'sLabyrinth.jpg,8.2,2006
+716,Paprika,Animation Mystery Sci-Fi,Paprika.jpg,7.7,2006
+717,Perfume The Story of a Murderer,Crime,PerfumeTheStoryofaMurderer.jpg,7.5,2006
+718,Pirates of the Caribbean Dead Man's Chest,Action Adventure Fantasy,PiratesoftheCaribbeanDeadMan'sChest.jpg,7.3,2006
+719,Rocky Balboa,Action Drama,RockyBalboa.jpg,7.1,2006
+720,Running Scared,Action Thriller,RunningScared.jpg,7.1,2006
+721,Saw III,Horror,SawIII.jpg,5.7,2006
+722,Scary Movie 4,Comedy,ScaryMovie4.jpg,4.6,2006
+723,She's the Man,Comedy,She'stheMan.jpg,6,2006
+724,Silent Hill,Adventure Horror Mystery,SilentHill.jpg,6.2,2006
+725,Slither,Comedy Horror,Slither.jpg,6.2,2006
+726,Smokin' Aces,Action Thriller,Smokin'Aces.jpg,6.4,2006
+727,Snakes on a Plane,Action Adventure Crime,SnakesonaPlane.jpg,5.1,2006
+728,Stick It,Comedy Sport,StickIt.jpg,6,2006
+729,Stranger than Fiction,Comedy Fantasy Romance,StrangerThanFiction.jpg,7.3,2006
+730,Superman Returns,Sci-Fi,SupermanReturns.jpg,5.7,2006
+731,Talladega Nights The Ballad of Ricky Bobby,Action Comedy Sport,TalladegaNightsTheBalladofRickyBobby.jpg,6.2,2006
+732,The Benchwarmers,Comedy Sport,TheBenchwarmers.jpg,5.1,2006
+733,The Black Dahlia,Crime,TheBlackDahlia.jpg,5.1,2006
+734,The Break-Up,Comedy,TheBreak-Up.jpg,5.3,2006
+735,The Da Vinci Code,Mystery Thriller,TheDaVinciCode.jpg,6.2,2006
+736,The Departed,Crime,TheDeparted.jpg,8.4,2006
+737,The Devil Wears Prada,Comedy,TheDevilWearsPrada.jpg,6.4,2006
+738,The Fast and the Furious Tokyo Drift,Action,TheFastandtheFuriousTokyoDrift.jpg,5.5,2006
+739,The Fountain,Drama Sci-Fi,TheFountain.jpg,7.1,2006
+740,The Hills Have Eyes,Horror,TheHillsHaveEyes.jpg,6,2006
+741,The Illusionist,Drama Fantasy Mystery Romance,IllusionistThe.jpg,7.6,2006
+742,The Lake House,Drama Fantasy Romance,TheLakeHouse.jpg,6.4,2006
+743,The Last King of Scotland,Drama Thriller,LastKingofScotlandThe.jpg,7.7,2006
+744,The Lives of Others,Drama Thriller,TheLivesofOthers.jpg,8.4,2006
+745,The Prestige,Drama Mystery Sci-Fi Thriller,ThePrestige.jpg,8.4,2006
+746,The Pursuit of Happyness,Biography Drama,ThePursuitofHappyness.jpg,7.8,2006
+747,The Queen,Biography Drama,TheQueen.jpg,7.1,2006
+748,The Shaggy Dog,Comedy Family Fantasy,TheShaggyDog.jpg,3.7,2006
+749,This Is England,Crime,ThisIsEngland.jpg,7.5,2006
+750,Ultraviolet,Sci-Fi,Ultraviolet.jpg,3.7,2006
+751,Underworld Evolution,Sci-Fi,UnderworldEvolution.jpg,6.4,2006
+752,United 93,War,United93.jpg,7.3,2006
+753,Volver,Crime Mystery,Volver.jpg,7.3,2006
+754,When a Stranger Calls,Horror,WhenaStrangerCalls.jpg,4.4,2006
+755,Who Killed the Electric Car?,Documentary,WhoKilledtheElectricCar.jpg,7.5,2006
+756,World Trade Center,War,WorldTradeCenter.jpg,5.5,2006
+757,Wristcutters A Love Story,Comedy Fantasy Romance,WristcuttersALoveStory.jpg,7.1,2006
+758,X-Men The Last Stand,Sci-Fi,X-MenTheLastStand.jpg,6.4,2006
+759,A History of Violence,Action Crime,HistoryofViolenceA.jpg,7.4,2005
+760,A Lot Like Love,Comedy,LotLikeLoveA.jpg,6.6,2005
+761,Aeon Flux,Action Sci-Fi,AeonFlux.jpg,5.5,2005
+762,American Pie Presents Band Camp,Comedy,AmericanPiePresentsBandCamp.jpg,5.1,2005
+763,Batman Begins,Action Crime IMAX,BatmanBegins.jpg,8.2,2005
+764,Be Cool,Comedy Crime Musical,BeCool.jpg,5.6,2005
+765,Brick,Crime Drama Film-Noir Mystery,Brick.jpg,7.3,2005
+766,Brokeback Mountain,Drama Romance,BrokebackMountain.jpg,7.7,2005
+767,Broken Flowers,Comedy,BrokenFlowers.jpg,7.2,2005
+768,Capote,Crime Drama,Capote.jpg,7.3,2005
+769,Charlie and the Chocolate Factory,Adventure Children Comedy Fantasy IMAX,CharlieandtheChocolateFactory.jpg,6.6,2005
+770,Chicken Little,Animation Children Comedy Sci-Fi,ChickenLittle.jpg,5.7,2005
+771,Chronicles of Narnia The Lion The Witch and the Wardrobe,Adventure Children Fantasy,ChroniclesofNarniaTheLionTheWitchandtheWardrobe.jpg,6.9,2005
+772,Cinderella Man,Drama Romance,CinderellaMan.jpg,8,2005
+773,Coach Carter,Drama,CoachCarter.jpg,7.3,2005
+774,Constantine,Action Fantasy Horror Thriller,Constantine.jpg,7,2005
+775,Corpse Bride,Animation Comedy Fantasy Musical Romance,CorpseBride.jpg,7.3,2005
+776,Doom,Sci-Fi,Doom.jpg,5.2,2005
+777,Enron The Smartest Guys in the Room,Documentary,EnronTheSmartestGuysintheRoom.jpg,7.6,2005
+778,Everything Is Illuminated,Comedy,EverythingIsIlluminated.jpg,7.4,2005
+779,Family Guy Presents Stewie Griffin The Untold Story,Animation Comedy,FamilyGuyPresentsStewieGriffinTheUntoldStory.jpg,7.6,2005
+780,Fever Pitch,Comedy,FeverPitch.jpg,6.2,2005
+781,Final Fantasy VII Advent Children,Animation Fantasy Sci-Fi,FinalFantasyVIIAdventChildren.jpg,7.2,2005
+782,Flightplan,Action Drama Thriller,Flightplan.jpg,6.3,2005
+783,Four Brothers,Action Crime,FourBrothers.jpg,6.8,2005
+784,Fun with Dick and Jane,Comedy Crime,FunwithDickandJane.jpg,6.2,2005
+785,Green Street Hooligans,Crime Drama,GreenStreetHooligans.jpg,7.5,2005
+786,Grizzly Man,Documentary,GrizzlyMan.jpg,7.8,2005
+787,Hard Candy,Drama Thriller,HardCandy.jpg,7.1,2005
+788,Harry Potter and the Goblet of Fire,Adventure Fantasy Thriller IMAX,HarryPotterandtheGobletofFire.jpg,7.7,2005
+789,Hide and Seek,Horror Mystery Thriller,HideandSeek.jpg,6,2005
+790,Hostage,Action Crime,Hostage.jpg,6.6,2005
+791,Hostel,Horror,Hostel.jpg,5.9,2005
+792,House of Wax,Crime Horror Mystery Thriller,HouseofWax.jpg,5.3,2005
+793,Jarhead,War,Jarhead.jpg,7,2005
+794,Just Friends,Comedy,JustFriends.jpg,6.2,2005
+795,Just Like Heaven,Comedy Fantasy Romance,JustLikeHeaven.jpg,6.7,2005
+796,Kicking and Screaming,Comedy,KickingandScreaming.jpg,5.6,2005
+797,King Kong,Action Adventure Fantasy Thriller,KingKong.jpg,7.2,2005
+798,Kingdom of Heaven,Action Drama Romance War,KingdomofHeaven.jpg,7.2,2005
+799,Kiss Kiss Bang Bang,Comedy Crime Mystery Thriller,KissKissBangBang.jpg,7.5,2005
+800,Lady Vengeance,Crime Thriller,LadyVengeance.jpg,7.6,2005
+801,Lord of War,Action Crime War,LordofWar.jpg,7.6,2005
+802,Lords of Dogtown,Action Comedy,LordsofDogtown.jpg,7.1,2005
+803,Madagascar,Animation Children Comedy,Madagascar.jpg,6.9,2005
+804,March of the Penguins,Documentary,MarchofthePenguins.jpg,7.5,2005
+805,Match Point,Crime Drama Romance,MatchPoint.jpg,7.6,2005
+806,Memoirs of a Geisha,Drama Romance,MemoirsofaGeisha.jpg,7.4,2005
+807,MirrorMask,Adventure Children Drama Fantasy,MirrorMask.jpg,6.8,2005
+808,Mr. & Mrs. Smith,Action Comedy,Mr.&Mrs.Smith.jpg,6.5,2005
+809,Munich,Action Crime,Munich.jpg,7.5,2005
+810,Nanny McPhee,Children Comedy Fantasy,NannyMcPhee.jpg,6.5,2005
+811,Pride & Prejudice,Drama Romance,Pride&Prejudice.jpg,7.8,2005
+812,Prime,Comedy,Prime.jpg,6.2,2005
+813,Red Eye,Horror Thriller,RedEye.jpg,6.4,2005
+814,Rent,Drama Musical Romance,Rent.jpg,6.9,2005
+815,Revolver,Crime,Revolver.jpg,6.4,2005
+816,Robots,Animation Children Comedy Fantasy Sci-Fi,Robots.jpg,6.3,2005
+817,Sahara,Action,Sahara.jpg,5.5,2005
+818,Saw II,Horror,SawII.jpg,6.2,2005
+819,Serenity,Sci-Fi,Serenity.jpg,7.8,2005
+820,Shopgirl,Drama Romance,Shopgirl.jpg,6,2005
+821,Sin City,Crime Thriller,SinCity.jpg,8,2005
+822,Sky High,Adventure Comedy Family Sci-Fi,SkyHigh.jpg,5.7,2005
+823,Star Wars Episode III - Revenge of the Sith,Action Sci-Fi,StarWarsEpisodeIII-RevengeoftheSith.jpg,7.3,2005
+824,Stealth,Sci-Fi,Stealth.jpg,4.4,2005
+825,Syriana,Drama Thriller,Syriana.jpg,6.6,2005
+826,Thank You for Smoking,Comedy,ThankYouforSmoking.jpg,7.3,2005
+827,The 40-Year-Old Virgin,Comedy,The40-Year-OldVirgin.jpg,6.9,2005
+828,The Amityville Horror,Drama Horror Mystery Thriller,TheAmityvilleHorror.jpg,5.5,2005
+829,The Brothers Grimm,Action Fantasy Thriller,TheBrothersGrimm.jpg,5.5,2005
+830,The Constant Gardener,Drama Mystery Romance Thriller,TheConstantGardener.jpg,7.3,2005
+831,The Descent,Adventure Horror Thriller,TheDescent.jpg,6.9,2005
+832,The Devil's Rejects,Horror,TheDevil'sRejects.jpg,6.6,2005
+833,The Dukes of Hazzard,Action,TheDukesofHazzard.jpg,4.6,2005
+834,The Exorcism of Emily Rose,Drama Horror Thriller,TheExorcismofEmilyRose.jpg,6.4,2005
+835,The Family Stone,Comedy,TheFamilyStone.jpg,6,2005
+836,The Greatest Game Ever Played,War Sport,TheGreatestGameEverPlayed.jpg,7.3,2005
+837,The Hitchhiker's Guide to the Galaxy,Adventure Comedy Sci-Fi,TheHitchhiker'sGuidetotheGalaxy.jpg,6.4,2005
+838,The Interpreter,Crime Mystery Thriller,TheInterpreter.jpg,6,2005
+839,The Island,Action Adventure Romance Sci-Fi Thriller,TheIsland.jpg,6.6,2005
+840,The Jacket,Drama Mystery Sci-Fi Thriller,TheJacket.jpg,6.9,2005
+841,The Legend of Zorro,Action Adventure Western,TheLegendofZorro.jpg,5.5,2005
+842,The Longest Yard,Comedy Crime Sport,TheLongestYard.jpg,6,2005
+843,The Matador,Crime Thriller,TheMatador.jpg,6.4,2005
+844,The New World,War Romance,TheNewWorld.jpg,6.4,2005
+845,The Pacifier,Action Comedy Family Thriller,ThePacifier.jpg,5.1,2005
+846,The Producers,Comedy Musical,TheProducers.jpg,6,2005
+847,The Proposition,Crime Western,TheProposition.jpg,7.1,2005
+848,The Ring Two,Horror,TheRingTwo.jpg,4.8,2005
+849,The Sisterhood of the Traveling Pants,Comedy,TheSisterhoodoftheTravelingPants.jpg,6.2,2005
+850,The Squid and the Whale,Comedy,TheSquidandtheWhale.jpg,7.1,2005
+851,The Weather Man,Comedy,TheWeatherMan.jpg,6.2,2005
+852,The Wedding Date,Comedy,TheWeddingDate.jpg,5.7,2005
+853,Transamerica,Adventure Comedy,Transamerica.jpg,7.1,2005
+854,Transporter 2,Action,Transporter2.jpg,6,2005
+855,Unleashed,Action Thriller,Unleashed.jpg,6.6,2005
+856,V for Vendetta,Action Drama Thriller,VforVendetta.jpg,8,2005
+857,Waiting...,Comedy,Waiting....jpg,6.4,2005
+858,War of the Worlds,Adventure Sci-Fi Thriller,WaroftheWorlds.jpg,6.2,2005
+859,White Noise,Drama Horror Mystery Thriller,WhiteNoise.jpg,5.1,2005
+860,xXx State of the Union,Action Adventure Crime Thriller,xXxStateoftheUnion.jpg,3.7,2005
+861,2046,Drama Fantasy Romance Sci-Fi,2046.jpg,7.4,2004
+862,13 Going on 30,Comedy Fantasy Romance,13Goingon30.jpg,6.2,2004
+863,50 First Dates,Comedy,50FirstDates.jpg,6.8,2004
+864,A Cinderella Story,Comedy,CinderellaStoryA.jpg,5.9,2004
+865,After the Sunset,Action Comedy Crime,AftertheSunset.jpg,6.3,2004
+866,Alexander,War,Alexander.jpg,5.6,2004
+867,Along Came Polly,Comedy,AlongCamePolly.jpg,6,2004
+868,Anchorman The Legend of Ron Burgundy,Comedy,AnchormanTheLegendofRonBurgundy.jpg,7.2,2004
+869,Around the World in 80 Days,Adventure Comedy,AroundtheWorldin80Days.jpg,5.9,2004
+870,AVP Alien vs. Predator,Sci-Fi Thriller,AVPAlienvs.Predator.jpg,5.6,2004
+871,Before Sunset,Drama Romance,BeforeSunset.jpg,8,2004
+872,Blade Trinity,Action Fantasy Horror Thriller,BladeTrinity.jpg,5.9,2004
+873,Bridget Jones The Edge of Reason,Comedy,BridgetJonesTheEdgeofReason.jpg,6,2004
+874,Cellular,Action Crime Thriller,Cellular.jpg,6.5,2004
+875,Chasing Liberty,Comedy,ChasingLiberty.jpg,6.1,2004
+876,Closer,Drama Romance,Closer.jpg,7.2,2004
+877,Club Dread,Comedy Horror,ClubDread.jpg,5.7,2004
+878,Collateral,Action Crime,Collateral.jpg,7.5,2004
+879,Crash,Crime Drama,Crash.jpg,7.8,2004
+880,Dawn of the Dead,Drama Horror,DawnoftheDead.jpg,7.3,2004
+881,Dirty Dancing Havana Nights,Romance,DirtyDancingHavanaNights.jpg,6,2004
+882,District 13,Action Crime Sci-Fi,District13.jpg,7.2,2004
+883,Dodgeball A True Underdog Story,Comedy,DodgeballATrueUnderdogStory.jpg,6.7,2004
+884,Downfall,War,Downfall.jpg,8.2,2004
+885,Ella Enchanted,Comedy Fantasy Romance,EllaEnchanted.jpg,6.3,2004
+886,Eternal Sunshine of the Spotless Mind,Drama Romance Sci-Fi,EternalSunshineoftheSpotlessMind.jpg,8.3,2004
+887,EuroTrip,Adventure Comedy,EuroTrip.jpg,6.6,2004
+888,Fahrenheit 9 11,Documentary,Fahrenheit911.jpg,7.5,2004
+889,Finding Neverland,Drama,FindingNeverland.jpg,7.7,2004
+890,First Daughter,Comedy,FirstDaughter.jpg,6.1,2004
+891,Flight of the Phoenix,Action Adventure Drama,FlightofthePhoenix.jpg,6.1,2004
+892,Garden State,Comedy,GardenState.jpg,7.4,2004
+893,Garfield The Movie,Animation Children Comedy,GarfieldTheMovie.jpg,5,2004
+894,Ghost in the Shell,Animation Sci-Fi Thriller,GhostintheShell2Innocence.jpg,7.5,2004
+895,Harry Potter and the Prisoner of Azkaban,Adventure Fantasy IMAX,HarryPotterandthePrisonerofAzkaban.jpg,7.9,2004
+896,Hidalgo,Adventure Drama,Hidalgo.jpg,6.7,2004
+897,Hotel Rwanda,War,HotelRwanda.jpg,8.1,2004
+898,House of Flying Daggers,Action Drama Romance,HouseofFlyingDaggers.jpg,7.5,2004
+899,Howl's Moving Castle,Animation Fantasy Romance,Howl'sMovingCastle.jpg,8.2,2004
+900,I Heart Huckabees,Comedy,IHeartHuckabees.jpg,6.6,2004
+901,In Good Company,Comedy,InGoodCompany.jpg,6.4,2004
+902,Jersey Girl,Comedy,JerseyGirl.jpg,6.2,2004
+903,Kill Bill Vol. 2,Action Drama Thriller,KillBillVol.2.jpg,8,2004
+904,Kinsey,Drama,Kinsey.jpg,7,2004
+905,Kung Fu Hustle,Action Comedy,KungFuHustle.jpg,7.7,2004
+906,Ladder 49,Action Drama Thriller,Ladder49.jpg,6.5,2004
+907,Layer Cake,Crime,LayerCake.jpg,7.3,2004
+908,Man on Fire,Action Crime Thriller,ManonFire.jpg,7.7,2004
+909,Maria Full of Grace,Crime Drama,MariaFullofGrace.jpg,7.4,2004
+910,Mean Girls,Comedy,MeanGirls.jpg,7,2004
+911,Meet the Fockers,Comedy,MeettheFockers.jpg,6.3,2004
+912,Melinda and Melinda,Comedy,MelindaandMelinda.jpg,6.4,2004
+913,Metro,Comedy Crime,Metro.jpg,5.6,2004
+914,Million Dollar Baby,Drama,MillionDollarBaby.jpg,8.1,2004
+915,Miracle,Drama,Miracle.jpg,7.5,2004
+916,My Bodyguard,Drama,MyBodyguard.jpg,7.7,2004
+917,Napoleon Dynamite,Comedy,NapoleonDynamite.jpg,6.9,2004
+918,National Treasure,Action Adventure Mystery Thriller,NationalTreasure.jpg,6.8,2004
+919,Ocean's Twelve,Comedy Crime,Ocean'sTwelve.jpg,6.5,2004
+920,Outfoxed Rupert Murdoch's War on Journalism,Documentary,OutfoxedRupertMurdoch'sWaronJournalism.jpg,7.5,2004
+921,Ray,Drama,Ray.jpg,7.7,2004
+922,Resident Evil Apocalypse,Sci-Fi Thriller,ResidentEvilApocalypse.jpg,6.2,2004
+923,Riddick,Action Sci-Fi,Riddick.jpg,6.7,2004
+924,Saved!,Comedy,Saved!.jpg,6.6,2004
+925,Saw,Horror,Saw.jpg,7.5,2004
+926,Secret Window,Mystery Thriller,SecretWindow.jpg,6.2,2004
+927,Shall We Dance?,Comedy,ShallWeDance.jpg,5.7,2004
+928,Shark Tale,Animation,SharkTale.jpg,5.5,2004
+929,Shaun of the Dead,Comedy Horror,ShaunoftheDead.jpg,7.8,2004
+930,Shrek 2,Animation Fantasy Romance,Shrek2.jpg,6.9,2004
+931,Sideways,Adventure Comedy,Sideways.jpg,7.3,2004
+932,Sky Captain and the World of Tomorrow,Action Adventure Mystery Sci-Fi Thriller,SkyCaptainandtheWorldofTomorrow.jpg,5.7,2004
+933,Spanglish,Comedy,Spanglish.jpg,6.2,2004
+934,Spider-Man 2,Action Romance,Spider-Man2.jpg,7.1,2004
+935,Starsky & Hutch,Comedy Crime,Starsky&Hutch.jpg,5.7,2004
+936,Super Size Me,Comedy Documentary Drama,SuperSizeMe.jpg,7.1,2004
+937,Team America World Police,Action Comedy,TeamAmericaWorldPolice.jpg,6.9,2004
+938,The Alamo,War Western,TheAlamo.jpg,5.5,2004
+939,The Aviator,Biography Drama,TheAviator.jpg,7.3,2004
+940,The Bachelor,Comedy,BachelorThe.jpg,7.5,2004
+941,The Bourne Supremacy,Action Mystery Thriller,TheBourneSupremacy.jpg,7.5,2004
+942,The Butterfly Effect,Sci-Fi,TheButterflyEffect.jpg,7.5,2004
+943,The Chorus,Drama Music,TheChorus.jpg,7.8,2004
+944,The Chronicles of Riddick,Sci-Fi,TheChroniclesofRiddick.jpg,6.4,2004
+945,The Day After Tomorrow,Sci-Fi,TheDayAfterTomorrow.jpg,6,2004
+946,The Girl Next Door,Comedy,TheGirlNextDoor.jpg,6.4,2004
+947,The Grudge,Horror,TheGrudge.jpg,5.5,2004
+948,The Incredibles,Animation,TheIncredibles.jpg,7.8,2004
+949,The Ladykillers,Comedy Crime,TheLadykillers.jpg,5.7,2004
+950,The Life Aquatic with Steve Zissou,Adventure Comedy,TheLifeAquaticwithSteveZissou.jpg,7.1,2004
+951,The Machinist,Drama Thriller,TheMachinist.jpg,7.5,2004
+952,The Manchurian Candidate,Drama Mystery Sci-Fi Thriller,TheManchurianCandidate.jpg,6.2,2004
+953,The Notebook,Drama Romance,TheNotebook.jpg,7.8,2004
+954,The Phantom of the Opera,Drama Musical Romance Thriller,ThePhantomoftheOpera.jpg,7.1,2004
+955,The Polar Express,Animation Fantasy,ThePolarExpress.jpg,6.2,2004
+956,The Princess Diaries 2 Royal Engagement,Comedy Family Romance,ThePrincessDiaries2RoyalEngagement.jpg,5.3,2004
+957,The Sea Inside,Biography Drama Romance,TheSeaInside.jpg,8,2004
+958,The Stepford Wives,Comedy Sci-Fi Thriller,TheStepfordWives.jpg,4.6,2004
+959,The Whole Ten Yards,Comedy Crime,TheWholeTenYards.jpg,5.1,2004
+960,Troy,Adventure,Troy.jpg,6.9,2004
+961,Walking Tall,Action Crime,WalkingTall.jpg,5.7,2004
+962,White Chicks,Comedy Crime,WhiteChicks.jpg,4.8,2004
+963,Wimbledon,Comedy Sport,Wimbledon.jpg,6,2004
+964,Win a Date with Tad Hamilton!,Comedy,WinaDatewithTadHamilton!.jpg,5.1,2004
+965,Without a Paddle,Adventure Comedy Mystery,WithoutaPaddle.jpg,5.5,2004
+966,2 Fast 2 Furious,Action,2Fast2Furious.jpg,5.9,2003
+967,21 Grams,Crime Romance Thriller,21Grams.jpg,7.7,2003
+968,A Mighty Wind,Comedy Musical,MightyWindA.jpg,7.2,2003
+969,Agent Cody Banks,Action Adventure Children Fantasy,AgentCodyBanks.jpg,5,2003
+970,American Splendor,Comedy,AmericanSplendor.jpg,7.4,2003
+971,American Wedding,Comedy,AmericanWedding.jpg,6.3,2003
+972,Bad Boys II,Comedy Crime,BadBoysII.jpg,6.6,2003
+973,Bad Santa,Comedy Crime,BadSanta.jpg,7,2003
+974,Big Fish,Drama Fantasy Romance,BigFish.jpg,8,2003
+975,Bruce Almighty,Comedy Fantasy Romance,BruceAlmighty.jpg,6.8,2003
+976,Bulletproof Monk,Sci-Fi,BulletproofMonk.jpg,5.5,2003
+977,Calendar Girls,Comedy,CalendarGirls.jpg,6.9,2003
+978,Capturing the Friedmans,Documentary,CapturingtheFriedmans.jpg,7.7,2003
+979,Charlie's Angels Full Throttle,Action Comedy Crime,Charlie'sAngelsFullThrottle.jpg,4.9,2003
+980,Coffee and Cigarettes,Comedy,CoffeeandCigarettes.jpg,7.1,2003
+981,Cold Mountain,Drama Romance War,ColdMountain.jpg,7.2,2003
+982,Confidence,Crime Thriller,Confidence.jpg,6.7,2003
+983,Daddy Day Care,Children Comedy,DaddyDayCare.jpg,5.6,2003
+984,Dickie Roberts Former Child Star,Comedy,DickieRobertsFormerChildStar.jpg,5.6,2003
+985,Dogville,Drama Mystery Thriller,Dogville.jpg,8,2003
+986,Down with Love,Comedy,DownwithLove.jpg,6.2,2003
+987,Dreamcatcher,Drama Horror,Dreamcatcher.jpg,5.5,2003
+988,Dumb and Dumberer When Harry Met Lloyd,Comedy,DumbandDumbererWhenHarryMetLloyd.jpg,3.4,2003
+989,Duplex,Comedy Crime,Duplex.jpg,5.9,2003
+990,Elephant,Drama,Elephant.jpg,7.2,2003
+991,Elf,Children Comedy Fantasy,Elf.jpg,6.9,2003
+992,Final Destination 2,Horror Thriller,FinalDestination2.jpg,6.2,2003
+993,Finding Nemo,Animation Children Comedy,FindingNemo.jpg,8.1,2003
+994,Freaky Friday,Children Comedy Fantasy,FreakyFriday.jpg,6.1,2003
+995,Freddy vs. Jason,Horror,Freddyvs.Jason.jpg,5.7,2003
+996,Girl with a Pearl Earring,Drama Romance,GirlwithaPearlEarring.jpg,6.9,2003
+997,Good Bye Lenin!,Comedy,GoodByeLenin!.jpg,7.7,2003
+998,Gothika,Horror Thriller,Gothika.jpg,5.8,2003
+999,Holes,Adventure Children Comedy Mystery,Holes.jpg,7,2003
+1000,Hollywood Homicide,Action Crime,HollywoodHomicide.jpg,5.3,2003
+1001,House of 1000 Corpses,Horror,Houseof1000Corpses.jpg,6.1,2003
+1002,House of Sand and Fog,Drama,HouseofSandandFog.jpg,7.5,2003
+1003,How to Lose a Guy in 10 Days,Comedy,HowtoLoseaGuyin10Days.jpg,6.4,2003
+1004,Hulk,Sci-Fi,Hulk.jpg,5.6,2003
+1005,Identity,Horror Mystery Thriller,Identity.jpg,7.3,2003
+1006,Intolerable Cruelty,Comedy,IntolerableCruelty.jpg,6.2,2003
+1007,Johnny English,Action Comedy Thriller,JohnnyEnglish.jpg,6.2,2003
+1008,Just Married,Comedy,JustMarried.jpg,5.5,2003
+1009,Kill Bill Vol. 1,Action,KillBillVol.1.jpg,8.1,2003
+1010,Lara Croft Tomb Raider The Cradle of Life,Action Comedy Thriller,LaraCroftTombRaiderTheCradleofLife.jpg,5.5,2003
+1011,Lost in Translation,Comedy,LostinTranslation.jpg,7.7,2003
+1012,Love Actually,Comedy,LoveActually.jpg,7.6,2003
+1013,Love Me If You Dare,Drama Romance,LoveMeIfYouDare.jpg,7.6,2003
+1014,Master and Commander The Far Side of the World,Adventure Drama,MasterandCommanderTheFarSideoftheWorld.jpg,7.4,2003
+1015,Matchstick Men,Comedy Crime,MatchstickMen.jpg,7.3,2003
+1016,Memories of Murder,Crime Thriller,MemoriesofMurder.jpg,8.1,2003
+1017,Mona Lisa Smile,Drama Romance,MonaLisaSmile.jpg,6.5,2003
+1018,Monster,Crime Drama,Monster.jpg,7.3,2003
+1019,Mystic River,Crime,MysticRiver.jpg,7.9,2003
+1020,National Security,Action Comedy,NationalSecurity.jpg,5.6,2003
+1021,Old Boy,Action Drama Mystery,Oldboy.jpg,8.4,2003
+1022,Old School,Comedy,OldSchool.jpg,7.1,2003
+1023,Once Upon a Time in Mexico,Action Adventure Crime Thriller,OnceUponaTimeinMexico.jpg,6.4,2003
+1024,Open Range,Western,OpenRange.jpg,7.4,2003
+1025,Open Water,Drama Thriller,OpenWater.jpg,5.7,2003
+1026,Paycheck,Action Sci-Fi,Paycheck.jpg,6.3,2003
+1027,Peter Pan,Animation Children Fantasy Musical,PeterPan.jpg,6.8,2003
+1028,Pieces of April,Comedy,PiecesofApril.jpg,7,2003
+1029,Pirates of the Caribbean The Curse of the Black Pearl,Action Comedy Fantasy,PiratesoftheCaribbeanTheCurseoftheBlackPearl.jpg,8,2003
+1030,Radio,Drama,Radio.jpg,6.9,2003
+1031,S.W.A.T.,Action Adventure Crime Thriller,S.W.A.T..jpg,5.5,2003
+1032,Scary Movie 3,Comedy,ScaryMovie3.jpg,5.1,2003
+1033,School of Rock,Comedy Music,SchoolofRock.jpg,6.9,2003
+1034,Seabiscuit,War Sport,Seabiscuit.jpg,7.1,2003
+1035,Secondhand Lions,Comedy,SecondhandLions.jpg,7.3,2003
+1036,Shanghai Knights,Action,ShanghaiKnights.jpg,5.7,2003
+1037,Shattered Glass,War,ShatteredGlass.jpg,6.9,2003
+1038,Sinbad Legend of the Seven Seas,Animation Fantasy Romance,SinbadLegendoftheSevenSeas.jpg,6.4,2003
+1039,Something's Gotta Give,Comedy,Something'sGottaGive.jpg,6.4,2003
+1040,Stuck on You,Comedy,StuckonYou.jpg,5.3,2003
+1041,Swimming Pool,Crime,SwimmingPool.jpg,6.4,2003
+1042,Tears of the Sun,War,TearsoftheSun.jpg,6.2,2003
+1043,Terminator 3 Rise of the Machines,Action Sci-Fi,Terminator3RiseoftheMachines.jpg,6,2003
+1044,The Blind Swordsman Zatoichi,Comedy Crime,BlindSwordsmanZatoichiThe.jpg,7.5,2003
+1045,The Cat in the Hat,Adventure Comedy Family Fantasy,TheCatintheHat.jpg,3,2003
+1046,The Cooler,Comedy,CoolerThe.jpg,6.9,2003
+1047,The Core,Action Thriller,CoreThe.jpg,5.5,2003
+1048,The Haunted Mansion,Comedy Family Fantasy Horror Mystery,TheHauntedMansion.jpg,4.4,2003
+1049,The Hunted,Action Thriller,TheHunted.jpg,5.5,2003
+1050,The Italian Job,Action,TheItalianJob.jpg,6.6,2003
+1051,The Last Samurai,War,TheLastSamurai.jpg,7.5,2003
+1052,The League of Extraordinary Gentlemen,Action Sci-Fi,TheLeagueofExtraordinaryGentlemen.jpg,5.3,2003
+1053,The Life of David Gale,Crime,TheLifeofDavidGale.jpg,7.3,2003
+1054,The Lord of the Rings The Return of the King,Action Adventure Fantasy,TheLordoftheRingsTheReturnoftheKing.jpg,8.9,2003
+1055,The Matrix Reloaded,Action Sci-Fi,TheMatrixReloaded.jpg,6.9,2003
+1056,The Matrix Revolutions,Action Sci-Fi,TheMatrixRevolutions.jpg,6.4,2003
+1057,The Medallion,Action Comedy Fantasy,TheMedallion.jpg,4.6,2003
+1058,The Rundown,Action,TheRundown.jpg,6.4,2003
+1059,The Station Agent,Comedy,TheStationAgent.jpg,7.5,2003
+1060,The Triplets of Belleville,Animation,TheTripletsofBelleville.jpg,7.5,2003
+1061,Thirteen,Drama,Thirteen.jpg,6.4,2003
+1062,Touching the Void,Adventure Documentary Drama Sport,TouchingtheVoid.jpg,8,2003
+1063,Under the Tuscan Sun,Comedy,UndertheTuscanSun.jpg,6.4,2003
+1064,Underworld,Action Fantasy Thriller,Underworld.jpg,6.6,2003
+1065,What a Girl Wants,Comedy,WhataGirlWants.jpg,5.3,2003
+1066,Wonderland,Crime,Wonderland.jpg,6.2,2003
+1067,24 Hour Party People,Comedy Musical,24HourPartyPeople.jpg,7.3,2002
+1068,25th Hour,Crime Drama,25thHour.jpg,7.6,2002
+1069,40 Days and 40 Nights,Comedy,40Daysand40Nights.jpg,5.6,2002
+1070,8 Mile,Drama,8Mile.jpg,7.1,2002
+1071,About a Boy,Comedy,AboutaBoy.jpg,7,2002
+1072,About Schmidt,Comedy,AboutSchmidt.jpg,7.1,2002
+1073,Adaptation,Comedy,Adaptation.jpg,7.7,2002
+1074,Analyze That,Comedy Crime,AnalyzeThat.jpg,5.9,2002
+1075,Antwone Fisher,Drama,AntwoneFisher.jpg,7.3,2002
+1076,Austin Powers in Goldmember,Comedy,AustinPowersinGoldmember.jpg,6.2,2002
+1077,Awakenings,Drama Mystery,Awakenings.jpg,7.6,2002
+1078,Barbershop,Comedy,Barbershop.jpg,6.3,2002
+1079,Bend It Like Beckham,Comedy,BendItLikeBeckham.jpg,6.6,2002
+1080,Big Fat Liar,Children Comedy,BigFatLiar.jpg,5.4,2002
+1081,Big Trouble,Comedy Crime,BigTrouble.jpg,6.5,2002
+1082,Black Sheep,Comedy,BlackSheep.jpg,5.6,2002
+1083,Blade II,Horror,BladeII.jpg,6.7,2002
+1084,Bloody Sunday,Drama,BloodySunday.jpg,7.6,2002
+1085,Bowling for Columbine,Documentary,BowlingforColumbine.jpg,7.9,2002
+1086,Bubba Ho-tep,Comedy Horror,BubbaHo-tep.jpg,7,2002
+1087,Cabin Fever,Horror Thriller,CabinFever.jpg,5.7,2002
+1088,Catch Me If You Can,Crime Drama,CatchMeIfYouCan.jpg,8.1,2002
+1089,Changing Lanes,Drama Thriller,ChangingLanes.jpg,6.4,2002
+1090,Chicago,Comedy Crime Musical,Chicago.jpg,7.1,2002
+1091,City of God,Action Adventure Crime,CityofGod.jpg,8.6,2002
+1092,Collateral Damage,Action Thriller,CollateralDamage.jpg,5.5,2002
+1093,Confessions of a Dangerous Mind,Comedy Crime,ConfessionsofaDangerousMind.jpg,7,2002
+1094,Death to Smoochy,Comedy Crime,DeathtoSmoochy.jpg,6.4,2002
+1095,Die Another Day,Action Thriller,DieAnotherDay.jpg,6.1,2002
+1096,Dirty Pretty Things,Crime,DirtyPrettyThings.jpg,7.3,2002
+1097,Drumline,Comedy Musical Romance,Drumline.jpg,5.8,2002
+1098,Eight Legged Freaks,Action Comedy Horror,EightLeggedFreaks.jpg,5.4,2002
+1099,Equilibrium,Action Sci-Fi,Equilibrium.jpg,7.4,2002
+1100,Far from Heaven,Drama Romance,FarfromHeaven.jpg,7.3,2002
+1101,Frida,Drama Romance,Frida.jpg,7.4,2002
+1102,Friday After Next,Comedy,FridayAfterNext.jpg,5.8,2002
+1103,Gangs of New York,Crime Drama,GangsofNewYork.jpg,7.5,2002
+1104,Harry Potter and the Chamber of Secrets,Adventure Fantasy,HarryPotterandtheChamberofSecrets.jpg,7.4,2002
+1105,Hart's War,War,Hart'sWar.jpg,6.3,2002
+1106,Hero,Action Adventure,Hero.jpg,7.9,2002
+1107,I Spy,Action Comedy Crime,ISpy.jpg,5.4,2002
+1108,Ice Age,Animation Children Comedy,IceAge.jpg,7.5,2002
+1109,Igby Goes Down,Comedy,IgbyGoesDown.jpg,6.9,2002
+1110,In America,Drama Romance,InAmerica.jpg,7.7,2002
+1111,Infernal Affairs,Crime,InfernalAffairs.jpg,8,2002
+1112,Insomnia,Action Crime Thriller,Insomnia.jpg,7.2,2002
+1113,Irreversible,Crime Thriller,Irreversible.jpg,7.4,2002
+1114,Jackass The Movie,Action Comedy Documentary,JackassTheMovie.jpg,6.6,2002
+1115,John Q,Crime,JohnQ.jpg,7.1,2002
+1116,K-19 The Widowmaker,Action Thriller,K-19TheWidowmaker.jpg,6.7,2002
+1117,Kung Pow Enter the Fist,Action Comedy,KungPowEntertheFist.jpg,6.2,2002
+1118,Lilo & Stitch,Animation Children Sci-Fi,Lilo&Stitch.jpg,7.2,2002
+1119,Lost in La Mancha,Documentary,LostinLaMancha.jpg,7.3,2002
+1120,Maid in Manhattan,Comedy,MaidinManhattan.jpg,5.3,2002
+1121,Men in Black II,Action Comedy Sci-Fi,MeninBlackII.jpg,6.2,2002
+1122,Minority Report,Action Crime Mystery Sci-Fi Thriller,MinorityReport.jpg,7.6,2002
+1123,Mr. Deeds,Comedy,Mr.Deeds.jpg,5.8,2002
+1124,Murder by Numbers,Crime Thriller,MurderbyNumbers.jpg,6.2,2002
+1125,My Big Fat Greek Wedding,Comedy,MyBigFatGreekWedding.jpg,6.5,2002
+1126,Narc,Crime,Narc.jpg,7.1,2002
+1127,National Lampoon's Van Wilder,Comedy,NationalLampoon'sVanWilder.jpg,6.4,2002
+1128,One Hour Photo,Drama Thriller,OneHourPhoto.jpg,6.8,2002
+1129,Panic Room,Thriller,PanicRoom.jpg,6.8,2002
+1130,Phone Booth,Drama Thriller,PhoneBooth.jpg,7,2002
+1131,Pumpkin,Comedy,Pumpkin.jpg,6.1,2002
+1132,Punch-Drunk Love,Comedy,Punch-DrunkLove.jpg,7.3,2002
+1133,Queen of the Damned,Fantasy Horror,QueenoftheDamned.jpg,5.3,2002
+1134,Rabbit-Proof Fence,Adventure Drama,Rabbit-ProofFence.jpg,7.4,2002
+1135,Red Dragon,Crime Mystery Thriller,RedDragon.jpg,7.2,2002
+1136,Reign of Fire,Action Adventure Fantasy,ReignofFire.jpg,6.2,2002
+1137,Resident Evil,Sci-Fi Thriller,ResidentEvil.jpg,6.7,2002
+1138,Road to Perdition,Crime Drama,RoadtoPerdition.jpg,7.7,2002
+1139,Roger Dodger,Comedy,RogerDodger.jpg,6.9,2002
+1140,Scooby-Doo,Adventure Comedy Mystery,Scooby-Doo.jpg,4.4,2002
+1141,Secretary,Comedy,Secretary.jpg,6.9,2002
+1142,Signs,Drama Sci-Fi Thriller,Signs.jpg,6.4,2002
+1143,Slackers,Comedy,Slackers.jpg,4.8,2002
+1144,Snow Dogs,Adventure Comedy Family Sport,SnowDogs.jpg,4.6,2002
+1145,Spider-Man,Action Romance,Spider-Man.jpg,7.1,2002
+1146,Star Trek Nemesis,Sci-Fi,StarTrekNemesis.jpg,6,2002
+1147,Star Wars Episode II - Attack of the Clones,Action Sci-Fi,StarWarsEpisodeII-AttackoftheClones.jpg,6.4,2002
+1148,Stealing Harvard,Comedy Crime,StealingHarvard.jpg,4.6,2002
+1149,Stuart Little 2,Animation Fantasy,StuartLittle2.jpg,4.8,2002
+1150,Sweet Home Alabama,Comedy,SweetHomeAlabama.jpg,5.7,2002
+1151,Swept Away,Comedy,SweptAway.jpg,2.8,2002
+1152,The Bourne Identity,Action Mystery Thriller,TheBourneIdentity.jpg,7.8,2002
+1153,The Count of Monte Cristo,Action Adventure Romance Thriller,TheCountofMonteCristo.jpg,7.5,2002
+1154,The Dangerous Lives of Altar Boys,Comedy,TheDangerousLivesofAltarBoys.jpg,6.9,2002
+1155,The Good Girl,Drama Romance,TheGoodGirl.jpg,6.2,2002
+1156,The Hours,Drama Romance,TheHours.jpg,7.3,2002
+1157,The Importance of Being Earnest,Comedy,TheImportanceofBeingEarnest.jpg,6.6,2002
+1158,The Lord of the Rings The Two Towers,Action Adventure Fantasy,TheLordoftheRingsTheTwoTowers.jpg,8.7,2002
+1159,The Master of Disguise,Comedy Family,TheMasterofDisguise.jpg,2.6,2002
+1160,The Mothman Prophecies,Drama Horror Mystery Thriller,TheMothmanProphecies.jpg,6.2,2002
+1161,The New Guy,Comedy,TheNewGuy.jpg,5.5,2002
+1162,The Pianist,Biography War,ThePianist.jpg,8.4,2002
+1163,The Quiet American,Drama Mystery Romance Thriller War,TheQuietAmerican.jpg,6.9,2002
+1164,The Rookie,Drama Family Sport,TheRookie.jpg,6.6,2002
+1165,The Rules of Attraction,Comedy,TheRulesofAttraction.jpg,6.4,2002
+1166,The Salton Sea,Crime,TheSaltonSea.jpg,6.9,2002
+1167,The Santa Clause 2,Comedy Family Fantasy,TheSantaClause2.jpg,5.1,2002
+1168,The Scorpion King,Action Thriller,TheScorpionKing.jpg,5.1,2002
+1169,The Sum of All Fears,Action Drama Thriller,TheSumofAllFears.jpg,6,2002
+1170,The Sweetest Thing,Comedy,TheSweetestThing.jpg,4.6,2002
+1171,The Time Machine,Sci-Fi,TheTimeMachine.jpg,5.5,2002
+1172,The Transporter,Action,TheTransporter.jpg,6.4,2002
+1173,The Tuxedo,Action,TheTuxedo.jpg,4.8,2002
+1174,Treasure Planet,Animation,TreasurePlanet.jpg,6.9,2002
+1175,Two Weeks Notice,Comedy,TwoWeeksNotice.jpg,5.7,2002
+1176,Undercover Brother,Action Comedy,UndercoverBrother.jpg,5.3,2002
+1177,Unfaithful,Drama Thriller,Unfaithful.jpg,6.4,2002
+1178,We Were Soldiers,War,WeWereSoldiers.jpg,6.9,2002
+1179,Whale Rider,Drama Family,WhaleRider.jpg,7.3,2002
+1180,Windtalkers,War,Windtalkers.jpg,5.5,2002
+1181,xXx,Action,xXx.jpg,5.3,2002
+1182,15 Minutes,Thriller,15Minutes.jpg,6.1,2001
+1183,3000 Miles to Graceland,Action Thriller,3000MilestoGraceland.jpg,6,2001
+1184,A Beautiful Mind,Drama Romance,BeautifulMindA.jpg,8.2,2001
+1185,A Knight's Tale,Action Comedy,Knight'sTaleA.jpg,6.9,2001
+1186,A.I. Artificial Intelligence,Sci-Fi,A.I.ArtificialIntelligence.jpg,7.2,2001
+1187,Along Came a Spider,Action Crime Mystery Thriller,AlongCameaSpider.jpg,6.4,2001
+1188,Amelie,Comedy,Amelie.jpg,8.3,2001
+1189,American Pie 2,Comedy,AmericanPie2.jpg,6.4,2001
+1190,America's Sweethearts,Comedy,America'sSweethearts.jpg,5.7,2001
+1191,And Your Mother Too,Drama Romance,AndYourMotherToo.jpg,7.6,2001
+1192,Antitrust,Crime,Antitrust.jpg,6.1,2001
+1193,Atlantis The Lost Empire,Animation Children Fantasy,AtlantisTheLostEmpire.jpg,6.9,2001
+1194,Bad Girls,Western,BadGirls.jpg,5.7,2001
+1195,Bandits,Comedy Crime Romance,Bandits.jpg,6.5,2001
+1196,Behind Enemy Lines,War,BehindEnemyLines.jpg,6.4,2001
+1197,Birthday Girl,Drama Romance,BirthdayGirl.jpg,6.1,2001
+1198,Black Hawk Down,War,BlackHawkDown.jpg,7.7,2001
+1199,Black Knight,Adventure Comedy Fantasy,BlackKnight.jpg,4.9,2001
+1200,Blow,Crime Drama,Blow.jpg,7.6,2001
+1201,Bridget Jones's Diary,Comedy,BridgetJones'sDiary.jpg,6.7,2001
+1202,Brotherhood of the Wolf,Action Mystery Thriller,BrotherhoodoftheWolf.jpg,7,2001
+1203,Bubble Boy,Comedy,BubbleBoy.jpg,5.6,2001
+1204,Bully,Crime,Bully.jpg,6.9,2001
+1205,Cats & Dogs,Children Comedy,Cats&Dogs.jpg,5.1,2001
+1206,Cowboy Bebop The Movie,Animation Sci-Fi Thriller,CowboyBebopTheMovie.jpg,7.9,2001
+1207,Crocodile Dundee in Los Angeles,Comedy,CrocodileDundeeinLosAngeles.jpg,4.8,2001
+1208,Das Experiment,Drama Thriller,DasExperiment.jpg,7.7,2001
+1209,Dogtown and Z-Boyz,Documentary,DogtownandZ-Boyz.jpg,7.7,2001
+1210,Donnie Darko,Drama Mystery Sci-Fi Thriller,DonnieDarko.jpg,8,2001
+1211,Don't Say a Word,Thriller,Don'tSayaWord.jpg,6.3,2001
+1212,Down to Earth,Comedy Fantasy Romance,DowntoEarth.jpg,5.5,2001
+1213,Dr. Dolittle 2,Comedy,Dr.Dolittle2.jpg,4.7,2001
+1214,Enemy at the Gates,War,EnemyattheGates.jpg,7.6,2001
+1215,Evolution,Comedy Sci-Fi,Evolution.jpg,6.1,2001
+1216,Fast & Furious,Action Crime,Fast&Furious.jpg,6.8,2001
+1217,Final Fantasy The Spirits Within,Animation Fantasy Sci-Fi,FinalFantasyTheSpiritsWithin.jpg,6.4,2001
+1218,Frailty,Crime,Frailty.jpg,7.2,2001
+1219,Freddy Got Fingered,Comedy,FreddyGotFingered.jpg,4.6,2001
+1220,From Hell,Horror Mystery Thriller,FromHell.jpg,6.8,2001
+1221,Ghost World,Comedy,GhostWorld.jpg,7.3,2001
+1222,Ghosts of Mars,Horror,GhostsofMars.jpg,4.9,2001
+1223,Gosford Park,Comedy Mystery,GosfordPark.jpg,7.2,2001
+1224,Harry Potter and the Sorcerer's Stone,Adventure Children Fantasy,HarryPotterandtheSorcerer'sStone.jpg,7.6,2001
+1225,Heartbreakers,Comedy Crime Romance,Heartbreakers.jpg,6.2,2001
+1226,Hearts in Atlantis,Drama,HeartsinAtlantis.jpg,6.9,2001
+1227,Hedwig and the Angry Inch,Comedy Musical,HedwigandtheAngryInch.jpg,7.7,2001
+1228,How High,Comedy,HowHigh.jpg,6.3,2001
+1229,Human Nature,Comedy,HumanNature.jpg,6.4,2001
+1230,I Am Sam,Drama,IAmSam.jpg,7.7,2001
+1231,Ichi the Killer,Comedy Horror Thriller,IchitheKiller.jpg,7,2001
+1232,In the Bedroom,Drama,IntheBedroom.jpg,7.4,2001
+1233,Jason X,Horror,JasonX.jpg,4.4,2001
+1234,Jay and Silent Bob Strike Back,Adventure Comedy,JayandSilentBobStrikeBack.jpg,6.8,2001
+1235,Jeepers Creepers,Horror,JeepersCreepers.jpg,6.2,2001
+1236,Jimmy Neutron Boy Genius,Animation Children Comedy,JimmyNeutronBoyGenius.jpg,6,2001
+1237,Joe Dirt,Adventure Comedy Mystery Romance,JoeDirt.jpg,6,2001
+1238,Josie and the Pussycats,Comedy,JosieandthePussycats.jpg,5.4,2001
+1239,Joy Ride,Adventure Thriller,JoyRide.jpg,6.6,2001
+1240,Jurassic Park III,Action Thriller,JurassicParkIII.jpg,5.9,2001
+1241,Kate & Leopold,Comedy,Kate&Leopold.jpg,6.4,2001
+1242,Kiss of the Dragon,Action,KissoftheDragon.jpg,6.6,2001
+1243,Knockaround Guys,Comedy Crime,KnockaroundGuys.jpg,6.1,2001
+1244,K-PAX,Drama Fantasy Mystery Sci-Fi,K-PAX.jpg,7.4,2001
+1245,Lantana,Drama Mystery Thriller,Lantana.jpg,7.2,2001
+1246,Lara Croft Tomb Raider,Action Adventure,LaraCroftTombRaider.jpg,5.8,2001
+1247,Legally Blonde,Comedy,LegallyBlonde.jpg,6.3,2001
+1248,Life as a House,Drama,LifeasaHouse.jpg,7.5,2001
+1249,Lovely & Amazing,Comedy,Lovely&Amazing.jpg,6.7,2001
+1250,Made,Comedy,Made.jpg,6.4,2001
+1251,Millennium Actress,Animation,MillenniumActress.jpg,7.9,2001
+1252,Monkeybone,Animation Comedy Fantasy,Monkeybone.jpg,4.7,2001
+1253,Monsoon Wedding,Comedy,MonsoonWedding.jpg,7.3,2001
+1254,Monster's Ball,Drama Romance,Monster'sBall.jpg,7,2001
+1255,Moulin Rouge,Drama Musical Romance,MoulinRouge!.jpg,7.6,2001
+1256,Mulholland Drive,Crime Drama Film-Noir Mystery Thriller,MulhollandDrive.jpg,8,2001
+1257,Not Another Teen Movie,Comedy,NotAnotherTeenMovie.jpg,5.7,2001
+1258,Ocean's Eleven,Crime Thriller,Ocean'sEleven.jpg,7.7,2001
+1259,One Night at McCool's,Comedy,OneNightatMcCool's.jpg,6.1,2001
+1260,Osmosis Jones,Animation Comedy Crime Romance Thriller,OsmosisJones.jpg,6.3,2001
+1261,Othello,Drama,Othello.jpg,6.1,2001
+1262,Out Cold,Comedy,OutCold.jpg,6.3,2001
+1263,Pearl Harbor,Action Drama Romance War,PearlHarbor.jpg,6.2,2001
+1264,Planet of the Apes,Action Sci-Fi,PlanetoftheApes.jpg,5.7,2001
+1265,Rat Race,Comedy,RatRace.jpg,6.4,2001
+1266,Riding in Cars with Boys,Comedy,RidinginCarswithBoys.jpg,6.5,2001
+1267,Rush Hour 2,Action Thriller,RushHour2.jpg,6.2,2001
+1268,Save the Last Dance,Drama Music Romance,SavetheLastDance.jpg,5.7,2001
+1269,Saving Silverman,Comedy Crime Romance,SavingSilverman.jpg,5.5,2001
+1270,Scary Movie 2,Comedy,ScaryMovie2.jpg,4.6,2001
+1271,Serendipity,Comedy,Serendipity.jpg,6.6,2001
+1272,Shallow Hal,Comedy Fantasy Romance,ShallowHal.jpg,5.5,2001
+1273,Shaolin Soccer,Action Comedy Sport,ShaolinSoccer.jpg,7.1,2001
+1274,Shrek,Animation Fantasy,Shrek.jpg,7.8,2001
+1275,Someone Like You,Comedy,SomeoneLikeYou....jpg,5.7,2001
+1276,Spirited Away,Animation Fantasy,SpiritedAway.jpg,8.4,2001
+1277,Spy Game,Action,SpyGame.jpg,6.6,2001
+1278,Spy Kids,Action Family Sci-Fi,SpyKids.jpg,4.8,2001
+1279,Super Troopers,Comedy Crime Mystery,SuperTroopers.jpg,6.9,2001
+1280,Sweet November,Drama Romance,SweetNovember.jpg,6.4,2001
+1281,Swordfish,Action,Swordfish.jpg,6.2,2001
+1282,The Animal,Comedy Sci-Fi,TheAnimal.jpg,4.2,2001
+1283,The Believer,Drama,TheBeliever.jpg,6.9,2001
+1284,The Fall,Adventure Drama Fantasy,FallThe.jpg,3.1,2001
+1285,The Fast and the Furious,Action,TheFastandtheFurious.jpg,6.4,2001
+1286,The Lord of the Rings The Fellowship of the Ring,Action Adventure Fantasy,TheLordoftheRingsTheFellowshipoftheRing.jpg,8.7,2001
+1287,The Mexican,Adventure Comedy Crime Romance,TheMexican.jpg,5.7,2001
+1288,The Mummy Returns,Action Comedy Thriller,MummyReturnsThe.jpg,6.3,2001
+1289,The One,Sci-Fi,TheOne.jpg,5.5,2001
+1290,The Others,Fantasy Horror Thriller,TheOthers.jpg,7.3,2001
+1291,The Pledge,Crime,ThePledge.jpg,6.4,2001
+1292,The Princess Diaries,Comedy Family Romance,ThePrincessDiaries.jpg,5.7,2001
+1293,The Royal Tenenbaums,Comedy,TheRoyalTenenbaums.jpg,7.3,2001
+1294,The Shipping News,Drama,TheShippingNews.jpg,6.4,2001
+1295,The Tailor of Panama,Drama Thriller,TheTailorofPanama.jpg,5.7,2001
+1296,The Wedding Planner,Comedy,TheWeddingPlanner.jpg,4.6,2001
+1297,Tomcats,Comedy,Tomcats.jpg,4.8,2001
+1298,Training Day,Crime,TrainingDay.jpg,7.5,2001
+1299,Vanilla Sky,Fantasy Mystery Romance Sci-Fi Thriller,VanillaSky.jpg,6.6,2001
+1300,Wasabi,Action Drama Thriller,Wasabi.jpg,6.2,2001
+1301,Winged Migration,Documentary,WingedMigration.jpg,7.8,2001
+1302,Zoolander,Comedy,Zoolander.jpg,6.2,2001
+1303,102 Dalmatians,Children Comedy,102Dalmatians.jpg,4.9,2000
+1304,28 Days,Drama,28Days.jpg,6,2000
+1305,Almost Famous,Drama,AlmostFamous.jpg,7.9,2000
+1306,American Psycho,Horror Mystery Thriller,AmericanPsycho.jpg,7.6,2000
+1307,Amores Perros,Drama Thriller,AmoresPerros.jpg,8.1,2000
+1308,Autumn in New York,Drama Romance,AutumninNewYork.jpg,5.7,2000
+1309,Bamboozled,Comedy,Bamboozled.jpg,6.5,2000
+1310,Battle Royale,Drama Horror Thriller,BattleRoyale.jpg,7.6,2000
+1311,Battlefield Earth,Action Sci-Fi,BattlefieldEarth.jpg,2.5,2000
+1312,Bedazzled,Comedy,Bedazzled.jpg,6,2000
+1313,Before Night Falls,Drama,BeforeNightFalls.jpg,7.2,2000
+1314,Best in Show,Comedy,BestinShow.jpg,7.4,2000
+1315,Big Momma's House,Comedy,BigMomma'sHouse.jpg,5.2,2000
+1316,Billy Elliot,Drama,BillyElliot.jpg,7.7,2000
+1317,Boiler Room,Crime,BoilerRoom.jpg,7,2000
+1318,Bring It On,Comedy,BringItOn.jpg,6,2000
+1319,Cast Away,Drama,CastAway.jpg,7.8,2000
+1320,Cecil B. DeMented,Comedy,CecilB.DeMented.jpg,6.3,2000
+1321,Center Stage,Drama Musical,CenterStage.jpg,6.7,2000
+1322,Chicken Run,Animation Children Comedy,ChickenRun.jpg,7,2000
+1323,Chocolat,Drama Romance,Chocolat.jpg,7.2,2000
+1324,Coyote Ugly,Comedy,CoyoteUgly.jpg,5.7,2000
+1325,Crouching Tiger Hidden Dragon,Action Drama Romance,CrouchingTigerHiddenDragon.jpg,7.8,2000
+1326,Dancer in the Dark,Drama Musical,DancerintheDark.jpg,8,2000
+1327,Dinosaur,Animation Children,Dinosaur.jpg,6.5,2000
+1328,Dracula 2000,Horror,Dracula2000.jpg,4.9,2000
+1329,Dude Where's My Car,Comedy Sci-Fi,DudeWhere'sMyCar.jpg,5.5,2000
+1330,Erin Brockovich,Drama,ErinBrockovich.jpg,7.3,2000
+1331,Final Destination,Drama Thriller,FinalDestination.jpg,6.7,2000
+1332,Finding Forrester,Drama,FindingForrester.jpg,7.3,2000
+1333,For the Birds,Animation Children Comedy,FortheBirds.jpg,8,2000
+1334,Frequency,Drama Thriller,Frequency.jpg,7.3,2000
+1335,Get Carter,Action Crime,GetCarter.jpg,5.2,2000
+1336,Ginger Snaps,Drama Horror Thriller,GingerSnaps.jpg,6.8,2000
+1337,Girlfight,Drama,Girlfight.jpg,6.7,2000
+1338,Gladiator,Action Adventure Drama,Gladiator.jpg,8.5,2000
+1339,Gone in 60 Seconds,Action Crime,Gonein60Seconds.jpg,6.5,2000
+1340,Gossip,Drama Thriller,Gossip.jpg,5.9,2000
+1341,Highlander Endgame,Action Adventure Fantasy,HighlanderEndgame.jpg,4.6,2000
+1342,Hollow Man,Horror,HollowMan.jpg,5.8,2000
+1343,How the Grinch Stole Christmas,Children Comedy Fantasy,HowtheGrinchStoleChristmas.jpg,6.2,2000
+1344,In the Mood For Love,Drama Romance,IntheMoodForLove.jpg,8.1,2000
+1345,Keeping the Faith,Comedy,KeepingtheFaith.jpg,6.3,2000
+1346,Little Nicky,Comedy,LittleNicky.jpg,5.3,2000
+1347,Loser,Comedy,Loser.jpg,5.3,2000
+1348,Meet the Parents,Comedy,MeettheParents.jpg,7,2000
+1349,Memento,Mystery Thriller,Memento.jpg,8.4,2000
+1350,MeMyself & Irene,Adventure Comedy,MeMyself&Irene.jpg,6.6,2000
+1351,Men of Honor,Drama,MenofHonor.jpg,7.2,2000
+1352,Miss Congeniality,Comedy Crime,MissCongeniality.jpg,6.2,2000
+1353,Mission Impossible II,Action Thriller,MissionImpossibleII.jpg,6.1,2000
+1354,Mission to Mars,Sci-Fi,MissiontoMars.jpg,5.7,2000
+1355,My Dog Skip,Children Drama,MyDogSkip.jpg,7,2000
+1356,Next Friday,Comedy,NextFriday.jpg,6.2,2000
+1357,Nine Queens,Crime Thriller,NineQueens.jpg,7.9,2000
+1358,Nurse Betty,Comedy Crime Romance Thriller,NurseBetty.jpg,6.1,2000
+1359,Nutty Professor II The Klumps,Comedy,NuttyProfessorIITheKlumps.jpg,4.4,2000
+1360,O BrotherWhere Art Thou? ,Adventure Comedy Crime,OBrotherWhereArtThou.jpg,7.7,2000
+1361,Pay It Forward,Drama,PayItForward.jpg,7.2,2000
+1362,Pitch Black,Horror,PitchBlack.jpg,7.1,2000
+1363,Pollock,Drama,Pollock.jpg,7,2000
+1364,Proof of Life,Drama,ProofofLife.jpg,6.2,2000
+1365,Quills,Drama Romance,Quills.jpg,7.3,2000
+1366,Ready to Rumble,Comedy,ReadytoRumble.jpg,5.4,2000
+1367,Reindeer Games,Action Thriller,ReindeerGames.jpg,5.8,2000
+1368,Remember the Titans,Drama,RemembertheTitans.jpg,7.8,2000
+1369,Requiem for a Dream,Drama,RequiemforaDream.jpg,8.3,2000
+1370,Return to Me,Drama Romance,ReturntoMe.jpg,6.9,2000
+1371,Road Trip,Comedy,RoadTrip.jpg,6.4,2000
+1372,Romeo Must Die,Action Crime Romance Thriller,RomeoMustDie.jpg,6.1,2000
+1373,Rules of Engagement,Comedy,RulesofEngagement.jpg,7.1,2000
+1374,Scream 3,Horror,Scream3.jpg,5.1,2000
+1375,Sexy Beast,Crime Thriller,SexyBeast.jpg,7.1,2000
+1376,Shadow of the Vampire,Drama Horror,ShadowoftheVampire.jpg,6.6,2000
+1377,Shaft,Action,Shaft.jpg,5.5,2000
+1378,Shanghai Noon,Action Western,ShanghaiNoon.jpg,6.2,2000
+1379,Small Time Crooks,Comedy Crime,SmallTimeCrooks.jpg,6.4,2000
+1380,Snatch,Comedy Crime,Snatch.jpg,8.2,2000
+1381,Snow Day,Adventure Comedy Family,SnowDay.jpg,4.4,2000
+1382,Space Cowboys,Action,SpaceCowboys.jpg,6,2000
+1383,The 6th Day,Action Mystery Sci-Fi Thriller,The6thDay.jpg,5.5,2000
+1384,The Contender,Drama Thriller,TheContender.jpg,6.6,2000
+1385,The Dish,Comedy,DishThe.jpg,7.1,2000
+1386,The Emperor's New Groove,Animation Fantasy,TheEmperor'sNewGroove.jpg,7.1,2000
+1387,The Family Man,Comedy Fantasy Romance,TheFamilyMan.jpg,6.4,2000
+1388,The Flintstones in Viva Rock Vegas,Comedy Family Romance Sci-Fi,TheFlintstonesinVivaRockVegas.jpg,2.8,2000
+1389,The Kid,Comedy Family Fantasy,TheKid.jpg,5.7,2000
+1390,The Ladies Man,Comedy,TheLadiesMan.jpg,4.6,2000
+1391,The Legend of Bagger Vance,Drama Fantasy Sport,TheLegendofBaggerVance.jpg,6.4,2000
+1392,The Patriot,War,ThePatriot.jpg,6.9,2000
+1393,The Perfect Storm,Action,ThePerfectStorm.jpg,6,2000
+1394,The Replacements,Comedy Sport,TheReplacements.jpg,6.2,2000
+1395,The Road,Adventure Drama Thriller,RoadThe.jpg,6.4,2000
+1396,The Road to El Dorado,Animation,TheRoadtoElDorado.jpg,6.6,2000
+1397,The Skulls,Action Thriller,TheSkulls.jpg,5.1,2000
+1398,The Way of the Gun,Action Thriller,TheWayoftheGun.jpg,6.4,2000
+1399,The Whole Nine Yards,Comedy Crime,TheWholeNineYards.jpg,6.4,2000
+1400,The Yards,Crime Drama,TheYards.jpg,6.4,2000
+1401,Thirteen Days,War,ThirteenDays.jpg,7.1,2000
+1402,Titan A.E.,Animation,TitanA.E..jpg,6.2,2000
+1403,Traffic,Crime,Traffic.jpg,7.3,2000
+1404,Unbreakable,Drama Mystery Sci-Fi Thriller,Unbreakable.jpg,6.9,2000
+1405,Vertical Limit,Action,VerticalLimit.jpg,5.5,2000
+1406,What Lies Beneath,Drama Fantasy Horror Mystery Thriller,WhatLiesBeneath.jpg,6.2,2000
+1407,What Women Want,Comedy Fantasy Romance,WhatWomenWant.jpg,6,2000
+1408,Where the Heart Is,Comedy,WheretheHeartIs.jpg,6.4,2000
+1409,Wonder Boys,Comedy,WonderBoys.jpg,7.1,2000
+1410,X-Men,Sci-Fi,X-Men.jpg,7.1,2000
+1411,You Can Count on Me,Drama,YouCanCountonMe.jpg,7.5,2000
+1412,10 Things I Hate About You,Comedy,10ThingsIHateAboutYou.jpg,7.3,1999
+1413,200 Cigarettes,Comedy,200Cigarettes.jpg,6,1999
+1414,8MM,Drama Mystery Thriller,8MM.jpg,6.5,1999
+1415,All About My Mother,Drama,AllAboutMyMother.jpg,7.8,1999
+1416,American Beauty,Drama Romance,AmericanBeauty.jpg,8.3,1999
+1417,American Movie,Documentary,AmericanMovie.jpg,7.9,1999
+1418,American Pie,Comedy,AmericanPie.jpg,7,1999
+1419,An Ideal Husband,Comedy,IdealHusbandAn.jpg,6.8,1999
+1420,Analyze This,Comedy,AnalyzeThis.jpg,6.7,1999
+1421,Anna and the King,Drama Romance,AnnaandtheKing.jpg,6.7,1999
+1422,Any Given Sunday,Drama,AnyGivenSunday.jpg,6.9,1999
+1423,Arlington Road,Thriller,ArlingtonRoad.jpg,7.2,1999
+1424,At First Sight,Drama,AtFirstSight.jpg,6,1999
+1425,Audition,Drama Horror Mystery Romance Thriller,Audition.jpg,7.2,1999
+1426,Austin Powers The Spy Who Shagged Me,Action Comedy,AustinPowersTheSpyWhoShaggedMe.jpg,6.6,1999
+1427,Being John Malkovich,Comedy Fantasy,BeingJohnMalkovich.jpg,7.7,1999
+1428,Beyond the Mat,Documentary,BeyondtheMat.jpg,7.6,1999
+1429,Bicentennial Man,Drama Romance Sci-Fi,BicentennialMan.jpg,6.9,1999
+1430,Big Daddy,Comedy,BigDaddy.jpg,6.4,1999
+1431,Blast from the Past,Comedy,BlastfromthePast.jpg,6.6,1999
+1432,Blue Streak,Comedy,BlueStreak.jpg,6.3,1999
+1433,Bowfinger,Comedy,Bowfinger.jpg,6.4,1999
+1434,Boys Don't Cry,Drama,BoysDon'tCry.jpg,7.5,1999
+1435,Bringing Out the Dead,Drama,BringingOuttheDead.jpg,6.8,1999
+1436,Cookie's Fortune,Comedy,Cookie'sFortune.jpg,6.8,1999
+1437,Cruel Intentions,Drama,CruelIntentions.jpg,6.8,1999
+1438,Deep Blue Sea,Sci-Fi Thriller,DeepBlueSea.jpg,5.9,1999
+1439,Detroit Rock City,Comedy,DetroitRockCity.jpg,6.9,1999
+1440,Deuce Bigalow Male Gigolo,Comedy,DeuceBigalowMaleGigolo.jpg,5.7,1999
+1441,Dogma,Adventure Comedy Fantasy,Dogma.jpg,7.3,1999
+1442,Double Jeopardy,Action Crime,DoubleJeopardy.jpg,6.5,1999
+1443,Drive Me Crazy,Comedy,DriveMeCrazy.jpg,5.8,1999
+1444,Drop Dead Gorgeous,Comedy,DropDeadGorgeous.jpg,6.6,1999
+1445,East is East,Comedy,EastisEast.jpg,6.9,1999
+1446,Edtv,Comedy,Edtv.jpg,6.1,1999
+1447,Election,Comedy,Election.jpg,7.2,1999
+1448,End of Days,Action Fantasy Horror Mystery Thriller,EndofDays.jpg,5.8,1999
+1449,Entrapment,Crime Thriller,Entrapment.jpg,6.3,1999
+1450,eXistenZ,Action Sci-Fi,eXistenZ.jpg,6.8,1999
+1451,Eye of the Beholder,Thriller,EyeoftheBeholder.jpg,5.1,1999
+1452,Eyes Wide Shut,Drama Mystery Thriller,EyesWideShut.jpg,7.4,1999
+1453,Fantasia 2000,Animation Children Musical IMAX,Fantasia2000.jpg,7.2,1999
+1454,Fight Club,Action Crime,FightClub.jpg,8.8,1999
+1455,Flawless,Drama,Flawless.jpg,6.5,1999
+1456,For Love of the Game,Comedy,ForLoveoftheGame.jpg,6.6,1999
+1457,Forces of Nature,Comedy,ForcesofNature.jpg,5.4,1999
+1458,Galaxy Quest,Adventure Comedy Sci-Fi,GalaxyQuest.jpg,7.3,1999
+1459,Ghost Dog The Way of the Samurai,Crime Drama,GhostDogTheWayoftheSamurai.jpg,7.5,1999
+1460,Girl Interrupted,Drama,GirlInterrupted.jpg,7.3,1999
+1461,Go,Comedy Crime,Go.jpg,7.2,1999
+1462,Godzilla 2000,Sci-Fi,Godzilla2000.jpg,6.1,1999
+1463,House on Haunted Hill,Horror Thriller,HouseonHauntedHill.jpg,5.6,1999
+1464,Idle Hands,Comedy Horror,IdleHands.jpg,6.2,1999
+1465,Inspector Gadget,Action Adventure Children Comedy,InspectorGadget.jpg,4.1,1999
+1466,Jawbreaker,Comedy,Jawbreaker.jpg,5.7,1999
+1467,Jin Roh The Wolf Brigade,Animation Fantasy Thriller,JinRohTheWolfBrigade.jpg,7.4,1999
+1468,Lake Placid,Horror Thriller,LakePlacid.jpg,5.7,1999
+1469,Magnolia,Drama,Magnolia.jpg,8,1999
+1470,Man on the Moon,Comedy,ManontheMoon.jpg,7.4,1999
+1471,Mansfield Park,Comedy,MansfieldPark.jpg,7.1,1999
+1472,Message in a Bottle,Romance,MessageinaBottle.jpg,6.3,1999
+1473,Mickey Blue Eyes,Comedy,MickeyBlueEyes.jpg,5.8,1999
+1474,Mr. Death The Rise and Fall of Fred A. LeuchterJr.,Documentary,Mr.DeathTheRiseandFallofFredA.LeuchterJr..jpg,7.5,1999
+1475,Mumford,Comedy,Mumford.jpg,6.8,1999
+1476,Muppets From Space,Children Comedy,MuppetsFromSpace.jpg,6.3,1999
+1477,Mystery Men,Action Comedy Fantasy,MysteryMen.jpg,6.1,1999
+1478,Never Been Kissed,Comedy,NeverBeenKissed.jpg,6.1,1999
+1479,Notting Hill,Comedy,NottingHill.jpg,7.1,1999
+1480,October Sky,Drama,OctoberSky.jpg,7.8,1999
+1481,Office Space,Comedy Crime,OfficeSpace.jpg,7.7,1999
+1482,Pushing Tin,Comedy,PushingTin.jpg,6,1999
+1483,Random Hearts,Drama Romance,RandomHearts.jpg,5.3,1999
+1484,Ravenous,Horror Thriller,Ravenous.jpg,7,1999
+1485,Runaway Bride,Comedy,RunawayBride.jpg,5.1,1999
+1486,She's All That,Comedy,She'sAllThat.jpg,5.3,1999
+1487,Simply Irresistible,Comedy Fantasy Romance,SimplyIrresistible.jpg,4.8,1999
+1488,Star Wars Episode I - The Phantom Menace,Action Sci-Fi,StarWarsEpisodeI-ThePhantomMenace.jpg,6.2,1999
+1489,Stir of Echoes,Horror,StirofEchoes.jpg,6.6,1999
+1490,Stuart Little,Adventure Comedy Family Fantasy,StuartLittle.jpg,5.5,1999
+1491,Summer of Sam,Crime Romance Thriller,SummerofSam.jpg,6.2,1999
+1492,Superstar,Comedy,Superstar.jpg,4.4,1999
+1493,Tea with Mussolini,War,TeawithMussolini.jpg,6.6,1999
+1494,The Astronaut's Wife,Drama Sci-Fi Thriller,TheAstronaut'sWife.jpg,4.8,1999
+1495,The Blair Witch Project,Drama Horror Thriller,BlairWitchProjectThe.jpg,6.5,1999
+1496,The Bone Collector,Crime,TheBoneCollector.jpg,6.4,1999
+1497,The Boondock Saints,Action,TheBoondockSaints.jpg,7.8,1999
+1498,The General's Daughter,Drama Mystery Thriller,TheGeneral'sDaughter.jpg,6,1999
+1499,The Green Mile,Crime Fantasy Mystery,TheGreenMile.jpg,8.4,1999
+1500,The Haunting,Fantasy Horror Mystery Thriller,TheHaunting.jpg,4.4,1999
+1501,The Hurricane,Biography Drama Sport,TheHurricane.jpg,7.3,1999
+1502,The Insider,Biography Drama Thriller,TheInsider.jpg,7.8,1999
+1503,The Iron Giant,Animation Children Drama Sci-Fi,IronGiantThe.jpg,8,1999
+1504,The King of Comedy,Comedy,KingofComedyThe.jpg,7.3,1999
+1505,The Limey,Crime,TheLimey.jpg,6.9,1999
+1506,The Matrix,Action Sci-Fi,TheMatrix.jpg,8.7,1999
+1507,The Messenger The Story of Joan of Arc,Adventure Biography Drama History War,TheMessengerTheStoryofJoanofArc.jpg,6,1999
+1508,The Ninth Gate,Mystery Thriller,TheNinthGate.jpg,6.4,1999
+1509,The Out-of-Towners,Comedy,TheOut-of-Towners.jpg,4.8,1999
+1510,The Sixth Sense,Drama Mystery Thriller,TheSixthSense.jpg,8,1999
+1511,The Story of Us,Comedy,TheStoryofUs.jpg,5.5,1999
+1512,The Straight Story,Biography Drama,TheStraightStory.jpg,7.8,1999
+1513,The Talented Mr. Ripley,Crime,TheTalentedMr.Ripley.jpg,7.1,1999
+1514,The Thirteenth Floor,Mystery Sci-Fi Thriller,TheThirteenthFloor.jpg,6.6,1999
+1515,The Thomas Crown Affair,Crime Romance Thriller,TheThomasCrownAffair.jpg,6.4,1999
+1516,The Virgin Suicides,Drama Romance,TheVirginSuicides.jpg,6.9,1999
+1517,The World Is Not Enough,Action,TheWorldIsNotEnough.jpg,6,1999
+1518,Three Kings,War,ThreeKings.jpg,6.9,1999
+1519,Toy Story 2,Animation Fantasy,ToyStory2.jpg,7.8,1999
+1520,Varsity Blues,Comedy Sport,VarsityBlues.jpg,6,1999
+1521,Wild Wild West,Action Western,WildWildWest.jpg,4.2,1999
+1522,Wing Commander,Sci-Fi,WingCommander.jpg,3.5,1999
+1523,54,Drama,54.jpg,5.9,1998
+1524,20 Dates,Comedy,20Dates.jpg,5.4,1998
+1525,9 1-2 Weeks,Drama Romance,91-2Weeks.jpg,3.9,1998
+1526,A Bug's Life,Animation Children Comedy,Bug'sLifeA.jpg,7.2,1998
+1527,A Civil Action,Drama,CivilActionA.jpg,6.6,1998
+1528,A Perfect Murder,Thriller,PerfectMurderA.jpg,6.5,1998
+1529,American History X,Crime Drama,AmericanHistoryX.jpg,8.5,1998
+1530,Antz,Animation Children Comedy Fantasy,Antz.jpg,6.5,1998
+1531,Apt Pupil,Drama Thriller,AptPupil.jpg,6.7,1998
+1532,Armageddon,Action Romance Sci-Fi Thriller,Armageddon.jpg,6.7,1998
+1533,Babe Pig in the City,Adventure Children Drama,BabePigintheCity.jpg,5.7,1998
+1534,Babylon 5 In the Beginning,Adventure Sci-Fi,Babylon5IntheBeginning.jpg,7.7,1998
+1535,BASEketball,Comedy,BASEketball.jpg,6.5,1998
+1536,Black Cat White Cat,Comedy,BlackCatWhiteCat.jpg,8.1,1998
+1537,Blade,Horror,Blade.jpg,7.1,1998
+1538,Blues Brothers 2000,Action Comedy Musical,BluesBrothers2000.jpg,4.9,1998
+1539,Bride of Chucky,Comedy Horror Thriller,BrideofChucky.jpg,5.4,1998
+1540,Buffalo '66,Drama Romance,Buffalo'66.jpg,7.5,1998
+1541,Bulworth,Comedy,Bulworth.jpg,6.8,1998
+1542,Can't Hardly Wait,Comedy,Can'tHardlyWait.jpg,6.5,1998
+1543,Celebrity,Comedy,Celebrity.jpg,6.3,1998
+1544,Central Station,Drama,CentralStation.jpg,8,1998
+1545,City of Angels,Drama Fantasy Romance,CityofAngels.jpg,6.7,1998
+1546,Croupier,Crime Drama,Croupier.jpg,7.1,1998
+1547,Dark City,Adventure Film-Noir Sci-Fi Thriller,DarkCity.jpg,7.6,1998
+1548,Dead Man on Campus,Comedy,DeadManonCampus.jpg,6.1,1998
+1549,Deep Impact,Drama Sci-Fi Thriller,DeepImpact.jpg,6.2,1998
+1550,Deep Rising,Sci-Fi,DeepRising.jpg,6.1,1998
+1551,Dirty Work,Comedy,DirtyWork.jpg,6.5,1998
+1552,Doctor Dolittle,Adventure Children Musical,DoctorDolittle.jpg,5.4,1998
+1553,Dr. Dolittle,Comedy,Dr.Dolittle.jpg,5.4,1998
+1554,Elizabeth,Drama,Elizabeth.jpg,7.4,1998
+1555,Enemy of the State,Action Thriller,EnemyoftheState.jpg,7.3,1998
+1556,Ever After A Cinderella Story,Comedy,EverAfterACinderellaStory.jpg,7,1998
+1557,Fallen,Crime Drama Fantasy Thriller,Fallen.jpg,7,1998
+1558,Fear and Loathing in Las Vegas,Adventure Comedy,FearandLoathinginLasVegas.jpg,7.6,1998
+1559,Gia,Drama Romance,Gia.jpg,7,1998
+1560,Great Expectations,Drama Romance,GreatExpectations.jpg,6.9,1998
+1561,Half Baked,Comedy,HalfBaked.jpg,6.7,1998
+1562,Happiness,Comedy,Happiness.jpg,7.7,1998
+1563,He Got Game,Drama,HeGotGame.jpg,6.9,1998
+1564,Holy Man,Comedy,HolyMan.jpg,4.9,1998
+1565,I Still Know What You Did Last Summer,Horror Mystery Thriller,IStillKnowWhatYouDidLastSummer.jpg,4.7,1998
+1566,Jane Austen's Mafia!,Comedy Crime,JaneAusten'sMafia!.jpg,5.7,1998
+1567,Krippendorf's Tribe,Comedy,Krippendorf'sTribe.jpg,5,1998
+1568,Lethal Weapon 4,Comedy Crime,LethalWeapon4.jpg,6.6,1998
+1569,Major League Back to the Minors,Comedy,MajorLeagueBacktotheMinors.jpg,4.6,1998
+1570,Meet Joe Black,Romance,MeetJoeBlack.jpg,7.2,1998
+1571,Mercury Rising,Action Drama Thriller,MercuryRising.jpg,6.2,1998
+1572,Mighty Joe Young,Adventure Children Drama,MightyJoeYoung.jpg,5.6,1998
+1573,Next Stop Wonderland,Comedy,NextStopWonderland.jpg,6.6,1998
+1574,Night at the Roxbury,Comedy,NightattheRoxburyA.jpg,6.3,1998
+1575,Out of Sight,Comedy Crime Romance Thriller,OutofSight.jpg,7,1998
+1576,Palmetto,Crime Romance Thriller,Palmetto.jpg,6.1,1998
+1577,Patch Adams,Comedy,PatchAdams.jpg,6.8,1998
+1578,Paulie,Adventure Children Comedy,Paulie.jpg,6.5,1998
+1579,Pi,Drama Sci-Fi Thriller,Pi.jpg,7.4,1998
+1580,Playing by Heart,Drama Romance,PlayingbyHeart.jpg,7,1998
+1581,Pleasantville,Comedy Fantasy,Pleasantville.jpg,7.5,1998
+1582,Practical Magic,Drama Fantasy Mystery Romance,PracticalMagic.jpg,6.3,1998
+1583,Primary Colors,Comedy,PrimaryColors.jpg,6.6,1998
+1584,Ringu,Horror Mystery Thriller,Ringu.jpg,7.2,1998
+1585,Ronin,Action Adventure Crime Thriller,Ronin.jpg,7.1,1998
+1586,Rounders,Crime,Rounders.jpg,7.1,1998
+1587,Run Lola Run,Crime,RunLolaRun.jpg,7.5,1998
+1588,Rush Hour,Action,RushHour.jpg,5.3,1998
+1589,Rushmore,Comedy,Rushmore.jpg,7.5,1998
+1590,Saving Private Ryan,War,SavingPrivateRyan.jpg,8.4,1998
+1591,Sex and the City,Comedy,SexandtheCity.jpg,6.6,1998
+1592,Shakespeare in Love,Comedy,ShakespeareinLove.jpg,6.9,1998
+1593,Simon Birch,Comedy,SimonBirch.jpg,6.6,1998
+1594,Six Days Seven Nights,Action Romance,SixDaysSevenNights.jpg,5.3,1998
+1595,Six-String Samurai,Action Drama Music Sci-Fi,Six-StringSamurai.jpg,6.4,1998
+1596,Sliding Doors,Comedy Fantasy Romance,SlidingDoors.jpg,6.4,1998
+1597,Small Soldiers,Action Family Sci-Fi,SmallSoldiers.jpg,5.7,1998
+1598,Smoke Signals,Comedy,SmokeSignals.jpg,6.9,1998
+1599,Snake Eyes,Crime Mystery Thriller,SnakeEyes.jpg,5.5,1998
+1600,Soldier,Sci-Fi,Soldier.jpg,5.5,1998
+1601,Sphere,Drama Mystery Sci-Fi Thriller,Sphere.jpg,5.5,1998
+1602,Star Trek Insurrection,Sci-Fi,StarTrekInsurrection.jpg,6,1998
+1603,Stepmom,Comedy,Stepmom.jpg,6.4,1998
+1604,The Big Hit,Action Thriller,TheBigHit.jpg,5.7,1998
+1605,The Big Lebowski,Comedy Crime,TheBigLebowski.jpg,8,1998
+1606,The Faculty,Horror,FacultyThe.jpg,6.5,1998
+1607,The Man in the Iron Mask,Action Adventure,TheManintheIronMask.jpg,6,1998
+1608,The Mask of Zorro,Action Romance Thriller Western,TheMaskofZorro.jpg,6.4,1998
+1609,The Negotiator,Action Mystery Thriller,TheNegotiator.jpg,7.1,1998
+1610,The Object of My Affection,Comedy,TheObjectofMyAffection.jpg,5.5,1998
+1611,The Prince of Egypt,Animation Biography Drama Family Fantasy Musical,ThePrinceofEgypt.jpg,6.6,1998
+1612,The Red Violin,Drama Music Mystery Romance,TheRedViolin.jpg,7.5,1998
+1613,The Replacement Killers,Action,TheReplacementKillers.jpg,5.7,1998
+1614,The Rugrats Movie,Animation Musical,TheRugratsMovie.jpg,5.5,1998
+1615,The Siege,Action Thriller,TheSiege.jpg,6,1998
+1616,The Thin Red Line,War,TheThinRedLine.jpg,7.3,1998
+1617,The Truman Show,Comedy Sci-Fi,TheTrumanShow.jpg,8,1998
+1618,The Waterboy,Comedy Sport,TheWaterboy.jpg,5.7,1998
+1619,There's Something About Mary,Comedy,There'sSomethingAboutMary.jpg,6.9,1998
+1620,Urban Legend,Horror,UrbanLegend.jpg,5.1,1998
+1621,Vampires,Horror,Vampires.jpg,5.7,1998
+1622,Very Bad Things,Comedy Crime,VeryBadThings.jpg,6,1998
+1623,Waking Ned Devine,Comedy,WakingNedDevine.jpg,7.1,1998
+1624,What Dreams May Come,Drama Fantasy Romance,WhatDreamsMayCome.jpg,6.6,1998
+1625,Wild Things,Crime,WildThings.jpg,6.2,1998
+1626,You've Got Mail,Comedy,You'veGotMail.jpg,6.2,1998
+1627,Zero Effect,Crime Mystery Thriller,ZeroEffect.jpg,6.6,1998
+1628,A Life Less Ordinary,Romance Thriller,LifeLessOrdinaryA.jpg,6.4,1997
+1629,Absolute Power,Mystery Thriller,AbsolutePower.jpg,6.7,1997
+1630,Addicted to Love,Comedy,AddictedtoLove.jpg,6.1,1997
+1631,Air Force One,Action Thriller,AirForceOne.jpg,6.5,1997
+1632,Alien Resurrection,Sci-Fi,AlienResurrection.jpg,6.2,1997
+1633,Amistad,Drama Mystery,Amistad.jpg,7.3,1997
+1634,An American Werewolf in Paris,Comedy Horror Romance Thriller,AmericanWerewolfinParisAn.jpg,5.1,1997
+1635,Anaconda,Action Thriller,Anaconda.jpg,4.8,1997
+1636,Anastasia,Animation Children Drama Musical,Anastasia.jpg,7.2,1997
+1637,As Good as It Gets,Comedy,AsGoodasItGets.jpg,7.7,1997
+1638,Austin Powers International Man of Mystery,Action Comedy,AustinPowersInternationalManofMystery.jpg,7,1997
+1639,Batman & Robin,Action Adventure Fantasy Thriller,Batman&Robin.jpg,3.7,1997
+1640,Bean,Comedy,Bean.jpg,6.5,1997
+1641,Beverly Hills Ninja,Action Comedy,BeverlyHillsNinja.jpg,5.6,1997
+1642,Boogie Nights,Drama,BoogieNights.jpg,7.9,1997
+1643,Booty Call,Comedy,BootyCall.jpg,5.4,1997
+1644,Breakdown,Action Thriller,Breakdown.jpg,6.9,1997
+1645,Chasing Amy,Comedy,ChasingAmy.jpg,7.2,1997
+1646,Clockwatchers,Comedy,Clockwatchers.jpg,6.5,1997
+1647,Con Air,Action Thriller,ConAir.jpg,6.9,1997
+1648,Conspiracy Theory,Drama Mystery Romance Thriller,ConspiracyTheory.jpg,6.7,1997
+1649,Cop Land,Action Crime,CopLand.jpg,6.9,1997
+1650,Dante's Peak,Action Thriller,Dante'sPeak.jpg,5.9,1997
+1651,Deconstructing Harry,Comedy,DeconstructingHarry.jpg,7.4,1997
+1652,Donnie Brasco,Crime Drama,DonnieBrasco.jpg,7.7,1997
+1653,Event Horizon,Horror,EventHorizon.jpg,6.7,1997
+1654,Fierce Creatures,Comedy,FierceCreatures.jpg,6.4,1997
+1655,Flubber,Children Comedy Fantasy,Flubber.jpg,5.3,1997
+1656,Fools Rush In,Comedy,FoolsRushIn.jpg,6.1,1997
+1657,For Richer or Poorer,Comedy,ForRicherorPoorer.jpg,5.8,1997
+1658,G.I. Jane,Action Drama,G.I.Jane.jpg,5.9,1997
+1659,Gattaca,Drama Sci-Fi Thriller,Gattaca.jpg,7.8,1997
+1660,Good Will Hunting,Drama Romance,GoodWillHunting.jpg,8.3,1997
+1661,Grosse Pointe Blank,Comedy Crime Romance,GrossePointeBlank.jpg,7.3,1997
+1662,Hercules,Animation Children Comedy Musical,Hercules.jpg,7.3,1997
+1663,Home Alone 3,Children Comedy,HomeAlone3.jpg,4.5,1997
+1664,I Know What You Did Last Summer,Horror Mystery Thriller,IKnowWhatYouDidLastSummer.jpg,5.7,1997
+1665,In & Out,Comedy,In&Out.jpg,6.4,1997
+1666,In the Company of Men,Comedy,IntheCompanyofMen.jpg,7.2,1997
+1667,Inventing the Abbotts,Drama Romance,InventingtheAbbotts.jpg,6.4,1997
+1668,Jackie Brown,Crime,JackieBrown.jpg,7.5,1997
+1669,Jungle2Jungle,Children Comedy,Jungle2Jungle.jpg,5.2,1997
+1670,Kiss the Girls,Crime Thriller,KisstheGirls.jpg,6.6,1997
+1671,L.A. Confidential,Crime Film-Noir Mystery Thriller,L.A.Confidential.jpg,8.2,1997
+1672,Liar Liar,Comedy,LiarLiar.jpg,6.9,1997
+1673,Life Is Beautiful,Comedy War,LifeIsBeautiful.jpg,8.6,1997
+1674,Lolita,Drama Romance,Lolita.jpg,6.9,1997
+1675,Lost Highway,Crime Drama Fantasy Film-Noir Mystery Romance,LostHighway.jpg,7.6,1997
+1676,Mad City,Action Drama,MadCity.jpg,6.3,1997
+1677,Men in Black,Action Comedy Sci-Fi,MeninBlack.jpg,7.3,1997
+1678,Midnight in the Garden of Good and Evil,Crime,MidnightintheGardenofGoodandEvil.jpg,6.6,1997
+1679,Mimic,Horror,Mimic.jpg,5.9,1997
+1680,Mortal Kombat Annihilation,Action Adventure Fantasy,MortalKombatAnnihilation.jpg,3.7,1997
+1681,Mr. Nice Guy,Action Comedy,Mr.NiceGuy.jpg,6.2,1997
+1682,Mrs. Brown,Drama Romance,Mrs.Brown.jpg,7.2,1997
+1683,My Best Friend's Wedding,Comedy,MyBestFriend'sWedding.jpg,6.3,1997
+1684,My Life in Pink,Comedy,MyLifeinPink.jpg,7.6,1997
+1685,Neon Genesis Evangelion The End of Evangelion,Animation Sci-Fi,NeonGenesisEvangelionTheEndofEvangelion.jpg,8.1,1997
+1686,No Man's Land,War,NoMan'sLand.jpg,7.2,1997
+1687,Nothing to Lose,Action Crime,NothingtoLose.jpg,6.7,1997
+1688,Open Your Eyes,Drama Romance Sci-Fi Thriller,OpenYourEyes.jpg,7.8,1997
+1689,Orgazmo,Comedy,Orgazmo.jpg,6.2,1997
+1690,Perfect Blue,Animation Thriller,PerfectBlue.jpg,8,1997
+1691,Picture Perfect,Comedy,PicturePerfect.jpg,5.5,1997
+1692,Prefontaine,Drama,Prefontaine.jpg,6.8,1997
+1693,Princess Mononoke,Animation,PrincessMononoke.jpg,8.4,1997
+1694,Private Parts,Comedy,PrivateParts.jpg,6.9,1997
+1695,Scream 2,Horror,Scream2.jpg,5.7,1997
+1696,Selena,Biography Drama Music,Selena.jpg,6.4,1997
+1697,Seven Years in Tibet,Adventure Biography Drama History War,SevenYearsinTibet.jpg,6.6,1997
+1698,Shooting Fish,Comedy Crime Romance,ShootingFish.jpg,6.2,1997
+1699,Smilla's Sense of Snow,Sci-Fi,Smilla'sSenseofSnow.jpg,6,1997
+1700,Spawn,Action Horror,Spawn.jpg,4.6,1997
+1701,Speed 2 Cruise Control,Action Crime Romance Thriller,Speed2CruiseControl.jpg,3,1997
+1702,Spice World,Comedy Family Music,SpiceWorld.jpg,2.6,1997
+1703,Starship Troopers,Action Sci-Fi War,StarshipTroopers.jpg,6.9,1997
+1704,The Apostle,Drama,TheApostle.jpg,6.9,1997
+1705,The Borrowers,Adventure Comedy Family Fantasy,TheBorrowers.jpg,5.3,1997
+1706,The Devil's Advocate,Drama Mystery Thriller,TheDevil'sAdvocate.jpg,7.3,1997
+1707,The Devil's Own,Action Thriller,TheDevil'sOwn.jpg,5.7,1997
+1708,The Edge,Action,TheEdge.jpg,6.6,1997
+1709,The Fifth Element,Sci-Fi,TheFifthElement.jpg,7.5,1997
+1710,The Full Monty,Comedy Music,TheFullMonty.jpg,6.9,1997
+1711,The Game,Drama Mystery Thriller,TheGame.jpg,7.5,1997
+1712,The Ice Storm,Drama,TheIceStorm.jpg,7.3,1997
+1713,The Jackal,Action Adventure Crime Thriller,TheJackal.jpg,6,1997
+1714,The Lost World Jurassic Park,Sci-Fi,TheLostWorldJurassicPark.jpg,6.2,1997
+1715,The Man Who Knew Too Little,Action Thriller,TheManWhoKnewTooLittle.jpg,6.2,1997
+1716,The Peacemaker,Action Thriller,ThePeacemaker.jpg,5.5,1997
+1717,The Postman,Sci-Fi,ThePostman.jpg,5.5,1997
+1718,The Rainmaker,Crime,TheRainmaker.jpg,6.9,1997
+1719,The Saint,Action Adventure Romance Sci-Fi Thriller,TheSaint.jpg,5.7,1997
+1720,The Spanish Prisoner,Drama Mystery Thriller,TheSpanishPrisoner.jpg,7.1,1997
+1721,The Sweet Hereafter,Drama,TheSweetHereafter.jpg,7.5,1997
+1722,Titanic,Drama Romance,Titanic.jpg,7.5,1997
+1723,Tomorrow Never Dies,Action,TomorrowNeverDies.jpg,6.2,1997
+1724,Volcano,Sci-Fi,Volcano.jpg,4.8,1997
+1725,Wag the Dog,Comedy,WagtheDog.jpg,6.9,1997
+1726,101 Dalmatians,Adventure Children Comedy,101Dalmatians.jpg,5.7,1996
+1727,101 Dalmatians,Animation Children,101Dalmatians.jpg,5.7,1996
+1728,2 Days in the Valley,Crime Film-Noir,2DaysintheValley.jpg,6.5,1996
+1729,Aladdin and the King of Thieves,Animation Children Comedy Fantasy Musical Romance,AladdinandtheKingofThieves.jpg,6.4,1996
+1730,All Dogs Go to Heaven 2,Animation Children Fantasy Musical Romance,AllDogsGotoHeaven2.jpg,5.5,1996
+1731,Barb Wire,Action Sci-Fi,BarbWire.jpg,3.3,1996
+1732,Basquiat,Drama,Basquiat.jpg,6.9,1996
+1733,Beautiful Girls,Comedy,BeautifulGirls.jpg,7.1,1996
+1734,Beavis and Butt-Head Do America,Animation Comedy Crime,BeavisandButt-HeadDoAmerica.jpg,6.8,1996
+1735,Big Bully,Comedy,BigBully.jpg,4.7,1996
+1736,Big Night,Comedy,BigNight.jpg,7.3,1996
+1737,Bio-Dome,Comedy,Bio-Dome.jpg,4.5,1996
+1738,Bloodsport 2,Action,Bloodsport2.jpg,4.8,1996
+1739,Bottle Rocket,Adventure Comedy Crime Romance,BottleRocket.jpg,7,1996
+1740,Bound,Crime Drama Romance Thriller,Bound.jpg,7.3,1996
+1741,Breaking the Waves,Drama Mystery,BreakingtheWaves.jpg,7.8,1996
+1742,Broken Arrow,Action Thriller,BrokenArrow.jpg,6,1996
+1743,Celtic Pride,Comedy,CelticPride.jpg,5.3,1996
+1744,City Hall,Drama Thriller,CityHall.jpg,6.2,1996
+1745,Courage Under Fire,Action Crime War,CourageUnderFire.jpg,6.6,1996
+1746,D3 The Mighty Ducks,Children Comedy,D3TheMightyDucks.jpg,5.5,1996
+1747,Daylight,Action Thriller,Daylight.jpg,5.9,1996
+1748,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Comedy Crime,Don'tBeaMenacetoSouthCentralWhileDrinkingYourJuiceintheHood.jpg,6.6,1996
+1749,Down Periscope,Comedy,DownPeriscope.jpg,6.2,1996
+1750,Dragonheart,Action Adventure Fantasy,Dragonheart.jpg,6.5,1996
+1751,Eraser,Action Drama Thriller,Eraser.jpg,6.1,1996
+1752,Escape from L.A.,Action Thriller,EscapefromL.A..jpg,5.8,1996
+1753,Everyone Says I Love You,Comedy Musical Romance,EveryoneSaysILoveYou.jpg,6.7,1996
+1754,Evita,Drama Musical,Evita.jpg,6.3,1996
+1755,Executive Decision,Action Thriller,ExecutiveDecision.jpg,6.4,1996
+1756,Fear,Thriller,Fear.jpg,6.3,1996
+1757,Feeling Minnesota,Drama Romance,FeelingMinnesota.jpg,5.4,1996
+1758,First Kid,Children Comedy,FirstKid.jpg,5.2,1996
+1759,Fled,Action Adventure,Fled.jpg,5.4,1996
+1760,Flirting With Disaster,Comedy,FlirtingWithDisaster.jpg,6.7,1996
+1761,Fly Away Home,Adventure Children,FlyAwayHome.jpg,6.8,1996
+1762,Freeway,Comedy Crime,Freeway.jpg,6.8,1996
+1763,From Dusk Till Dawn,Action Comedy Horror Thriller,FromDuskTillDawn.jpg,7.2,1996
+1764,Hamlet,Crime Drama Romance,Hamlet.jpg,7.7,1996
+1765,Happy Gilmore,Comedy,HappyGilmore.jpg,7,1996
+1766,Harriet the Spy,Children Comedy,HarriettheSpy.jpg,5.9,1996
+1767,Hellraiser Bloodline,Sci-Fi,HellraiserBloodline.jpg,5.2,1996
+1768,High School High,Comedy,HighSchoolHigh.jpg,5.6,1996
+1769,Homeward Bound II Lost in San Francisco,Adventure Children,HomewardBoundIILostinSanFrancisco.jpg,5.9,1996
+1770,Independence Day,Action Thriller,IndependenceDay.jpg,7,1996
+1771,James and the Giant Peach,Animation Children Fantasy Musical,JamesandtheGiantPeach.jpg,6.7,1996
+1772,Jerry Maguire,Drama Romance,JerryMaguire.jpg,7.3,1996
+1773,Jingle All the Way,Children Comedy,JingleAlltheWay.jpg,5.6,1996
+1774,Joe's Apartment,Comedy Fantasy Musical,Joe'sApartment.jpg,5.5,1996
+1775,Jude,Drama,Jude.jpg,6.9,1996
+1776,Kazaam,Children Comedy Fantasy,Kazaam.jpg,3,1996
+1777,Kids in the Hall Brain Candy,Comedy,KidsintheHallBrainCandy.jpg,6.9,1996
+1778,Kingpin,Comedy,Kingpin.jpg,6.9,1996
+1779,Kolya,Comedy,Kolya.jpg,7.8,1996
+1780,Larger Than Life,Comedy,LargerThanLife.jpg,5.7,1996
+1781,Lawnmower Man 2 Beyond Cyberspace,Action Sci-Fi,LawnmowerMan2BeyondCyberspace.jpg,2.5,1996
+1782,Lone Star,Drama Mystery Western,LoneStar.jpg,7.4,1996
+1783,Looking for Richard,Documentary Drama,LookingforRichard.jpg,7.3,1996
+1784,Mars Attacks!,Action Comedy Sci-Fi,MarsAttacks!.jpg,6.3,1996
+1785,Marvin's Room,Drama,Marvin'sRoom.jpg,6.7,1996
+1786,Mary Reilly,Drama Horror Thriller,MaryReilly.jpg,5.8,1996
+1787,Matilda,Children Comedy Fantasy,Matilda.jpg,6.9,1996
+1788,Maximum Risk,Action Thriller,MaximumRisk.jpg,5.5,1996
+1789,Michael Collins,Drama,MichaelCollins.jpg,7.2,1996
+1790,Mission Impossible,Action Adventure Mystery Thriller,MissionImpossible.jpg,7.1,1996
+1791,Mr. Wrong,Comedy,Mr.Wrong.jpg,3.9,1996
+1792,Mulholland Falls,Crime,MulhollandFalls.jpg,6.3,1996
+1793,Multiplicity,Comedy,Multiplicity.jpg,6.1,1996
+1794,Muppet Treasure Island,Adventure Children Comedy Musical,MuppetTreasureIsland.jpg,7,1996
+1795,My Fellow Americans,Comedy,MyFellowAmericans.jpg,6.5,1996
+1796,Mystery Science Theater 3000 The Movie,Comedy Sci-Fi,MysteryScienceTheater3000TheMovie.jpg,7.3,1996
+1797,One Fine Day,Drama Romance,OneFineDay.jpg,6.5,1996
+1798,Paradise Lost The Child Murders at Robin Hood Hills,Documentary,ParadiseLostTheChildMurdersatRobinHoodHills.jpg,8.3,1996
+1799,Phenomenon,Drama Romance,Phenomenon.jpg,6.4,1996
+1800,Primal Fear,Crime Thriller,PrimalFear.jpg,7.7,1996
+1801,Ransom,Crime Thriller,Ransom.jpg,6.6,1996
+1802,Romeo and Juliet,Drama Romance,Romeo+Juliet.jpg,6.7,1996
+1803,Scream,Horror,Scream.jpg,6.9,1996
+1804,Sgt. Bilko,Comedy,Sgt.Bilko.jpg,5.3,1996
+1805,She's the One,Comedy,She'stheOne.jpg,5.7,1996
+1806,Shine,Biography Drama Music Romance,Shine.jpg,7.5,1996
+1807,Sleepers,Crime,Sleepers.jpg,7.3,1996
+1808,Sling Blade,Drama,SlingBlade.jpg,7.8,1996
+1809,Space Jam,Animation Fantasy Sci-Fi Sport,SpaceJam.jpg,6,1996
+1810,Spy Hard,Action Comedy,SpyHard.jpg,4.8,1996
+1811,Star Trek First Contact,Action Thriller,StarTrekFirstContact.jpg,7.3,1996
+1812,Striptease,Crime Thriller,Striptease.jpg,3.7,1996
+1813,Swingers,Comedy,Swingers.jpg,7.1,1996
+1814,That Thing You Do!,Comedy Music,ThatThingYouDo!.jpg,6.6,1996
+1815,The Adventures of Pinocchio,Adventure Family Fantasy Musical,TheAdventuresofPinocchio.jpg,4.8,1996
+1816,The Cable Guy,Comedy Thriller,TheCableGuy.jpg,5.5,1996
+1817,The English Patient,War,TheEnglishPatient.jpg,7.1,1996
+1818,The Fan,Action Drama Sport Thriller,TheFan.jpg,5.3,1996
+1819,The First Wives Club,Comedy,FirstWivesClubThe.jpg,6.4,1996
+1820,The Ghost and the Darkness,Adventure Drama Horror Thriller,TheGhostandtheDarkness.jpg,6.4,1996
+1821,The Glimmer Man,Action Drama Thriller,TheGlimmerMan.jpg,4.8,1996
+1822,The Hunchback of Notre Dame,Animation Musical Romance,TheHunchbackofNotreDame.jpg,6.6,1996
+1823,The Island of Dr. Moreau,Horror,TheIslandofDr.Moreau.jpg,3.7,1996
+1824,The Juror,Drama Thriller,TheJuror.jpg,5.1,1996
+1825,The Long Kiss Goodnight,Action Mystery Thriller,TheLongKissGoodnight.jpg,6.4,1996
+1826,The Nutty Professor,Comedy Sci-Fi,TheNuttyProfessor.jpg,5.1,1996
+1827,The Pallbearer,Comedy,ThePallbearer.jpg,4.4,1996
+1828,The Phantom,Action Fantasy,ThePhantom.jpg,4.4,1996
+1829,The Rock,Action,TheRock.jpg,7.1,1996
+1830,Thinner,Fantasy Horror,Thinner.jpg,5.3,1996
+1831,Tin Cup,Comedy Sport,TinCup.jpg,6,1996
+1832,Trainspotting,Drama,Trainspotting.jpg,8,1996
+1833,Twister,Action,Twister.jpg,6,1996
+1834,Waiting for Guffman,Comedy,WaitingforGuffman.jpg,7.3,1996
+1835,White Squall,Adventure Drama,WhiteSquall.jpg,6.2,1996
+1836,A Goofy Movie,Animation Children Comedy,GoofyMovieA.jpg,6.8,1995
+1837,A Kid in King Arthur's Court,Adventure Children Comedy Fantasy Romance,KidinKingArthur'sCourtA.jpg,4.7,1995
+1838,A Little Princess,Children Drama,LittlePrincessA.jpg,7.7,1995
+1839,Ace Ventura When Nature Calls,Comedy,AceVenturaWhenNatureCalls.jpg,6.4,1995
+1840,Angels and Insects,Drama Romance,AngelsandInsects.jpg,6.8,1995
+1841,Angus,Comedy,Angus.jpg,6.7,1995
+1842,Anne Frank Remembered,Documentary,AnneFrankRemembered.jpg,8,1995
+1843,Antonia's Line,Comedy,Antonia'sLine.jpg,7.4,1995
+1844,Apollo 13,Adventure Drama IMAX,Apollo13.jpg,7.6,1995
+1845,Assassins,Action,Assassins.jpg,6.3,1995
+1846,Babe,Children Drama,Babe.jpg,6.7,1995
+1847,Bad Boys,Comedy Crime,BadBoys.jpg,6.9,1995
+1848,Balto,Animation Children,Balto.jpg,7.1,1995
+1849,Batman Forever,Action Comedy Crime,BatmanForever.jpg,5.4,1995
+1850,Before Sunrise,Drama Romance,BeforeSunrise.jpg,8.1,1995
+1851,Beyond Rangoon,Adventure Drama,BeyondRangoon.jpg,6.6,1995
+1852,Billy Madison,Comedy,BillyMadison.jpg,6.4,1995
+1853,Boys on the Side,Comedy,BoysontheSide.jpg,6.5,1995
+1854,Braveheart,War,Braveheart.jpg,8.3,1995
+1855,Casino,Crime Drama,Casino.jpg,8.2,1995
+1856,Circle of Friends,Drama Romance,CircleofFriends.jpg,6.6,1995
+1857,Clockers,Crime,Clockers.jpg,6.9,1995
+1858,Clueless,Comedy,Clueless.jpg,6.8,1995
+1859,Cold Comfort Farm,Comedy,ColdComfortFarm.jpg,7.2,1995
+1860,Congo,Action Adventure Mystery Sci-Fi,Congo.jpg,5.3,1995
+1861,Copycat,Horror Mystery Thriller,Copycat.jpg,6.6,1995
+1862,Crimson Tide,War,CrimsonTide.jpg,7.3,1995
+1863,Cutthroat Island,Action Adventure Romance,CutthroatIsland.jpg,5.7,1995
+1864,Dangerous Minds,Drama,DangerousMinds.jpg,6.5,1995
+1865,Dead Man,Drama Mystery Western,DeadMan.jpg,7.6,1995
+1866,Dead Man Walking,Crime Drama,DeadManWalking.jpg,7.5,1995
+1867,Dead Presidents,Action Crime,DeadPresidents.jpg,6.9,1995
+1868,Desperado,Action Romance Western,Desperado.jpg,7.2,1995
+1869,Devil in a Blue Dress,Crime Film-Noir Mystery Thriller,DevilinaBlueDress.jpg,6.7,1995
+1870,Die Hard With a Vengeance,Action,DieHardWithaVengeance.jpg,7.6,1995
+1871,Dolores Claiborne,Drama Thriller,DoloresClaiborne.jpg,7.4,1995
+1872,Dracula Dead and Loving It,Comedy Horror,DraculaDeadandLovingIt.jpg,5.9,1995
+1873,Empire Records,Comedy,EmpireRecords.jpg,6.7,1995
+1874,Father of the Bride Part II,Comedy,FatheroftheBridePartII.jpg,6,1995
+1875,First Knight,Action Drama Romance,FirstKnight.jpg,6,1995
+1876,Forget Paris,Comedy,ForgetParis.jpg,6.5,1995
+1877,Four Rooms,Comedy,FourRooms.jpg,6.8,1995
+1878,Free Willy 2 The Adventure Home,Adventure Children Drama,FreeWilly2TheAdventureHome.jpg,5.1,1995
+1879,French Kiss,Action Comedy,FrenchKiss.jpg,6.6,1995
+1880,French Twist,Comedy,FrenchTwist.jpg,6.4,1995
+1881,Friday,Comedy,Friday.jpg,7.3,1995
+1882,GoldenEye,Action Thriller,GoldenEye.jpg,7.2,1995
+1883,Grumpier Old Men,Comedy,GrumpierOldMen.jpg,6.7,1995
+1884,Hackers,Action Adventure Crime Thriller,Hackers.jpg,6.3,1995
+1885,Halloween The Curse of Michael Myers,Horror Thriller,HalloweenTheCurseofMichaelMyers.jpg,4.9,1995
+1886,Hate,Crime Drama,Hate.jpg,8.1,1995
+1887,Heat,Action,Heat.jpg,8.2,1995
+1888,Heavyweights,Children Comedy,Heavyweights.jpg,6.7,1995
+1889,Higher Learning,Drama,HigherLearning.jpg,6.5,1995
+1890,Home for the Holidays,Drama,HomefortheHolidays.jpg,6.6,1995
+1891,Houseguest,Comedy,Houseguest.jpg,6,1995
+1892,How to Make an American Quilt,Drama Romance,HowtoMakeanAmericanQuilt.jpg,6.3,1995
+1893,In the Mouth of Madness,Horror Thriller,IntheMouthofMadness.jpg,7.2,1995
+1894,Jade,Thriller,Jade.jpg,5.3,1995
+1895,Jeffrey,Comedy,Jeffrey.jpg,6.8,1995
+1896,Johnny Mnemonic,Action Sci-Fi,JohnnyMnemonic.jpg,5.7,1995
+1897,Jumanji,Adventure Children,Jumanji.jpg,7,1995
+1898,Jury Duty,Comedy,JuryDuty.jpg,4.3,1995
+1899,Just Cause,Mystery Thriller,JustCause.jpg,6.4,1995
+1900,Kids,Drama,Kids.jpg,7.1,1995
+1901,Kiss of Death,Crime,KissofDeath.jpg,5.9,1995
+1902,Leaving Las Vegas,Drama Romance,LeavingLasVegas.jpg,7.5,1995
+1903,Living in Oblivion,Comedy,LivinginOblivion.jpg,7.5,1995
+1904,Lord of Illusions,Horror,LordofIllusions.jpg,6.1,1995
+1905,Major Payne,Comedy,MajorPayne.jpg,6.3,1995
+1906,Mallrats,Comedy,Mallrats.jpg,7.1,1995
+1907,Man of the House,Comedy,ManoftheHouse.jpg,5.2,1995
+1908,Mighty Aphrodite,Comedy,MightyAphrodite.jpg,7,1995
+1909,Mighty Morphin Power Rangers The Movie,Action Children,MightyMorphinPowerRangersTheMovie.jpg,5.2,1995
+1910,Money Train,Comedy Crime,MoneyTrain.jpg,5.7,1995
+1911,Mortal Kombat,Action Adventure Fantasy,MortalKombat.jpg,5.8,1995
+1912,Mr. Holland's Opus,Drama,Mr.Holland'sOpus.jpg,7.3,1995
+1913,National Lampoon's Senior Trip,Comedy,NationalLampoon'sSeniorTrip.jpg,5.8,1995
+1914,Nick of Time,Action Thriller,NickofTime.jpg,6.3,1995
+1915,Nine Months,Comedy,NineMonths.jpg,5.5,1995
+1916,Nixon,Drama,Nixon.jpg,7.1,1995
+1917,Now and Then,Children Drama,NowandThen.jpg,6.8,1995
+1918,Operation Dumbo Drop,Action Comedy War,OperationDumboDrop.jpg,5.1,1995
+1919,Outbreak,Action Thriller,Outbreak.jpg,6.6,1995
+1920,Pocahontas,Animation Children Drama Musical Romance,Pocahontas.jpg,6.7,1995
+1921,Powder,Drama Sci-Fi,Powder.jpg,6.6,1995
+1922,Restoration,Drama,Restoration.jpg,6.6,1995
+1923,Richard III,War,RichardIII.jpg,7.4,1995
+1924,Rob Roy,Action Drama Romance War,RobRoy.jpg,6.9,1995
+1925,Rumble in the Bronx,Action Comedy,RumbleintheBronx.jpg,6.4,1995
+1926,Sense and Sensibility,Drama Romance,SenseandSensibility.jpg,7.5,1995
+1927,Showgirls,Drama,Showgirls.jpg,3.9,1995
+1928,Species,Sci-Fi,Species.jpg,5.3,1995
+1929,Tales from the Crypt Presents Demon Knight,Action Fantasy Horror Thriller,TalesfromtheCryptDemonKnight.jpg,6.4,1995
+1930,Tales from the Hood,Comedy Horror Thriller,TalesfromtheHood.jpg,5.7,1995
+1931,Tank Girl,Action,TankGirl.jpg,4.6,1995
+1932,The American President,Comedy,TheAmericanPresident.jpg,6.4,1995
+1933,The Bridges of Madison County,Drama Romance,TheBridgesofMadisonCounty.jpg,7.3,1995
+1934,The Brothers McMullen,Comedy,TheBrothersMcMullen.jpg,6.2,1995
+1935,The Jerky Boys,Comedy Crime,TheJerkyBoys.jpg,3.9,1995
+1936,The Net,Action Mystery Thriller,TheNet.jpg,5.3,1995
+1937,The Quick and the Dead,Action Thriller Western,TheQuickandtheDead.jpg,6,1995
+1938,The Usual Suspects,Crime,TheUsualSuspects.jpg,8.4,1995
+1939,Things to Do in Denver When You're Dead,Crime,ThingstoDoinDenverWhenYou'reDead.jpg,6.4,1995
+1940,To Die For,Crime,ToDieFor.jpg,6.4,1995
+1941,Toy Story,Animation Fantasy,ToyStory.jpg,8.2,1995
+1942,Under Siege 2 Dark Territory,Action Thriller,UnderSiege2DarkTerritory.jpg,4.8,1995
+1943,Vampire in Brooklyn,Comedy Fantasy Horror Romance,VampireinBrooklyn.jpg,3.9,1995
+1944,Virtuosity,Crime Thriller,Virtuosity.jpg,5.1,1995
+1945,Waterworld,Sci-Fi,Waterworld.jpg,5.7,1995
+1946,Welcome to the Dollhouse,Comedy,WelcometotheDollhouse.jpg,7.3,1995
+1947,Ace Ventura Pet Detective,Comedy,AceVenturaPetDetective.jpg,6.9,1994
+1948,Adventures of PriscillaQueen of the Desert,Comedy,AdventuresofPriscillaQueenoftheDesert.jpg,7.4,1994
+1949,Airheads,Comedy,Airheads.jpg,6.1,1994
+1950,Angels in the Outfield,Children Comedy,AngelsintheOutfield.jpg,6.2,1994
+1951,Backbeat,Drama Musical,Backbeat.jpg,6.6,1994
+1952,Barcelona,Comedy,Barcelona.jpg,7,1994
+1953,Beverly Hills Cop III,Comedy Crime,BeverlyHillsCopIII.jpg,5.6,1994
+1954,Black Beauty,Adventure Children Drama,BlackBeauty.jpg,6.6,1994
+1955,Blank Check,Children Comedy,BlankCheck.jpg,5.3,1994
+1956,Blown Away,Action Thriller,BlownAway.jpg,6.2,1994
+1957,Bullets Over Broadway,Comedy,BulletsOverBroadway.jpg,7.4,1994
+1958,Burnt by the Sun,Drama,BurntbytheSun.jpg,7.9,1994
+1959,Cabin Boy,Comedy,CabinBoy.jpg,5.4,1994
+1960,Cemetery Man,Horror,CemeteryMan.jpg,7.2,1994
+1961,City Slickers II The Legend of Curly's Gold,Adventure Comedy Western,CitySlickersIITheLegendofCurly'sGold.jpg,5.6,1994
+1962,Clean Slate,Comedy,CleanSlate.jpg,5.7,1994
+1963,Clear and Present Danger,Action Crime,ClearandPresentDanger.jpg,6.9,1994
+1964,Clerks,Comedy,Clerks.jpg,7.7,1994
+1965,Cobb,Drama,Cobb.jpg,6.5,1994
+1966,Cops and Robbersons,Comedy,CopsandRobbersons.jpg,5.2,1994
+1967,Corrina Corrina,Comedy,CorrinaCorrina.jpg,6.6,1994
+1968,Crumb,Documentary,Crumb.jpg,8,1994
+1969,D2 The Mighty Ducks,Children Comedy,D2TheMightyDucks.jpg,6.1,1994
+1970,Death and the Maiden,Drama Thriller,DeathandtheMaiden.jpg,7.3,1994
+1971,Don Juan DeMarco,Comedy,DonJuanDeMarco.jpg,6.7,1994
+1972,Drop Zone,Action Thriller,DropZone.jpg,5.6,1994
+1973,Dumb & Dumber,Adventure Comedy,Dumb&Dumber.jpg,7.3,1994
+1974,Eat Drink Man Woman,Comedy,EatDrinkManWoman.jpg,7.8,1994
+1975,Ed Wood,Comedy,EdWood.jpg,7.8,1994
+1976,Exit to Eden,Comedy,ExittoEden.jpg,4.3,1994
+1977,Exotica,Drama,Exotica.jpg,7,1994
+1978,Farinelli il castrato,Drama Musical,Farinelliilcastrato.jpg,6.8,1994
+1979,Forrest Gump,Comedy War,ForrestGump.jpg,8.8,1994
+1980,Four Weddings and a Funeral,Comedy,FourWeddingsandaFuneral.jpg,7,1994
+1981,Frankenstein,Drama Horror,Frankenstein.jpg,6.4,1994
+1982,Heavenly Creatures,Crime Drama,HeavenlyCreatures.jpg,7.3,1994
+1983,Highlander III The Sorcerer,Action Fantasy,HighlanderIIITheSorcerer.jpg,4.5,1994
+1984,Hoop Dreams,Documentary,HoopDreams.jpg,8.3,1994
+1985,I Love Trouble,Action Comedy,ILoveTrouble.jpg,5.3,1994
+1986,I.Q.,Comedy,I.Q..jpg,6.2,1994
+1987,I'll Do Anything,Comedy,I'llDoAnything.jpg,5.5,1994
+1988,Immortal Beloved,Drama Romance,ImmortalBeloved.jpg,7.4,1994
+1989,In the Army Now,Comedy War,IntheArmyNow.jpg,5,1994
+1990,Interview with the Vampire The Vampire Chronicles,Drama Horror,InterviewwiththeVampireTheVampireChronicles.jpg,7.6,1994
+1991,It Could Happen to You,Comedy,ItCouldHappentoYou.jpg,6.4,1994
+1992,Legends of the Fall,Drama Romance War Western,LegendsoftheFall.jpg,7.6,1994
+1993,Little Big League,Comedy,LittleBigLeague.jpg,6.1,1994
+1994,Mary Shelley's Frankenstein,Drama Horror,MaryShelley'sFrankenstein.jpg,6.4,1994
+1995,Mask,Drama,Mask.jpg,6.9,1994
+1996,Milk Money,Comedy,MilkMoney.jpg,5.6,1994
+1997,Mixed Nuts,Comedy,MixedNuts.jpg,5.5,1994
+1998,Muriel's Wedding,Comedy,Muriel'sWedding.jpg,7.2,1994
+1999,My Father the Hero,Comedy,MyFathertheHero.jpg,5.5,1994
+2000,Natural Born Killers,Action,NaturalBornKillers.jpg,7.3,1994
+2001,Nell,Drama,Nell.jpg,6.5,1994
+2002,North,Comedy,North.jpg,4.5,1994
+2003,Once Were Warriors,Crime Drama,OnceWereWarriors.jpg,7.9,1994
+2004,Only You,Comedy,OnlyYou.jpg,6.5,1994
+2005,PCU,Comedy,PCU.jpg,6.6,1994
+2006,Police Academy Mission to Moscow,Comedy Crime,PoliceAcademyMissiontoMoscow.jpg,3.6,1994
+2007,Princess Caraboo,Drama,PrincessCaraboo.jpg,6,1994
+2008,Pulp Fiction,Comedy Crime,PulpFiction.jpg,8.9,1994
+2009,Queen Margot,Drama Romance,QueenMargot.jpg,7.4,1994
+2010,Quiz Show,Drama,QuizShow.jpg,7.5,1994
+2011,Ready to Wear,Comedy,ReadytoWear.jpg,5.1,1994
+2012,Reality Bites,Comedy,RealityBites.jpg,6.6,1994
+2013,Renaissance Man,Comedy,RenaissanceMan.jpg,6.2,1994
+2014,Richie Rich,Children Comedy,RichieRich.jpg,5.4,1994
+2015,Serial Mom,Comedy Crime,SerialMom.jpg,6.4,1994
+2016,Speed,Action Adventure Crime Thriller,Speed.jpg,6.9,1994
+2017,Star Trek Generations,Action Adventure Mystery Sci-Fi Thriller,StarTrekGenerations.jpg,6.2,1994
+2018,Street Fighter,Action,StreetFighter.jpg,3,1994
+2019,The Crow,Action Drama Fantasy,TheCrow.jpg,7.3,1994
+2020,The Flintstones,Comedy Family Fantasy,TheFlintstones.jpg,4.2,1994
+2021,The Hudsucker Proxy,Comedy Fantasy,TheHudsuckerProxy.jpg,7.1,1994
+2022,The Legend of Drunken Master,Action Comedy,TheLegendofDrunkenMaster.jpg,7.3,1994
+2023,The Lion King,Animation Musical,TheLionKing.jpg,8.4,1994
+2024,The Return of Jafar,Animation Children Fantasy Musical Romance,ReturnofJafarThe.jpg,5.9,1994
+2025,The River Wild,Action Adventure Crime Thriller,TheRiverWild.jpg,6,1994
+2026,The Santa Clause,Comedy,TheSantaClause.jpg,6,1994
+2027,The Shawshank Redemption,Crime,TheShawshankRedemption.jpg,9.3,1994
+2028,The Specialist,Action Romance Thriller,TheSpecialist.jpg,4.8,1994
+2029,Timecop,Crime Thriller,Timecop.jpg,5.3,1994
+2030,True Lies,Action Comedy Thriller,TrueLies.jpg,6.9,1994
+2031,Wolf,Drama Horror Romance Thriller,Wolf.jpg,5.7,1994
+2032,A Bronx Tale,Drama,BronxTaleA.jpg,7.8,1993
+2033,Addams Family Values,Children Comedy Fantasy,AddamsFamilyValues.jpg,6.7,1993
+2034,Alive,Drama,Alive.jpg,7.1,1993
+2035,Another Stakeout,Comedy Thriller,AnotherStakeout.jpg,5.6,1993
+2036,Arizona Dream,Comedy Fantasy Romance,ArizonaDream.jpg,7.3,1993
+2037,Batman Mask of the Phantasm,Animation Children,BatmanMaskofthePhantasm.jpg,7.8,1993
+2038,Beethoven's 2nd,Children Comedy,Beethoven's2nd.jpg,4.9,1993
+2039,Benny & Joon,Comedy,Benny&Joon.jpg,7.2,1993
+2040,Blink,Thriller,Blink.jpg,6.2,1993
+2041,Body Snatchers,Horror,BodySnatchers.jpg,5.9,1993
+2042,Boxing Helena,Drama Mystery Romance Thriller,BoxingHelena.jpg,4.8,1993
+2043,Carlito's Way,Crime Drama,Carlito'sWay.jpg,7.9,1993
+2044,CB4 - The Movie,Comedy,CB4-TheMovie.jpg,6.3,1993
+2045,Cliffhanger,Action Thriller,Cliffhanger.jpg,6.4,1993
+2046,Coneheads,Comedy Sci-Fi,Coneheads.jpg,5.3,1993
+2047,Cool Runnings,Comedy,CoolRunnings.jpg,7,1993
+2048,Dazed and Confused,Comedy,DazedandConfused.jpg,7.6,1993
+2049,Demolition Man,Sci-Fi,DemolitionMan.jpg,6.7,1993
+2050,Dennis the Menace,Comedy,DennistheMenace.jpg,5.6,1993
+2051,Dragon The Bruce Lee Story,Action Drama,DragonTheBruceLeeStory.jpg,7,1993
+2052,Even Cowgirls Get the Blues,Comedy,EvenCowgirlsGettheBlues.jpg,4.4,1993
+2053,Falling Down,Action Drama,FallingDown.jpg,7.6,1993
+2054,Farewell My Concubine,Drama Romance,FarewellMyConcubine.jpg,8.1,1993
+2055,Fatal Instinct,Comedy,FatalInstinct.jpg,5.8,1993
+2056,For Love or Money,Comedy,ForLoveorMoney.jpg,6.2,1993
+2057,Free Willy,Adventure Children Drama,FreeWilly.jpg,6,1993
+2058,Geronimo An American Legend,Drama Western,GeronimoAnAmericanLegend.jpg,6.5,1993
+2059,Gettysburg,War,Gettysburg.jpg,7.6,1993
+2060,Groundhog Day,Comedy Fantasy Romance,GroundhogDay.jpg,8,1993
+2061,Grumpy Old Men,Comedy,GrumpyOldMen.jpg,7,1993
+2062,Hard Target,Action Adventure Crime Thriller,HardTarget.jpg,6.2,1993
+2063,Heart and Souls,Comedy Fantasy,HeartandSouls.jpg,7,1993
+2064,Hocus Pocus,Children Comedy Fantasy Horror,HocusPocus.jpg,6.9,1993
+2065,Homeward Bound The Incredible Journey,Adventure Children Drama,HomewardBoundTheIncredibleJourney.jpg,6.9,1993
+2066,Hot Shots! Part Deux,Action Comedy War,HotShots!PartDeux.jpg,6.6,1993
+2067,In the Line of Fire,Action Thriller,IntheLineofFire.jpg,7.2,1993
+2068,In the Name of the Father,Drama,IntheNameoftheFather.jpg,8.1,1993
+2069,Indecent Proposal,Drama Romance,IndecentProposal.jpg,6,1993
+2070,Iron Monkey,Action Comedy,IronMonkey.jpg,7.5,1993
+2071,Jurassic Park,Action Thriller,JurassicPark.jpg,8.1,1993
+2072,Kalifornia,Drama Thriller,Kalifornia.jpg,6.7,1993
+2073,Killing Zoe,Crime,KillingZoe.jpg,6.5,1993
+2074,Last Action Hero,Action Comedy Fantasy,LastActionHero.jpg,6.4,1993
+2075,Loaded Weapon 1,Action Comedy,LoadedWeapon1.jpg,6.2,1993
+2076,Look Who's Talking Now,Children Comedy,LookWho'sTalkingNow.jpg,4.4,1993
+2077,Made in America,Comedy,MadeinAmerica.jpg,5.1,1993
+2078,Malice,Thriller,Malice.jpg,6.4,1993
+2079,Manhattan Murder Mystery,Comedy Mystery,ManhattanMurderMystery.jpg,7.4,1993
+2080,Menace II Society,Action Crime,MenaceIISociety.jpg,7.5,1993
+2081,Mrs. Doubtfire,Comedy,Mrs.Doubtfire.jpg,7,1993
+2082,Much Ado About Nothing,Comedy,MuchAdoAboutNothing.jpg,7.3,1993
+2083,Naked,Drama,Naked.jpg,7.8,1993
+2084,Ninja Scroll,Animation Fantasy,NinjaScroll.jpg,7.9,1993
+2085,Red Rock West,Thriller,RedRockWest.jpg,7,1993
+2086,Rising Sun,Action Drama Mystery,RisingSun.jpg,6.3,1993
+2087,Robin Hood Men in Tights,Comedy,RobinHoodMeninTights.jpg,6.7,1993
+2088,RoboCop 3,Action Crime Sci-Fi Thriller,RoboCop3.jpg,4.1,1993
+2089,Schindler's List,War,Schindler'sList.jpg,8.9,1993
+2090,Shadowlands,Biography Drama Romance,Shadowlands.jpg,7.1,1993
+2091,Super Mario Bros.,Adventure Comedy Family Fantasy Sci-Fi,SuperMarioBros..jpg,3.3,1993
+2092,Teenage Mutant Ninja Turtles III,Action Family Fantasy Sci-Fi,TeenageMutantNinjaTurtlesIII.jpg,4.2,1993
+2093,The Age of Innocence,Drama Romance,TheAgeofInnocence.jpg,6.9,1993
+2094,The Firm,Drama Mystery Thriller,TheFirm.jpg,6.4,1993
+2095,The Fugitive,Action Adventure Crime Thriller,TheFugitive.jpg,7.5,1993
+2096,The Pelican Brief,Crime,ThePelicanBrief.jpg,6.2,1993
+2097,The Remains of the Day,Drama Romance,TheRemainsoftheDay.jpg,7.8,1993
+2098,Tombstone,Action Biography Drama History Romance Western,Tombstone.jpg,7.5,1993
+2099,True Romance,Action Romance Thriller,TrueRomance.jpg,7.8,1993
+2100,What's Eating Gilbert Grape,Drama Romance,What'sEatingGilbertGrape.jpg,7.5,1993
+2101,What's Love Got to Do with It?,Biography Drama Music,What'sLoveGottoDowithIt.jpg,6.9,1993
+2102,3 Ninjas,Action Children Comedy,3Ninjas.jpg,5.3,1992
+2103,A Few Good Men,Crime,FewGoodMenA.jpg,7.7,1992
+2104,A League of Their Own,Comedy,LeagueofTheirOwnA.jpg,7.3,1992
+2105,A River Runs Through It,Drama,RiverRunsThroughItA.jpg,7.2,1992
+2106,Army of Darkness,Action Comedy Fantasy Horror,ArmyofDarkness.jpg,7.5,1992
+2107,Bad Lieutenant,Crime Drama,BadLieutenant.jpg,7.1,1992
+2108,Basic Instinct,Crime Mystery Thriller,BasicInstinct.jpg,7,1992
+2109,Batman Returns,Action Crime,BatmanReturns.jpg,7,1992
+2110,Beethoven,Children Comedy,Beethoven.jpg,5.7,1992
+2111,Bitter Moon,Drama Film-Noir Romance,BitterMoon.jpg,7.2,1992
+2112,Bob Roberts,Comedy,BobRoberts.jpg,7,1992
+2113,Boomerang,Comedy,Boomerang.jpg,5.5,1992
+2114,Captain Ron,Adventure Comedy,CaptainRon.jpg,5.8,1992
+2115,Dead Alive,Comedy Fantasy Horror,DeadAlive.jpg,7.5,1992
+2116,Death Becomes Her,Comedy Fantasy,DeathBecomesHer.jpg,6.6,1992
+2117,Dracula,Fantasy Horror Romance Thriller,Dracula.jpg,7.4,1992
+2118,Encino Man,Comedy,EncinoMan.jpg,5.8,1992
+2119,Far and Away,Adventure Drama Romance,FarandAway.jpg,6.6,1992
+2120,Ferngully The Last Rainforest,Animation Children Comedy Musical,FerngullyTheLastRainforest.jpg,6.5,1992
+2121,Forever Young,Drama Romance Sci-Fi,ForeverYoung.jpg,6.3,1992
+2122,Glengarry Glen Ross,Drama,GlengarryGlenRoss.jpg,7.7,1992
+2123,Hard-Boiled,Action Crime,Hard-Boiled.jpg,7.8,1992
+2124,Home Alone 2 Lost in New York,Children Comedy,HomeAlone2LostinNewYork.jpg,6.8,1992
+2125,HoneyI Blew Up the Kid,Children Comedy Sci-Fi,HoneyIBlewUptheKid.jpg,4.8,1992
+2126,Honeymoon in Vegas,Comedy,HoneymooninVegas.jpg,5.8,1992
+2127,Howards End,Drama,HowardsEnd.jpg,7.4,1992
+2128,Husbands and Wives,Comedy,HusbandsandWives.jpg,7.5,1992
+2129,Jennifer 8,Mystery Thriller,Jennifer8.jpg,6.3,1992
+2130,Lethal Weapon 3,Comedy Crime,LethalWeapon3.jpg,6.7,1992
+2131,Like Water for Chocolate,Drama Fantasy Romance,LikeWaterforChocolate.jpg,7.1,1992
+2132,Malcolm X,Drama,MalcolmX.jpg,7.7,1992
+2133,Man Bites Dog,Comedy Crime,ManBitesDog.jpg,7.5,1992
+2134,MariachiEl,Action Western,MariachiEl.jpg,6.9,1992
+2135,Medicine Man,Adventure Romance,MedicineMan.jpg,6,1992
+2136,My Cousin Vinny,Comedy,MyCousinVinny.jpg,7.6,1992
+2137,Newsies,Children Musical,Newsies.jpg,7,1992
+2138,Of Mice and Men,Drama,OfMiceandMen.jpg,7.5,1992
+2139,Passion Fish,Drama,PassionFish.jpg,7.4,1992
+2140,Patriot Games,Action Crime,PatriotGames.jpg,6.9,1992
+2141,Peter's Friends,Comedy,Peter'sFriends.jpg,7,1992
+2142,Poison Ivy,Drama Thriller,PoisonIvy.jpg,5.4,1992
+2143,Porco Rosso,Animation Comedy Fantasy Romance,PorcoRosso.jpg,7.7,1992
+2144,Reservoir Dogs,Crime Mystery Thriller,ReservoirDogs.jpg,8.3,1992
+2145,The Bodyguard,Action Drama Music Romance,TheBodyguard.jpg,5.7,1992
+2146,The Crying Game,Crime Romance Thriller,TheCryingGame.jpg,7.1,1992
+2147,The Last of the Mohicans,Action Adventure Romance War,TheLastoftheMohicans.jpg,7.5,1992
+2148,The Lawnmower Man,Horror,TheLawnmowerMan.jpg,4.8,1992
+2149,The Mighty Ducks,Comedy Sport,TheMightyDucks.jpg,6,1992
+2150,The Muppet Christmas Carol,Comedy Musical,TheMuppetChristmasCarol.jpg,7.5,1992
+2151,The Player,Action Thriller,ThePlayer.jpg,6.9,1992
+2152,Unforgiven,Drama Western,Unforgiven.jpg,8.2,1992
+2153,Wayne's World,Comedy Music,Wayne'sWorld.jpg,6.6,1992
+2154,An American Tail Fievel Goes West,Animation Children Musical Western,AmericanTailFievelGoesWestAn.jpg,6.5,1991
+2155,Armour of God II Operation Condor,Action Comedy,ArmourofGodIIOperationCondor.jpg,7.3,1991
+2156,Backdraft,Action Drama,Backdraft.jpg,6.7,1991
+2157,Barton Fink,Drama Thriller,BartonFink.jpg,7.7,1991
+2158,Bill & Ted's Bogus Journey,Adventure Comedy Fantasy Sci-Fi,Bill&Ted'sBogusJourney.jpg,6.3,1991
+2159,Boyz n the Hood,Crime Drama,BoyzntheHood.jpg,7.7,1991
+2160,Cape Fear,Thriller,CapeFear.jpg,7.3,1991
+2161,Child's Play 3,Comedy Horror Thriller,Child'sPlay3.jpg,5.1,1991
+2162,City Slickers,Comedy Western,CitySlickers.jpg,6.7,1991
+2163,Dead Again,Mystery Romance Thriller,DeadAgain.jpg,6.9,1991
+2164,Defending Your Life,Comedy Fantasy Romance,DefendingYourLife.jpg,7.2,1991
+2165,Delicatessen,Comedy,Delicatessen.jpg,7.6,1991
+2166,Doc Hollywood,Comedy,DocHollywood.jpg,6.2,1991
+2167,Don't Tell Mom the Babysitter's Dead,Comedy,Don'tTellMomtheBabysitter'sDead.jpg,6.3,1991
+2168,Drop Dead Fred,Comedy Fantasy,DropDeadFred.jpg,6,1991
+2169,Enchanted April,Drama Romance,EnchantedApril.jpg,7.3,1991
+2170,Father of the Bride,Comedy,FatheroftheBride.jpg,6.5,1991
+2171,Freddy's Dead The Final Nightmare,Horror,Freddy'sDeadTheFinalNightmare.jpg,4.9,1991
+2172,Fried Green Tomatoes,Comedy Crime,FriedGreenTomatoes.jpg,7.7,1991
+2173,F-X2,Action,F-X2.jpg,5.9,1991
+2174,Grand Canyon,Crime Drama,GrandCanyon.jpg,6.9,1991
+2175,Harley Davidson and the Marlboro Man,Action Crime,HarleyDavidsonandtheMarlboroMan.jpg,6.2,1991
+2176,Hearts of Darkness A Filmmakers Apocalypse,Documentary,HeartsofDarknessAFilmmakersApocalypse.jpg,8.1,1991
+2177,Highlander II The Quickening,Action Sci-Fi,HighlanderIITheQuickening.jpg,4.3,1991
+2178,Hook,Adventure Comedy Fantasy,Hook.jpg,6.8,1991
+2179,Hot Shots!,Action Comedy War,HotShots!.jpg,6.8,1991
+2180,JFK,Drama Mystery Thriller,JFK.jpg,8,1991
+2181,Jungle Fever,Drama Romance,JungleFever.jpg,6.5,1991
+2182,L.A. Story,Comedy,L.A.Story.jpg,6.7,1991
+2183,Little Man Tate,Drama,LittleManTate.jpg,6.6,1991
+2184,Madonna Truth or Dare,Documentary Musical,MadonnaTruthorDare.jpg,6.4,1991
+2185,Mediterraneo,Comedy,Mediterraneo.jpg,7.5,1991
+2186,My Girl,Comedy,MyGirl.jpg,6.9,1991
+2187,My Own Private Idaho,Drama Romance,MyOwnPrivateIdaho.jpg,7.1,1991
+2188,Naked Lunch,Drama Fantasy Mystery Sci-Fi,NakedLunch.jpg,7.1,1991
+2189,Night on Earth,Comedy,NightonEarth.jpg,7.8,1991
+2190,Once Upon a Time in China,Action Adventure,OnceUponaTimeinChina.jpg,7.3,1991
+2191,Point Break,Action,PointBreak.jpg,7.3,1991
+2192,Problem Child 2,Comedy,ProblemChild2.jpg,4.9,1991
+2193,Raise the Red Lantern,Drama,RaisetheRedLantern.jpg,8.1,1991
+2194,Regarding Henry,Drama,RegardingHenry.jpg,6.7,1991
+2195,Robin Hood Prince of Thieves,Adventure Drama,RobinHoodPrinceofThieves.jpg,6.9,1991
+2196,Star Trek VI The Undiscovered Country,Sci-Fi,StarTrekVITheUndiscoveredCountry.jpg,6.9,1991
+2197,Teenage Mutant Ninja Turtles II The Secret of the Ooze,Action Family Sci-Fi,TeenageMutantNinjaTurtlesIITheSecretoftheOoze.jpg,5.5,1991
+2198,Terminator 2 Judgment Day,Action Sci-Fi,Terminator2JudgmentDay.jpg,8.4,1991
+2199,The Addams Family,Comedy Fantasy,TheAddamsFamily.jpg,6.4,1991
+2200,The Doors,Biography Drama Music Musical,TheDoors.jpg,6.9,1991
+2201,The Fisher King,Comedy Fantasy,TheFisherKing.jpg,7.3,1991
+2202,The Prince of Tides,Drama Romance,ThePrinceofTides.jpg,6.2,1991
+2203,The Silence of the Lambs,Crime,TheSilenceoftheLambs.jpg,8.4,1991
+2204,Air America,Action Comedy,AirAmerica.jpg,5.8,1990
+2205,Another 48 Hrs.,Comedy Crime,Another48Hrs..jpg,5.9,1990
+2206,Arachnophobia,Comedy Horror,Arachnophobia.jpg,6.4,1990
+2207,Back to the Future Part III,Adventure Comedy Sci-Fi Western,BacktotheFuturePartIII.jpg,7.4,1990
+2208,Bird on a Wire,Action Comedy,BirdonaWire.jpg,6,1990
+2209,Cry-Baby,Comedy Musical Romance,Cry-Baby.jpg,6.5,1990
+2210,Cyrano de Bergerac,Comedy,CyranodeBergerac.jpg,7.5,1990
+2211,Dances with Wolves,Adventure Drama Western,DanceswithWolves.jpg,8,1990
+2212,Days of Thunder,Action Drama Romance,DaysofThunder.jpg,6,1990
+2213,Dick Tracy,Action Crime,DickTracy.jpg,6.1,1990
+2214,Die Hard 2,Action Thriller,DieHard2.jpg,7.2,1990
+2215,Edward Scissorhands,Drama Fantasy Romance,EdwardScissorhands.jpg,7.9,1990
+2216,Femme NikitaLa,Action Crime Romance Thriller,FemmeNikitaLa.jpg,7.3,1990
+2217,Ghost,Comedy Fantasy Romance Thriller,Ghost.jpg,7,1990
+2218,Goodfellas,Crime Drama,Goodfellas.jpg,8.7,1990
+2219,Green Card,Comedy,GreenCard.jpg,6.2,1990
+2220,Gremlins 2 The New Batch,Comedy Horror,Gremlins2TheNewBatch.jpg,6.4,1990
+2221,Home Alone,Children Comedy,HomeAlone.jpg,7.6,1990
+2222,Jacob's Ladder,Horror Mystery,Jacob'sLadder.jpg,7.5,1990
+2223,Joe Versus the Volcano,Comedy,JoeVersustheVolcano.jpg,5.8,1990
+2224,Kindergarten Cop,Comedy Crime,KindergartenCop.jpg,6.1,1990
+2225,King of New York,Crime Thriller,KingofNewYork.jpg,7,1990
+2226,Look Who's Talking Too,Comedy,LookWho'sTalkingToo.jpg,4.7,1990
+2227,Lord of the Flies,Adventure Drama Thriller,LordoftheFlies.jpg,6.4,1990
+2228,Memphis Belle,War,MemphisBelle.jpg,6.9,1990
+2229,Mermaids,Comedy,Mermaids.jpg,6.7,1990
+2230,Metropolitan,Comedy,Metropolitan.jpg,7.4,1990
+2231,Miller's Crossing,Crime Drama Film-Noir Thriller,Miller'sCrossing.jpg,7.7,1990
+2232,Misery,Drama Horror Thriller,Misery.jpg,7.8,1990
+2233,Mo' Better Blues,Drama Musical,Mo'BetterBlues.jpg,6.6,1990
+2234,My Blue Heaven,Comedy,MyBlueHeaven.jpg,6.3,1990
+2235,Pacific Heights,Mystery Thriller,PacificHeights.jpg,6.4,1990
+2236,Paris Is Burning,Documentary,ParisIsBurning.jpg,8.2,1990
+2237,Predator 2,Action Sci-Fi,Predator2.jpg,6.3,1990
+2238,Presumed Innocent,Crime,PresumedInnocent.jpg,6.9,1990
+2239,Pretty Woman,Comedy,PrettyWoman.jpg,7,1990
+2240,Problem Child,Children Comedy,ProblemChild.jpg,5.5,1990
+2241,Pump Up the Volume,Comedy,PumpUptheVolume.jpg,7.2,1990
+2242,Quick Change,Comedy Crime,QuickChange.jpg,6.8,1990
+2243,Reversal of Fortune,Drama,ReversalofFortune.jpg,7.2,1990
+2244,RoboCop 2,Action Crime Sci-Fi Thriller,RoboCop2.jpg,5.8,1990
+2245,Rocky V,Action Drama,RockyV.jpg,5.3,1990
+2246,The Godfather Part III,Crime,TheGodfatherPartIII.jpg,7.3,1990
+2247,The Hunt for Red October,Action,TheHuntforRedOctober.jpg,7.3,1990
+2248,Total Recall,Action Sci-Fi,TotalRecall.jpg,7.3,1990
+2249,Tremors,Comedy Horror,Tremors.jpg,6.9,1990
+2250,A Nightmare on Elm Street 5 The Dream Child,Horror,NightmareonElmStreet5TheDreamChildA.jpg,5.2,1989
+2251,All Dogs Go to Heaven,Animation Children Comedy Fantasy,AllDogsGotoHeaven.jpg,6.8,1989
+2252,Always,Drama Fantasy Romance,Always.jpg,6.4,1989
+2253,Back to the Future Part II,Adventure Comedy Sci-Fi,BacktotheFuturePartII.jpg,7.8,1989
+2254,Bill & Ted's Excellent Adventure,Adventure Comedy Sci-Fi,Bill&Ted'sExcellentAdventure.jpg,6.9,1989
+2255,Born on the Fourth of July,War,BornontheFourthofJuly.jpg,7.2,1989
+2256,Christmas Vacation,Comedy,ChristmasVacation.jpg,7.6,1989
+2257,Crimes and Misdemeanors,Comedy Crime,CrimesandMisdemeanors.jpg,7.9,1989
+2258,Dead Calm,Thriller,DeadCalm.jpg,6.8,1989
+2259,Dead Poets Society,Drama,DeadPoetsSociety.jpg,8.1,1989
+2260,Do the Right Thing,Drama,DotheRightThing.jpg,7.9,1989
+2261,Driving Miss Daisy,Drama,DrivingMissDaisy.jpg,7.4,1989
+2262,Drugstore Cowboy,Crime Drama,DrugstoreCowboy.jpg,7.3,1989
+2263,Erik the Viking,Adventure Comedy Fantasy,EriktheViking.jpg,6.3,1989
+2264,Field of Dreams,Children Drama Fantasy,FieldofDreams.jpg,7.5,1989
+2265,Fletch Lives,Comedy,FletchLives.jpg,6.1,1989
+2266,Ghostbusters II,Comedy Fantasy Sci-Fi,GhostbustersII.jpg,6.6,1989
+2267,Glory,War,Glory.jpg,7.8,1989
+2268,Heathers,Comedy,Heathers.jpg,7.2,1989
+2269,Henry V,Action Drama Romance War,HenryV.jpg,7.5,1989
+2270,HoneyI Shrunk the Kids,Adventure Children Comedy Fantasy Sci-Fi,HoneyIShrunktheKids.jpg,6.3,1989
+2271,Indiana Jones and the Last Crusade,Action Adventure,IndianaJonesandtheLastCrusade.jpg,8.2,1989
+2272,Karate Kid Part III,Action Adventure Children Drama,KarateKidPartIII.jpg,5.2,1989
+2273,Kiki's Delivery Service,Animation Children Drama Fantasy,Kiki'sDeliveryService.jpg,7.8,1989
+2274,Lean on Me,Drama,LeanonMe.jpg,7.4,1989
+2275,Lethal Weapon 2,Comedy Crime,LethalWeapon2.jpg,7.2,1989
+2276,Licence to Kill,Action Thriller,LicencetoKill.jpg,6.6,1989
+2277,Look Who's Talking,Comedy,LookWho'sTalking.jpg,5.9,1989
+2278,Major League,Comedy,MajorLeague.jpg,7.2,1989
+2279,My Left Foot,Drama,MyLeftFoot.jpg,7.9,1989
+2280,Mystery Train,Comedy,MysteryTrain.jpg,7.6,1989
+2281,Road House,Action Drama,RoadHouse.jpg,6.6,1989
+2282,Roger & Me,Documentary,Roger&Me.jpg,7.4,1989
+2283,Star Trek V The Final Frontier,Sci-Fi,StarTrekVTheFinalFrontier.jpg,4.8,1989
+2284,The Abyss,Sci-Fi,TheAbyss.jpg,7.3,1989
+2285,Troop Beverly Hills,Adventure Comedy,TroopBeverlyHills.jpg,5.1,1989
+2286,We're No Angels,Comedy Crime,We'reNoAngels.jpg,5.5,1989
+2287,A Fish Called Wanda,Comedy Crime,FishCalledWandaA.jpg,7.5,1988
+2288,A Nightmare on Elm Street 4 The Dream Master,Horror Thriller,NightmareonElmStreet4TheDreamMasterA.jpg,5.7,1988
+2289,Akira,Animation Sci-Fi,Akira.jpg,8,1988
+2290,Alien Nation,Crime Drama Sci-Fi Thriller,AlienNation.jpg,6.3,1988
+2291,Beaches,Comedy Musical,Beaches.jpg,7,1988
+2292,Beetlejuice,Comedy Fantasy,Beetlejuice.jpg,7.5,1988
+2293,Big,Comedy Fantasy Romance,Big.jpg,7.3,1988
+2294,Big Top Pee-Wee,Adventure Children Comedy,BigTopPee-Wee.jpg,5.1,1988
+2295,Bloodsport,Action,Bloodsport.jpg,6.8,1988
+2296,Bull Durham,Comedy,BullDurham.jpg,7.1,1988
+2297,Cinema Paradiso,Drama,CinemaParadiso.jpg,8.5,1988
+2298,Cocktail,Drama Romance,Cocktail.jpg,5.9,1988
+2299,Cocoon The Return,Comedy Sci-Fi,CocoonTheReturn.jpg,5.4,1988
+2300,Coming to America,Comedy,ComingtoAmerica.jpg,7,1988
+2301,Crocodile Dundee II,Action Comedy,CrocodileDundeeII.jpg,5.6,1988
+2302,Dangerous Liaisons,Drama Romance,DangerousLiaisons.jpg,7.6,1988
+2303,Dead Ringers,Drama Horror Thriller,DeadRingers.jpg,7.3,1988
+2304,Die Hard,Action,DieHard.jpg,8.2,1988
+2305,Earth Girls Are Easy,Comedy Musical Sci-Fi,EarthGirlsAreEasy.jpg,5.4,1988
+2306,Eight Men Out,Drama,EightMenOut.jpg,7.2,1988
+2307,Funny Farm,Comedy,FunnyFarm.jpg,6.2,1988
+2308,Gorillas in the Mist,Drama,GorillasintheMist.jpg,7,1988
+2309,Grave of the Fireflies,Animation War,GraveoftheFireflies.jpg,8.5,1988
+2310,Hellbound Hellraiser II,Horror,HellboundHellraiserII.jpg,6.5,1988
+2311,Married to the Mob,Comedy,MarriedtotheMob.jpg,6.2,1988
+2312,Midnight Run,Comedy Crime,MidnightRun.jpg,7.5,1988
+2313,Mississippi Burning,Crime,MississippiBurning.jpg,7.8,1988
+2314,My Neighbor Totoro,Animation Children Drama Fantasy,MyNeighborTotoro.jpg,8.2,1988
+2315,My Stepmother Is an Alien,Comedy Sci-Fi,MyStepmotherIsanAlien.jpg,5.3,1988
+2316,Mystic Pizza,Comedy,MysticPizza.jpg,6.3,1988
+2317,Oliver & Company,Animation Children Comedy Musical,Oliver&Company.jpg,6.7,1988
+2318,Police Academy 5 Assignment Miami Beach,Comedy Crime,PoliceAcademy5AssignmentMiamiBeach.jpg,4.7,1988
+2319,Pumpkinhead,Horror,Pumpkinhead.jpg,6.2,1988
+2320,Rain Man,Drama,RainMan.jpg,8,1988
+2321,Rambo III,Action Thriller War,RamboIII.jpg,5.8,1988
+2322,Scrooged,Comedy Fantasy,Scrooged.jpg,6.6,1988
+2323,The Land Before Time,Animation,TheLandBeforeTime.jpg,7.1,1988
+2324,The Last Temptation of Christ,Drama,TheLastTemptationofChrist.jpg,7.3,1988
+2325,They Live,Horror,TheyLive.jpg,7.1,1988
+2326,Twins,Comedy Crime,Twins.jpg,5.5,1988
+2327,Young Guns,Action Thriller Western,YoungGuns.jpg,6.4,1988
+2328,A Nightmare on Elm Street 3 Dream Warriors,Horror Thriller,NightmareonElmStreet3DreamWarriorsA.jpg,6.6,1987
+2329,Adventures in Babysitting,Adventure Comedy,AdventuresinBabysitting.jpg,6.9,1987
+2330,Au revoir les enfants,Drama,Aurevoirlesenfants.jpg,8,1987
+2331,Babette's Feast,Drama,Babette'sFeast.jpg,7.8,1987
+2332,Bad Taste,Comedy Horror,BadTaste.jpg,6.6,1987
+2333,BambaLa,Drama,BambaLa.jpg,6.9,1987
+2334,Beverly Hills Cop II,Comedy Crime,BeverlyHillsCopII.jpg,6.5,1987
+2335,Broadcast News,Comedy,BroadcastNews.jpg,7.2,1987
+2336,Dirty Dancing,Drama Musical Romance,DirtyDancing.jpg,7,1987
+2337,Eddie Murphy Raw,Comedy Documentary,EddieMurphyRaw.jpg,7.7,1987
+2338,Empire of the Sun,War,EmpireoftheSun.jpg,7.7,1987
+2339,Ernest Goes to Camp,Comedy,ErnestGoestoCamp.jpg,5.5,1987
+2340,Evil Dead II,Action Comedy Fantasy Horror,EvilDeadII.jpg,7.8,1987
+2341,Fatal Attraction,Drama Thriller,FatalAttraction.jpg,6.9,1987
+2342,Full Metal Jacket,War,FullMetalJacket.jpg,8.3,1987
+2343,Harry and the Hendersons,Children Comedy,HarryandtheHendersons.jpg,6,1987
+2344,Hellraiser,Horror,Hellraiser.jpg,7,1987
+2345,House of Games,Crime Film-Noir Mystery Thriller,HouseofGames.jpg,7.3,1987
+2346,Innerspace,Action Comedy Sci-Fi,Innerspace.jpg,6.8,1987
+2347,Mannequin,Comedy,Mannequin.jpg,5.9,1987
+2348,Masters of the Universe,Action Adventure Fantasy Sci-Fi,MastersoftheUniverse.jpg,5.4,1987
+2349,Matewan,Drama,Matewan.jpg,7.9,1987
+2350,Moonstruck,Comedy,Moonstruck.jpg,7.1,1987
+2351,Near Dark,Horror Western,NearDark.jpg,7,1987
+2352,No Way Out,Drama Mystery Thriller,NoWayOut.jpg,7.1,1987
+2353,PlanesTrains & Automobiles,Comedy,PlanesTrains&Automobiles.jpg,7.6,1987
+2354,Police Academy 4 Citizens on Patrol,Comedy Crime,PoliceAcademy4CitizensonPatrol.jpg,5,1987
+2355,Predator,Action Sci-Fi,Predator.jpg,7.8,1987
+2356,Radio Days,Comedy,RadioDays.jpg,7.5,1987
+2357,Raising Arizona,Comedy,RaisingArizona.jpg,7.3,1987
+2358,Revenge of the Nerds II Nerds in Paradise,Comedy,RevengeoftheNerdsIINerdsinParadise.jpg,5.1,1987
+2359,RoboCop,Action Crime Sci-Fi Thriller,RoboCop.jpg,7.5,1987
+2360,Spaceballs,Adventure Comedy Sci-Fi,Spaceballs.jpg,6.9,1987
+2361,Superman IV The Quest for Peace,Action Adventure Family Sci-Fi,SupermanIVTheQuestforPeace.jpg,2.8,1987
+2362,Teen Wolf,Comedy Fantasy,TeenWolf.jpg,2.4,1987
+2363,The Brave Little Toaster,Animation Fantasy Musical,TheBraveLittleToaster.jpg,7.1,1987
+2364,The Last Emperor,War,TheLastEmperor.jpg,7.5,1987
+2365,The Living Daylights,Action,TheLivingDaylights.jpg,6.4,1987
+2366,The Princess Bride,Adventure Family Fantasy Romance,ThePrincessBride.jpg,8,1987
+2367,The Running Man,Crime Thriller,TheRunningMan.jpg,6.2,1987
+2368,The Untouchables,Crime,TheUntouchables.jpg,7.8,1987
+2369,Wall Street,Crime,WallStreet.jpg,7.1,1987
+2370,About Last Night...,Comedy,AboutLastNight.jpg,6.2,1986
+2371,Aliens,Action Adventure Horror,Aliens.jpg,8.3,1986
+2372,Allan Quatermain and the Lost City of Gold,Action Comedy,AllanQuatermainandtheLostCityofGold.jpg,4.6,1986
+2373,An American Tail,Animation Children Comedy,AmericanTailAn.jpg,6.9,1986
+2374,Armed and Dangerous,Comedy Crime,ArmedandDangerous.jpg,5.7,1986
+2375,Armour of God,Action Comedy,ArmourofGod.jpg,7.1,1986
+2376,Back to School,Comedy,BacktoSchool.jpg,6.6,1986
+2377,Big Trouble in Little China,Action Comedy Fantasy,BigTroubleinLittleChina.jpg,7.3,1986
+2378,Blue Velvet,Drama Mystery Thriller,BlueVelvet.jpg,7.8,1986
+2379,Brighton Beach Memoirs,Comedy,BrightonBeachMemoirs.jpg,6.8,1986
+2380,Children of a Lesser God,Drama,ChildrenofaLesserGod.jpg,7.2,1986
+2381,Crocodile Dundee,Adventure Comedy,CrocodileDundee.jpg,6.6,1986
+2382,Down and Out in Beverly Hills,Comedy,DownandOutinBeverlyHills.jpg,6.2,1986
+2383,Down by Law,Comedy Film-Noir,DownbyLaw.jpg,7.8,1986
+2384,Ferris Bueller's Day Off,Comedy,FerrisBueller'sDayOff.jpg,7.8,1986
+2385,Flight of the Navigator,Adventure Children Sci-Fi,FlightoftheNavigator.jpg,6.9,1986
+2386,Gung Ho,Comedy,GungHo.jpg,6.3,1986
+2387,Hannah and Her Sisters,Comedy,HannahandHerSisters.jpg,7.9,1986
+2388,Heartbreak Ridge,War,HeartbreakRidge.jpg,6.9,1986
+2389,Henry Portrait of a Serial Killer,Horror Thriller,HenryPortraitofaSerialKiller.jpg,7,1986
+2390,Highlander,Action Adventure Fantasy,Highlander.jpg,7.1,1986
+2391,Hoosiers,Drama Romance,Hoosiers.jpg,7.5,1986
+2392,Howard the Duck,Adventure Comedy Sci-Fi,HowardtheDuck.jpg,4.7,1986
+2393,Iron Eagle,War,IronEagle.jpg,5.5,1986
+2394,Jean de Florette,Drama Mystery,JeandeFlorette.jpg,8,1986
+2395,Jumpin' Jack Flash,Action Comedy Thriller,Jumpin'JackFlash.jpg,5.9,1986
+2396,Karate Kid Part II,Action Adventure,KarateKidPartII.jpg,6,1986
+2397,Labyrinth,Adventure Fantasy Musical,Labyrinth.jpg,7.4,1986
+2398,Laputa Castle in the Sky,Animation Children Fantasy Sci-Fi,LaputaCastleintheSky.jpg,8,1986
+2399,Little Shop of Horrors,Comedy Horror Musical,LittleShopofHorrors.jpg,7,1986
+2400,Manhunter,Action Horror Thriller,Manhunter.jpg,7.2,1986
+2401,Manon of the Spring,Drama,ManonoftheSpring.jpg,8,1986
+2402,Nothing in Common,Comedy,NothinginCommon.jpg,5.9,1986
+2403,One Crazy Summer,Comedy,OneCrazySummer.jpg,6.5,1986
+2404,Peggy Sue Got Married,Comedy,PeggySueGotMarried.jpg,6.3,1986
+2405,Platoon,War,Platoon.jpg,8.1,1986
+2406,Police Academy 3 Back in Training,Comedy Crime,PoliceAcademy3BackinTraining.jpg,5.4,1986
+2407,Poltergeist II The Other Side,Horror Thriller,PoltergeistIITheOtherSide.jpg,5.7,1986
+2408,Pretty in Pink,Comedy,PrettyinPink.jpg,6.8,1986
+2409,She's Gotta Have It,Comedy,She'sGottaHaveIt.jpg,6.2,1986
+2410,Stand by Me,Adventure Drama,StandbyMe.jpg,8,1986
+2411,Star Trek IV The Voyage Home,Adventure Comedy Sci-Fi,StarTrekIVTheVoyageHome.jpg,7.1,1986
+2412,The Color of Money,Drama Sport,TheColorofMoney.jpg,6.6,1986
+2413,The Golden Child,Action Fantasy Mystery,TheGoldenChild.jpg,5.5,1986
+2414,Top Gun,Action Drama Romance,TopGun.jpg,6.6,1986
+2415,A Nightmare on Elm Street 2 Freddy's Revenge,Horror,NightmareonElmStreet2Freddy'sRevengeA.jpg,5.5,1985
+2416,Agnes of God,Drama Mystery,AgnesofGod.jpg,6.6,1985
+2417,Back to the Future,Adventure Comedy Sci-Fi,BacktotheFuture.jpg,8.5,1985
+2418,Brazil,Fantasy Sci-Fi,Brazil.jpg,7.9,1985
+2419,Brewster's Millions,Comedy,Brewster'sMillions.jpg,6.5,1985
+2420,Cat's Eye,Horror,Cat'sEye.jpg,6.3,1985
+2421,Clue,Comedy Crime Mystery Thriller,Clue.jpg,7.3,1985
+2422,Cocoon,Comedy Sci-Fi,Cocoon.jpg,6.7,1985
+2423,Commando,Action Adventure,Commando.jpg,6.7,1985
+2424,Day of the Dead,Horror,DayoftheDead.jpg,7.2,1985
+2425,Desperately Seeking Susan,Comedy,DesperatelySeekingSusan.jpg,6,1985
+2426,European Vacation,Adventure Comedy,EuropeanVacation.jpg,6.2,1985
+2427,Fandango,Comedy,Fandango.jpg,6.8,1985
+2428,Fletch,Comedy Crime Mystery,Fletch.jpg,6.9,1985
+2429,Fright Night,Comedy Horror Thriller,FrightNight.jpg,7.1,1985
+2430,Jagged Edge,Crime Romance Thriller,JaggedEdge.jpg,6.5,1985
+2431,Legend,Adventure Fantasy Romance,Legend.jpg,6.5,1985
+2432,Lifeforce,Horror,Lifeforce.jpg,6.1,1985
+2433,Mad Max Beyond Thunderdome,Sci-Fi,MadMaxBeyondThunderdome.jpg,6.3,1985
+2434,Murphy's Romance,Comedy,Murphy'sRomance.jpg,7,1985
+2435,My Life as a Dog,Comedy,MyLifeasaDog.jpg,7.6,1985
+2436,Out of Africa,Drama Romance,OutofAfrica.jpg,7.2,1985
+2437,Pale Rider,Western,PaleRider.jpg,7.3,1985
+2438,Pee-wee's Big Adventure,Adventure Comedy,Pee-wee'sBigAdventure.jpg,7,1985
+2439,Police Academy 2 Their First Assignment,Comedy Crime,PoliceAcademy2TheirFirstAssignment.jpg,5.8,1985
+2440,Porky's Revenge,Comedy,Porky'sRevenge.jpg,4.8,1985
+2441,Prizzi's Honor,Comedy,Prizzi'sHonor.jpg,6.7,1985
+2442,Rambo First Blood Part II,Action Thriller,RamboFirstBloodPartII.jpg,6.5,1985
+2443,Ran,War,Ran.jpg,8.2,1985
+2444,Real Genius,Comedy,RealGenius.jpg,7,1985
+2445,Re-Animator,Comedy Horror,Re-Animator.jpg,7.2,1985
+2446,Red Sonja,Action Adventure Fantasy,RedSonja.jpg,5.1,1985
+2447,Return to Oz,Adventure Children Fantasy,ReturntoOz.jpg,6.7,1985
+2448,Rocky IV,Action Drama,RockyIV.jpg,6.9,1985
+2449,Silverado,Action Western,Silverado.jpg,6.9,1985
+2450,The Color Purple,Drama,TheColorPurple.jpg,7.5,1985
+2451,Witness,Crime Romance Thriller,Witness.jpg,7.1,1985
+2452,Young Sherlock Holmes,Adventure Fantasy Mystery Thriller,YoungSherlockHolmes.jpg,6.4,1985
+2453,1984,Drama Sci-Fi,1984.jpg,7.1,1984
+2454,2010 The Year We Make Contact,Sci-Fi,2010TheYearWeMakeContact.jpg,6.8,1984
+2455,A Nightmare on Elm Street,Horror Thriller,NightmareonElmStreetA.jpg,7.5,1984
+2456,Amadeus,Drama,Amadeus.jpg,8.3,1984
+2457,Bachelor Party,Comedy,BachelorParty.jpg,6.3,1984
+2458,Beverly Hills Cop,Comedy Crime,BeverlyHillsCop.jpg,7.3,1984
+2459,Birdy,War,Birdy.jpg,7.3,1984
+2460,Blame It on Rio,Comedy,BlameItonRio.jpg,5.8,1984
+2461,Blood Simple,Crime Drama Film-Noir,BloodSimple.jpg,7.6,1984
+2462,Broadway Danny Rose,Comedy,BroadwayDannyRose.jpg,7.4,1984
+2463,Brother,Action,Brother.jpg,6.7,1984
+2464,Children of the Corn,Horror Thriller,ChildrenoftheCorn.jpg,5.7,1984
+2465,Conan the Destroyer,Action Adventure Fantasy,ConantheDestroyer.jpg,5.9,1984
+2466,Dreamscape,Horror,Dreamscape.jpg,6.3,1984
+2467,Firestarter,Horror Thriller,Firestarter.jpg,6.1,1984
+2468,Footloose,Drama,Footloose.jpg,6.6,1984
+2469,Friday the 13th The Final Chapter,Horror,Fridaythe13thTheFinalChapter.jpg,6,1984
+2470,Ghostbusters,Action Comedy Sci-Fi,Ghostbusters.jpg,7.8,1984
+2471,Gremlins,Comedy Horror,Gremlins.jpg,7.3,1984
+2472,Indiana Jones and the Temple of Doom,Action Adventure Fantasy,IndianaJonesandtheTempleofDoom.jpg,7.6,1984
+2473,Johnny Dangerously,Comedy,JohnnyDangerously.jpg,6.6,1984
+2474,Meatballs Part II,Comedy,MeatballsPartII.jpg,3.8,1984
+2475,Missing in Action,War,MissinginAction.jpg,5.5,1984
+2476,Moscow on the Hudson,Comedy,MoscowontheHudson.jpg,6.5,1984
+2477,Mutiny on the Bounty,Adventure Drama,MutinyontheBounty.jpg,7,1984
+2478,Night of the Comet,Comedy Horror,NightoftheComet.jpg,6.4,1984
+2479,Once Upon a Time in America,Crime Drama,OnceUponaTimeinAmerica.jpg,8.4,1984
+2480,Police Academy,Comedy Crime,PoliceAcademy.jpg,6.7,1984
+2481,Purple Rain,Drama Musical,PurpleRain.jpg,6.6,1984
+2482,Red Dawn,War,RedDawn.jpg,6.4,1984
+2483,Repo Man,Comedy Sci-Fi,RepoMan.jpg,6.9,1984
+2484,Revenge of the Nerds,Comedy,RevengeoftheNerds.jpg,6.6,1984
+2485,Romancing the Stone,Action Comedy,RomancingtheStone.jpg,6.9,1984
+2486,Splash,Comedy Fantasy Romance,Splash.jpg,5.7,1984
+2487,Star Trek III The Search for Spock,Sci-Fi,StarTrekIIITheSearchforSpock.jpg,6.2,1984
+2488,The Karate Kid,Action Drama Family Sport,TheKarateKid.jpg,6.9,1984
+2489,The NeverEnding Story,Adventure Drama Family Fantasy,TheNeverEndingStory.jpg,7.1,1984
+2490,The Terminator,Action Sci-Fi,TheTerminator.jpg,8,1984
+2491,The Toxic Avenger,Action Comedy Horror,TheToxicAvenger.jpg,5.7,1984
+2492,A Christmas Story,Children Comedy,ChristmasStoryA.jpg,7.9,1983
+2493,Bill Cosby Himself,Comedy Documentary,BillCosbyHimself.jpg,8.2,1983
+2494,Christine,Horror,Christine.jpg,6.7,1983
+2495,Flashdance,Drama Romance,Flashdance.jpg,6.2,1983
+2496,Jaws 3-D,Action Horror,Jaws3-D.jpg,3.7,1983
+2497,Krull,Action Adventure Fantasy Sci-Fi,Krull.jpg,6.1,1983
+2498,Local Hero,Comedy,LocalHero.jpg,7.3,1983
+2499,Monty Python's The Meaning of Life,Comedy,MontyPython'sTheMeaningofLife.jpg,7.5,1983
+2500,Mr. Mom,Comedy,Mr.Mom.jpg,6.5,1983
+2501,National Lampoon's Vacation,Comedy,NationalLampoon'sVacation.jpg,7.4,1983
+2502,Never Cry Wolf,Adventure Drama,NeverCryWolf.jpg,7.5,1983
+2503,Never Say Never Again,Action Thriller,NeverSayNeverAgain.jpg,6.2,1983
+2504,Octopussy,Action Thriller,Octopussy.jpg,6.6,1983
+2505,Risky Business,Comedy,RiskyBusiness.jpg,6.8,1983
+2506,Scarface,Crime,Scarface.jpg,8.2,1983
+2507,Star Wars Episode VI - Return of the Jedi,Action Sci-Fi,StarWarsEpisodeVI-ReturnoftheJedi.jpg,8.2,1983
+2508,Superman III,Action,SupermanIII.jpg,4.4,1983
+2509,The Dead Zone,Drama Fantasy Mystery Sci-Fi,TheDeadZone.jpg,7.3,1983
+2510,The Right Stuff,Adventure Drama History,TheRightStuff.jpg,7.8,1983
+2511,Videodrome,Horror,Videodrome.jpg,7.1,1983
+2512,WarGames,Sci-Fi,WarGames.jpg,6.9,1983
+2513,48 Hrs.,Comedy Crime,48Hrs..jpg,6.9,1982
+2514,Airplane II The Sequel,Comedy,AirplaneIITheSequel.jpg,6.2,1982
+2515,An Officer and a Gentleman,Drama Romance,OfficerandaGentlemanAn.jpg,7,1982
+2516,Blade Runner,Action Sci-Fi,BladeRunner.jpg,8.1,1982
+2517,Cat People,Drama Fantasy Horror,CatPeople.jpg,6.2,1982
+2518,Conan the Barbarian,Action Adventure Fantasy,ConantheBarbarian.jpg,6.9,1982
+2519,Dead Men Don't Wear Plaid,Comedy Crime,DeadMenDon'tWearPlaid.jpg,6.9,1982
+2520,Death Wish,Action Drama,DeathWish2.jpg,6.1,1982
+2521,Diner,Comedy,Diner.jpg,7.1,1982
+2522,E.T. the Extra-Terrestrial,Children Drama Sci-Fi,E.T.theExtra-Terrestrial.jpg,7.8,1982
+2523,Fast Times at Ridgemont High,Comedy,FastTimesatRidgemontHigh.jpg,7.2,1982
+2524,First Blood,Action Thriller,FirstBlood.jpg,7.7,1982
+2525,Friday the 13th Part III,Horror,Fridaythe13thPartIII.jpg,5.7,1982
+2526,Grease 2,Comedy Musical Romance,Grease2.jpg,4.4,1982
+2527,Koyaanisqatsi,Documentary,Koyaanisqatsi.jpg,8.3,1982
+2528,Monty Python Live at the Hollywood Bowl,Comedy,MontyPythonLiveattheHollywoodBowl.jpg,7.9,1982
+2529,My Favorite Year,Comedy,MyFavoriteYear.jpg,7.4,1982
+2530,Pink Floyd The Wall,Drama Musical,PinkFloydTheWall.jpg,8.1,1982
+2531,Poltergeist,Horror Thriller,Poltergeist.jpg,7.3,1982
+2532,Rambo,War,Rambo.jpg,7.7,1982
+2533,Rocky III,Action Drama,RockyIII.jpg,6.8,1982
+2534,Star Trek II The Wrath of Khan,Sci-Fi,StarTrekIITheWrathofKhan.jpg,7.5,1982
+2535,The Beastmaster,Action,TheBeastmaster.jpg,5.7,1982
+2536,The Thing,Horror,TheThing.jpg,8,1982
+2537,Tootsie,Comedy,Tootsie.jpg,7.1,1982
+2538,An American Werewolf in London,Comedy Horror Thriller,AmericanWerewolfinLondonAn.jpg,7.5,1981
+2539,Arthur,Comedy Romance,Arthur.jpg,6.9,1981
+2540,Body Heat,Crime Thriller,BodyHeat.jpg,7.4,1981
+2541,Chariots of Fire,Drama,ChariotsofFire.jpg,7.2,1981
+2542,Dragonslayer,Action Adventure Fantasy,Dragonslayer.jpg,6.7,1981
+2543,Escape from New York,Action Thriller,EscapefromNewYork.jpg,7.2,1981
+2544,Excalibur,Adventure Fantasy,Excalibur.jpg,7.4,1981
+2545,For Your Eyes Only,Action Thriller,ForYourEyesOnly.jpg,6.8,1981
+2546,Friday the 13th Part 2,Horror,Fridaythe13thPart2.jpg,6.1,1981
+2547,Gallipoli,War,Gallipoli.jpg,7.4,1981
+2548,Halloween II,Horror,HalloweenII.jpg,6.5,1981
+2549,Heavy Metal,Animation,HeavyMetal.jpg,6.7,1981
+2550,History of the World Part I,Comedy Musical,HistoryoftheWorldPartI.jpg,6.9,1981
+2551,Into the Woods,Children Comedy Fantasy Musical,IntotheWoods.jpg,7.5,1981
+2552,Nighthawks,Action Drama,Nighthawks.jpg,6.4,1981
+2553,On Golden Pond,Drama,OnGoldenPond.jpg,7.6,1981
+2554,Porky's,Comedy,Porky's.jpg,6.2,1981
+2555,Quest for Fire,Adventure Drama,QuestforFire.jpg,7.3,1981
+2556,Raiders of the Lost Ark,Action Adventure,RaidersoftheLostArk.jpg,8.4,1981
+2557,Stripes,Action Comedy War,Stripes.jpg,6.6,1981
+2558,The Evil Dead,Fantasy Horror,TheEvilDead.jpg,7.3,1981
+2559,The Howling,Horror Mystery,HowlingThe.jpg,6.6,1981
+2560,The Postman Always Rings Twice,Crime Romance Thriller,ThePostmanAlwaysRingsTwice.jpg,6.2,1981
+2561,Time Bandits,Adventure Comedy Fantasy Sci-Fi,TimeBandits.jpg,6.6,1981
+2562,Airplane!,Comedy,Airplane!.jpg,7.7,1980
+2563,Altered States,Drama Sci-Fi,AlteredStates.jpg,6.9,1980
+2564,American Gigolo,Drama,AmericanGigolo.jpg,6.3,1980
+2565,Atlantic City,Crime Drama Romance,AtlanticCity.jpg,7.3,1980
+2566,Breaker Morant,War,BreakerMorant.jpg,7.8,1980
+2567,Caddyshack,Comedy,Caddyshack.jpg,7.3,1980
+2568,Fame,Drama Musical,Fame.jpg,6.6,1980
+2569,Flash Gordon,Sci-Fi,FlashGordon.jpg,6.5,1980
+2570,Friday the 13th,Horror Mystery Thriller,Fridaythe13th.jpg,6.5,1980
+2571,Nine to Five,Comedy Crime,NinetoFive.jpg,6.8,1980
+2572,Ordinary People,Drama,OrdinaryPeople.jpg,7.7,1980
+2573,Private Benjamin,Comedy,PrivateBenjamin.jpg,6.2,1980
+2574,Raging Bull,Drama,RagingBull.jpg,8.2,1980
+2575,Somewhere in Time,Drama Fantasy Romance,SomewhereinTime.jpg,7.1,1980
+2576,Star Wars Episode V - The Empire Strikes Back,Action Sci-Fi,StarWarsEpisodeV-TheEmpireStrikesBack.jpg,8.7,1980
+2577,Superman II,Action Adventure Romance Sci-Fi,SupermanII.jpg,6.4,1980
+2578,The Blue Lagoon,Adventure Drama Romance,TheBlueLagoon.jpg,5.3,1980
+2579,The Blues Brothers,Action Music,TheBluesBrothers.jpg,7.8,1980
+2580,The Elephant Man,Biography Drama,TheElephantMan.jpg,8,1980
+2581,The Fog,Fantasy Horror,TheFog.jpg,6.4,1980
+2582,The Shining,Drama Horror,TheShining.jpg,8.2,1980
+2583,10,Adventure Romance Thriller,10.jpg,6.1,1979
+2584,Alien,Horror,Alien.jpg,8.4,1979
+2585,All That Jazz,Drama Fantasy Musical,AllThatJazz.jpg,7.9,1979
+2586,Apocalypse Now,War,ApocalypseNow.jpg,8.4,1979
+2587,Being There,Comedy,BeingThere.jpg,8,1979
+2588,Breaking Away,Comedy,BreakingAway.jpg,7.7,1979
+2589,Chain Reaction,Action Thriller,ChainReaction.jpg,7.4,1979
+2590,Escape from Alcatraz,Drama Thriller,EscapefromAlcatraz.jpg,7.6,1979
+2591,Kramer vs. Kramer,Drama,Kramervs.Kramer.jpg,7.8,1979
+2592,Lupin III The Castle Of Cagliostro,Animation Comedy Crime Mystery,LupinIIITheCastleOfCagliostro.jpg,7.7,1979
+2593,Mad Max,Sci-Fi,MadMax.jpg,6.9,1979
+2594,Meatballs,Comedy,Meatballs.jpg,6.2,1979
+2595,Monty Python's Life of Brian,Comedy,MontyPython'sLifeofBrian.jpg,8.1,1979
+2596,North Dallas Forty,Comedy,NorthDallasForty.jpg,6.9,1979
+2597,Phantasm,Horror,Phantasm.jpg,6.8,1979
+2598,Rocky II,Action Drama,RockyII.jpg,7.3,1979
+2599,The Muppet Movie,Adventure Comedy Family Musical,TheMuppetMovie.jpg,7.5,1979
+2600,Animal House,Comedy,AnimalHouse.jpg,7.5,1978
+2601,Attack of the Killer Tomatoes!,Comedy Horror,AttackoftheKillerTomatoes!.jpg,4.6,1978
+2602,Cheech and Chong's Up in Smoke,Comedy,CheechandChong'sUpinSmoke.jpg,7,1978
+2603,Coming Home,War,ComingHome.jpg,7.3,1978
+2604,Drunken Master,Action Comedy,DrunkenMaster.jpg,7.5,1978
+2605,Force 10 from Navarone,War,Force10fromNavarone.jpg,6.4,1978
+2606,Grease,Comedy Musical Romance,Grease.jpg,7.2,1978
+2607,Heaven Can Wait,Comedy,HeavenCanWait.jpg,6.9,1978
+2608,Invasion of the Body Snatchers,Horror,InvasionoftheBodySnatchers.jpg,7.4,1978
+2609,Jaws 2,Horror Thriller,Jaws2.jpg,5.8,1978
+2610,Midnight Express,Drama,MidnightExpress.jpg,7.6,1978
+2611,Superman,Action Adventure Romance Sci-Fi,Superman.jpg,7.1,1978
+2612,The Boys from Brazil,Drama Thriller,TheBoysfromBrazil.jpg,6.6,1978
+2613,The Deer Hunter,War,TheDeerHunter.jpg,8,1978
+2614,A Bridge Too Far,War,BridgeTooFarA.jpg,7.4,1977
+2615,Annie Hall,Comedy,AnnieHall.jpg,8,1977
+2616,Close Encounters of the Third Kind,Sci-Fi,CloseEncountersoftheThirdKind.jpg,7.6,1977
+2617,Eraserhead,Drama Horror,Eraserhead.jpg,7.4,1977
+2618,Frost Nixon,Drama,FrostNixon.jpg,8.1,1977
+2619,Pete's Dragon,Animation Children Musical,Pete'sDragon.jpg,6.4,1977
+2620,Star Wars Episode IV - A New Hope,Action Sci-Fi,StarWarsEpisodeIV-ANewHope.jpg,8.7,1977
+2621,The Spy Who Loved Me,Sci-Fi,TheSpyWhoLovedMe.jpg,6.9,1977
+2622,All the President's Men,Drama Thriller,AllthePresident'sMen.jpg,8,1976
+2623,Assault on Precinct 13,Action Crime,AssaultonPrecinct13.jpg,7.4,1976
+2624,Carrie,Drama Fantasy Horror Thriller,Carrie.jpg,7.4,1976
+2625,Logan's Run,Sci-Fi,Logan'sRun.jpg,6.8,1976
+2626,Network,Comedy,Network.jpg,8.1,1976
+2627,Taxi Driver,Crime,TaxiDriver.jpg,8.2,1976
+2628,The Bad News Bears,Comedy Sport,TheBadNewsBears.jpg,7.1,1976
+2629,The Omen,Fantasy Horror Mystery,TheOmen.jpg,7.3,1976
+2630,Barry Lyndon,Drama Romance War,BarryLyndon.jpg,8.1,1975
+2631,Deep Red,Horror Mystery Thriller,DeepRed.jpg,7.6,1975
+2632,Dersu Uzala,Adventure Drama,DersuUzala.jpg,8.3,1975
+2633,Dog Day Afternoon,Crime Drama,DogDayAfternoon.jpg,8,1975
+2634,Escape to Witch Mountain,Adventure Children Fantasy,EscapetoWitchMountain.jpg,6.4,1975
+2635,Jaws,Action Horror,Jaws.jpg,8,1975
+2636,Monty Python and the Holy Grail,Adventure Comedy Fantasy,MontyPythonandtheHolyGrail.jpg,8.2,1975
+2637,One Flew Over the Cuckoo's Nest,Drama,OneFlewOvertheCuckoo'sNest.jpg,8.7,1975
+2638,Rollerball,Action Sci-Fi,Rollerball.jpg,6.6,1975
+2639,The Return of the Pink Panther,Comedy Crime Mystery,TheReturnofthePinkPanther.jpg,6.9,1975
+2640,Blazing Saddles,Comedy Western,BlazingSaddles.jpg,7.7,1974
+2641,Chinatown,Crime Film-Noir Mystery Thriller,Chinatown.jpg,8.2,1974
+2642,Herbie Rides Again,Children Comedy Fantasy Romance,HerbieRidesAgain.jpg,5.7,1974
+2643,The Conversation,Drama Mystery Thriller,TheConversation.jpg,7.8,1974
+2644,The Godfather Part II,Crime,TheGodfatherPartII.jpg,8.9,1974
+2645,The Man with the Golden Gun,Action,TheManwiththeGoldenGun.jpg,6.4,1974
+2646,Young Frankenstein,Comedy,YoungFrankenstein.jpg,7.8,1974
+2647,American Graffiti,Comedy,AmericanGraffiti.jpg,7.4,1973
+2648,Battle for the Planet of the Apes,Action Sci-Fi,BattleforthePlanetoftheApes.jpg,5.5,1973
+2649,Enter the Dragon,Action Crime,EntertheDragon.jpg,7.7,1973
+2650,High Plains Drifter,Western,HighPlainsDrifter.jpg,7.5,1973
+2651,Magnum Force,Action Crime,MagnumForce.jpg,7.2,1973
+2652,Mean Streets,Crime Drama,MeanStreets.jpg,7.3,1973
+2653,Paper Moon,Comedy Crime,PaperMoon.jpg,8.1,1973
+2654,Sleeper,Comedy Sci-Fi,Sleeper.jpg,7.1,1973
+2655,The Exorcist,Horror,TheExorcist.jpg,7.8,1973
+2656,The Sting,Crime,TheSting.jpg,8.2,1973
+2657,Aguirre The Wrath of God,Adventure Drama,AguirreTheWrathofGod.jpg,7.9,1972
+2658,Bad Company,Action Crime,BadCompany.jpg,6,1972
+2659,Cabaret,Drama Musical,Cabaret.jpg,7.8,1972
+2660,Conquest of the Planet of the Apes,Action Sci-Fi,ConquestofthePlanetoftheApes.jpg,6.1,1972
+2661,Deliverance,Adventure Drama Thriller,Deliverance.jpg,7.7,1972
+2662,Last Tango in Paris,Drama Romance,LastTangoinParis.jpg,7,1972
+2663,Pink Flamingos,Comedy,PinkFlamingos.jpg,6.1,1972
+2664,Solaris,Drama Mystery Sci-Fi,Solaris.jpg,8,1972
+2665,The Godfather,Crime,TheGodfather.jpg,9.1,1972
+2666,A Clockwork Orange,Crime Drama Sci-Fi Thriller,ClockworkOrangeA.jpg,8.3,1971
+2667,Bananas,Comedy War,Bananas.jpg,7,1971
+2668,Bedknobs and Broomsticks,Adventure Children Musical,BedknobsandBroomsticks.jpg,7.1,1971
+2669,Diamonds Are Forever,Action Thriller,DiamondsAreForever.jpg,6.6,1971
+2670,Dirty Harry,Action,DirtyHarry.jpg,7.7,1971
+2671,Duel,Action Mystery Thriller,Duel.jpg,7.6,1971
+2672,Escape from the Planet of the Apes,Action Sci-Fi,EscapefromthePlanetoftheApes.jpg,6.3,1971
+2673,Face-Off,Action Crime,Face-Off.jpg,5.4,1971
+2674,Fiddler on the Roof,Drama Musical,FiddlerontheRoof.jpg,8,1971
+2675,Harold and Maude,Comedy,HaroldandMaude.jpg,7.9,1971
+2676,Klute,Drama Mystery,Klute.jpg,7.1,1971
+2677,Monty Python's And Now for Something Completely Different,Comedy,MontyPython'sAndNowforSomethingCompletelyDifferent.jpg,7.6,1971
+2678,Popeye,Adventure Comedy Musical,Popeye.jpg,7.7,1971
+2679,The Andromeda Strain,Sci-Fi,TheAndromedaStrain.jpg,6.9,1971
+2680,The French Connection,Action Thriller,TheFrenchConnection.jpg,7.5,1971
+2681,Willy Wonka & the Chocolate Factory,Family Fantasy Musical,WillyWonka&theChocolateFactory.jpg,7.5,1971
+2682,Beneath the Planet of the Apes,Action Sci-Fi,BeneaththePlanetoftheApes.jpg,6.1,1970
+2683,Five Easy Pieces,Drama,FiveEasyPieces.jpg,7.5,1970
+2684,Kelly's Heroes,Action Comedy War,Kelly'sHeroes.jpg,7.6,1970
+2685,Little Big Man,Western,LittleBigMan.jpg,7.6,1970
+2686,Patton,War,Patton.jpg,7.9,1970
+2687,Butch Cassidy and the Sundance Kid,Action Western,ButchCassidyandtheSundanceKid.jpg,8,1969
+2688,Easy Rider,Adventure Drama,EasyRider.jpg,7.3,1969
+2689,Midnight Cowboy,Drama,MidnightCowboy.jpg,7.8,1969
+2690,On Her Majesty's Secret Service,Action Adventure Romance Thriller,OnHerMajesty'sSecretService.jpg,6.7,1969
+2691,The Wild Bunch,Action Adventure Western,TheWildBunch.jpg,7.8,1969
+2692,2001 A Space Odyssey,Sci-Fi,2001ASpaceOdyssey.jpg,8.3,1968
+2693,Barbarella,Adventure Comedy Sci-Fi,Barbarella.jpg,5.9,1968
+2694,Bullitt,Action Crime,Bullitt.jpg,7.4,1968
+2695,Chitty Chitty Bang Bang,Adventure Children Comedy Fantasy Musical,ChittyChittyBangBang.jpg,6.9,1968
+2696,Hang 'Em High,Crime Drama Western,Hang'EmHigh.jpg,7,1968
+2697,Night of the Living Dead,Horror,NightoftheLivingDead.jpg,7.9,1968
+2698,Oliver!,Drama Musical,Oliver!.jpg,7.4,1968
+2699,Once Upon a Time in the West,Action Drama Western,OnceUponaTimeintheWest.jpg,8.5,1968
+2700,Rosemary's Baby,Drama Horror,Rosemary'sBaby.jpg,7.8,1968
+2701,Barefoot in the Park,Comedy,BarefootinthePark.jpg,7,1967
+2702,Beauty of the Day,Drama,BeautyoftheDay.jpg,7.7,1967
+2703,Bonnie and Clyde,Crime Drama,BonnieandClyde.jpg,7.8,1967
+2704,Cool Hand Luke,Drama,CoolHandLuke.jpg,8.1,1967
+2705,Guess Who's Coming to Dinner,Drama,GuessWho'sComingtoDinner.jpg,7.8,1967
+2706,The Graduate,Comedy,GraduateThe.jpg,8,1967
+2707,You Only Live Twice,Action,YouOnlyLiveTwice.jpg,6.6,1967
+2708,A Man for All Seasons,Drama,ManforAllSeasonsA.jpg,7.7,1966
+2709,Blow-Up,Drama Mystery,Blow-Up.jpg,7.6,1966
+2710,Fantastic Voyage,Adventure Sci-Fi,FantasticVoyage.jpg,6.8,1966
+2711,Funny Thing Happened on the Way to the ForumA ,Comedy Musical,FunnyThingHappenedontheWaytotheForumA.jpg,6.9,1966
+2712,How the Grinch Stole Christmas!,Animation Comedy Fantasy Musical,HowtheGrinchStoleChristmas!.jpg,8.3,1966
+2713,It's the Great PumpkinCharlie Brown,Animation Children Comedy,It'stheGreatPumpkinCharlieBrown.jpg,8.2,1966
+2714,A Charlie Brown Christmas,Animation Children Comedy,CharlieBrownChristmasA.jpg,8.3,1965
+2715,Cat Ballou,Comedy Western,CatBallou.jpg,6.8,1965
+2716,Doctor Zhivago,Drama Romance War,DoctorZhivago.jpg,8,1965
+2717,For a Few Dollars More,Action Drama Thriller Western,ForaFewDollarsMore.jpg,8.3,1965
+2718,Help!,Comedy Musical,Help!.jpg,7.2,1965
+2719,The Sound of Music,Biography Drama Family Musical Romance,TheSoundofMusic.jpg,7.8,1965
+2720,Thunderball,Action,Thunderball.jpg,6.6,1965
+2721,A Fistful of Dollars,Action Western,FistfulofDollarsA.jpg,8,1964
+2722,A Hard Day's Night,Adventure Comedy Musical,HardDay'sNightA.jpg,7.6,1964
+2723,Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb,Comedy War,Dr.StrangeloveorHowILearnedtoStopWorryingandLovetheBomb.jpg,8.4,1964
+2724,Goldfinger,Action Thriller,Goldfinger.jpg,7.7,1964
+2725,Mary Poppins,Children Comedy Fantasy Musical,MaryPoppins.jpg,7.8,1964
+2726,My Fair Lady,Comedy Musical Romance,MyFairLady.jpg,7.8,1964
+2727,Charade,Comedy Crime Mystery Romance Thriller,Charade.jpg,7.9,1963
+2728,From Russia with Love,Action Thriller,FromRussiawithLove.jpg,7.4,1963
+2729,It's a MadMad,Action Comedy Crime,It'saMadMad.jpg,7.5,1963
+2730,Jason and the Argonauts,Action Adventure Fantasy,JasonandtheArgonauts.jpg,7.3,1963
+2731,The Great Escape,History,TheGreatEscape.jpg,8.2,1963
+2732,Tom Jones,Adventure Comedy History,TomJones.jpg,6.4,1963
+2733,Dr. No,Action Thriller,Dr.No.jpg,7.2,1962
+2734,Jules and Jim,Drama Romance,JulesandJim.jpg,7.8,1962
+2735,Lawrence of Arabia,Adventure Drama,LawrenceofArabia.jpg,8.3,1962
+2736,The Longest Day,War,TheLongestDay.jpg,7.5,1962
+2737,The Man Who Shot Liberty Valance,Drama Western,TheManWhoShotLibertyValance.jpg,8,1962
+2738,To Kill a Mockingbird,Crime,ToKillaMockingbird.jpg,8.2,1962
+2739,Babes in Toyland,Children Comedy Fantasy Musical,BabesinToyland.jpg,6.3,1961
+2740,Breakfast at Tiffany's,Drama Romance,BreakfastatTiffany's.jpg,7.7,1961
+2741,Judgment at Nuremberg,Drama,JudgmentatNuremberg.jpg,8.2,1961
+2742,The Hustler,Drama Sport,TheHustler.jpg,7.8,1961
+2743,West Side Story,Crime Musical Romance Thriller,WestSideStory.jpg,7.3,1961
+2744,Dolce VitaLa,Drama,DolceVitaLa.jpg,8,1960
+2745,Inherit the Wind,Drama,InherittheWind.jpg,8.1,1960
+2746,Pollyanna,Children Comedy,Pollyanna.jpg,7.4,1960
+2747,Psycho,Horror,Psycho.jpg,8.5,1960
+2748,The Apartment,Comedy,TheApartment.jpg,8.2,1960
+2749,Ben-Hur,Action Adventure,Ben-Hur.jpg,8.1,1959
+2750,Breathless,Crime Drama Romance,Breathless.jpg,8.3,1959
+2751,North by Northwest,Action Adventure Mystery Romance Thriller,NorthbyNorthwest.jpg,8.3,1959
+2752,Some Like It Hot,Comedy Music Romance,SomeLikeItHot.jpg,8.2,1959
+2753,Auntie Mame,Comedy,AuntieMame.jpg,7.9,1958
+2754,Cat on a Hot Tin Roof,Drama,CatonaHotTinRoof.jpg,8,1958
+2755,12 Angry Men,Drama,12AngryMen.jpg,8.9,1957
+2756,A Face in the Crowd,Drama,FaceintheCrowdA.jpg,8.2,1957
+2757,An Affair to Remember,Drama Romance,AffairtoRememberAn.jpg,7.5,1957
+2758,Funny Face,Comedy Musical,FunnyFace.jpg,7,1957
+2759,Nights of Cabiria,Drama,NightsofCabiria.jpg,8.1,1957
+2760,Old Yeller,Children Drama,OldYeller.jpg,7.3,1957
+2761,Paths of Glory,War,PathsofGlory.jpg,8.4,1957
+2762,Plan 9 from Outer Space,Horror,Plan9fromOuterSpace.jpg,4,1957
+2763,The Bridge on the River Kwai,War,TheBridgeontheRiverKwai.jpg,8,1957
+2764,Forbidden Planet,Drama Sci-Fi,ForbiddenPlanet.jpg,7.6,1956
+2765,Giant,Drama Romance Western,Giant.jpg,7.6,1956
+2766,Diabolique,Drama Thriller,Diabolique.jpg,8,1955
+2767,East of Eden,Drama,EastofEden.jpg,7.9,1955
+2768,Guys and Dolls,Comedy Musical Romance,GuysandDolls.jpg,7.2,1955
+2769,Mister Roberts,Comedy War,MisterRoberts.jpg,7.7,1955
+2770,Rebel Without a Cause,Drama,RebelWithoutaCause.jpg,7.7,1955
+2771,The Trouble with Harry,Comedy Mystery Romance,TheTroublewithHarry.jpg,6.9,1955
+2772,Dial M for Murder,Crime Mystery Thriller,DialMforMurder.jpg,8.2,1954
+2773,On the Waterfront,Crime Drama,OntheWaterfront.jpg,8.1,1954
+2774,Rear Window,Mystery Thriller,RearWindow.jpg,8.4,1954
+2775,Seven Samurai,Action Adventure,SevenSamurai.jpg,8.7,1954
+2776,From Here to Eternity,Drama Romance War,FromHeretoEternity.jpg,7.6,1953
+2777,Gentlemen Prefer Blondes,Comedy Musical Romance,GentlemenPreferBlondes.jpg,7.2,1953
+2778,Roman Holiday,Comedy,RomanHoliday.jpg,8,1953
+2779,High Noon,Drama Western,HighNoon.jpg,7.9,1952
+2780,Ikiru,Drama,Ikiru.jpg,8.3,1952
+2781,Singin' in the Rain,Comedy Musical Romance,Singin'intheRain.jpg,8.2,1952
+2782,An American in Paris,Musical Romance,AmericaninParisAn.jpg,7.2,1951
+2783,All About Eve,Drama,AllAboutEve.jpg,8.2,1950
+2784,Bed of Roses,Drama Romance,BedofRoses.jpg,6.7,1950
+2785,Born Yesterday,Comedy,BornYesterday.jpg,7.6,1950
+2786,Bicycle Thieves,Drama,BicycleThievesDrama.jpg,8.3,1948
+2787,Key Largo,Crime Drama Film-Noir Thriller,KeyLargo.jpg,7.8,1948
+2788,Miracle on 34th Street,Drama,Miracleon34thStreet.jpg,7.9,1947
+2789,Monsieur Verdoux,Comedy Crime,MonsieurVerdoux.jpg,7.9,1947
+2790,Gilda,Drama Film-Noir Mystery Romance,Gilda.jpg,7.7,1946
+2791,It's a Wonderful Life,Children Drama Fantasy Romance,It'saWonderfulLife.jpg,8.6,1946
+2792,Notorious,Film-Noir Romance Thriller,Notorious.jpg,7.9,1946
+2793,The Best Years of Our Lives,War,TheBestYearsofOurLives.jpg,8,1946
+2794,Anchors Aweigh,Comedy Musical,AnchorsAweigh.jpg,7.1,1945
+2795,Spellbound,Film-Noir Mystery Romance Thriller,Spellbound.jpg,7.3,1945
+2796,Arsenic and Old Lace,Comedy Mystery Thriller,ArsenicandOldLace.jpg,8,1944
+2797,Double Indemnity,Crime Drama Film-Noir,DoubleIndemnity.jpg,8.3,1944
+2798,Gaslight,Drama Thriller,Gaslight.jpg,7.8,1944
+2799,Laura,Crime Film-Noir Mystery,Laura.jpg,8,1944
+2800,Lifeboat,War,Lifeboat.jpg,7.6,1944
+2801,Meet Me in St. Louis,Musical,MeetMeinSt.Louis.jpg,7.6,1944
+2802,Bambi,Animation Children Drama,Bambi.jpg,7.3,1942
+2803,Casablanca,Drama Romance,Casablanca.jpg,8.5,1942
+2804,Crossroads,Comedy Musical Romance,Crossroads.jpg,6.7,1942
+2805,Holiday Inn,Comedy Musical,HolidayInn.jpg,7.4,1942
+2806,Meet John Doe,Comedy,MeetJohnDoe.jpg,7.7,1941
+2807,Fantasia,Animation Children Fantasy Musical,Fantasia.jpg,7.8,1940
+2808,Rebecca,Drama Mystery Romance Thriller,Rebecca.jpg,8.1,1940
+2809,Gone with the Wind,Drama Romance War,GonewiththeWind.jpg,8.1,1939
+2810,Love Affair,Drama Romance,LoveAffair.jpg,7.3,1939
+2811,Mr. Smith Goes to Washington,Drama,Mr.SmithGoestoWashington.jpg,8.1,1939
+2812,Ninotchka,Comedy,Ninotchka.jpg,7.9,1939
+2813,The Wizard of Oz,Adventure Family Fantasy Musical,TheWizardofOz.jpg,8,1939
+2814,Bringing Up Baby,Comedy,BringingUpBaby.jpg,7.9,1938
+2815,The Adventures of Robin Hood,Action Adventure Romance,AdventuresofRobinHoodThe.jpg,7.9,1938
+2816,Snow White and the Seven Dwarfs,Animation Musical,SnowWhiteandtheSevenDwarfs.jpg,7.5,1937
+2817,Modern Times,Comedy,ModernTimes.jpg,8.5,1936
+2818,A Night at the Roxbury,Comedy Musical Romance,NightattheOperaA.jpg,7.9,1935
+2819,Top Hat,Comedy Musical Romance,TopHat.jpg,7.5,1935
+2820,It Happened One Night,Comedy,ItHappenedOneNight.jpg,8.1,1934
+2821,Duck Soup,Comedy Musical War,DuckSoup.jpg,7.8,1933
+2822,City Lights,Comedy,CityLights.jpg,8.5,1931
+2823,All Quiet on the Western Front,War,AllQuietontheWesternFront.jpg,8,1930
+2824,Metropolis,Drama Sci-Fi,Metropolis.jpg,8.3,1927
+2825,Battleship Potemkin,War,BattleshipPotemkin.jpg,8,1925

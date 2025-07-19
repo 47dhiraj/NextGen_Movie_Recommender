@@ -1,0 +1,53 @@
+{% extends 'movie_admin/admin_base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+{% block body %}
+
+    <div class="breadcrumbs">
+        <div class="col-sm-4">
+            <div class="page-header float-left">
+                <div class="page-title">
+                    <h1>Dashboard</h1>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-8">
+            <div class="page-header float-right">
+                <div class="page-title">
+                    <ol class="breadcrumb text-right">
+                        <li><a href="{% url 'adminhome' %}">Dashboard</a></li>
+                        <li class="active">Edit Movie</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="content mt-3">
+        <div class="animated fadeIn">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <strong class="card-title mb-3">Edit Movie</strong>
+                            <span class="float-right">
+                                <a href="{% url 'list_movies' %}" class="btn btn-info">List Movies</a>
+                            </span>
+                        </div>
+                        <div class="card-body">
+                            <form action="" method="POST" enctype="multipart/form-data">
+                                {% csrf_token %}
+                                {{ form|crispy }}
+
+                                <div class="modal-footer">
+                                    <button type="submit" class="btn btn-success">Update</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

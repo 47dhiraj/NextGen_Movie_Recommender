@@ -1,0 +1,354 @@
+{% extends 'home/base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block body %}
+    <style>
+        /* Profile sidebar */
+        .profile-sidebar {
+            background: #3e3e44;
+            min-height: 630px;
+        }
+
+
+        .header {
+            padding: 2px;
+            background-color: #6ac045;
+        }
+
+        .header h4 {
+            font-family: "DejaVu Sans";
+            font-weight: bold;
+            color: black;
+        }
+
+        .profile-content {
+            margin: 10% 0 10% 5%;
+        }
+
+        #image-upload {
+            margin: 15px 0 15px 25px;
+
+        }
+
+        .profile-img {
+            margin: 10px;
+            border-radius: 50%;
+            border: 4px solid whitesmoke;
+        }
+
+        .body-panel {
+            background: #3e3e44;
+            min-height: 630px;
+            width: 100%;
+        }
+
+        @media only screen and (max-width: 376px) {
+            .body-panel {
+                width: 100%;
+            }
+        }
+
+        h5 {
+            margin-bottom: 20px;
+        }
+
+
+        .nav li > a:hover {
+            background-color: #6ac045;
+            border: 0 solid black;
+
+        }
+
+        .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+            background-color: #6ac045;
+            border: 0 solid black;
+        }
+
+        .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+            background-color: #808080;
+            cursor: pointer;
+        }
+
+        #change {
+            display: none;
+        }
+
+        #change-text {
+            color: white;
+            cursor: pointer;
+            margin-left: 14%;
+            margin-bottom: 2%;
+        }
+
+        #change-text:hover {
+            cursor: pointer;
+        }
+
+        .dataTables_filter, .pagination {
+            float: right;
+        }
+
+
+    </style>
+
+    <div class="container">
+
+        <div class="row">
+
+            <!-- Side Bar Section -->
+            <div class="col-md-3">
+                <div class="card profile-sidebar ">
+                    <div class="header text-center">
+                        <h4>{{ request.user.username }}'s Profile</h4>
+
+                    </div>
+
+                    <div class="profile-content">
+                        <img id="image-upload" src="{% static 'images/movie_logo.jpg' %}" width="160" height="75">
+
+
+                        <div class="profile-content">
+
+                            <h5> Username : {{ request.user.username }}</h5>
+                            <h5> Email : {{ request.user.email }}</h5>
+
+                            {% if request.user.is_client %}
+                                <h5> User Type : User</h5>
+                            {% else %}
+                                <h5> User Type : Admin</h5>
+                            {% endif %}
+
+                            <h5> Joined : {{ request.user.date_joined|date }}</h5>
+                            <h5> Last Seen : {{ request.user.last_login|date }}</h5>
+
+                            <h5> No. of Movie Rated : {{ count }}</h5>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="col-md-9">
+
+                <div class="body-panel">
+
+                    <ul class="nav nav-tabs" id="myTab" role="tablist">
+
+                        <li class="nav-item active">
+                            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
+                               aria-controls="home" aria-selected="true" style="color: white">Profile Setting</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
+                               aria-controls="profile" aria-selected="false" style="color: white">Rated Movies</a>
+                        </li>
+
+
+                    </ul>
+
+                    <div class="tab-content" id="myTabContent">
+
+                        {#       Profile Setting Part                   #}
+                        <div class="tab-pane fade show active active in" id="home" role="tabpanel"
+                             aria-labelledby="home-tab">
+
+                            <div class="card" id="profile-setting-tab">
+
+                                <div class="card-body">
+
+                                    <div class="row">
+
+                                        <div class="col-md-6" style="margin-left: 35%; margin-top: 3%">
+                                            <img class="profile-img" id="image-upload" src="{{ user.image.url }}"
+                                                 width="200" height="200">
+
+
+                                            <div id="profile-change" class="profile-change">
+                                                <button class="btn btn-success" id="change-text"> Change Image</button>
+                                            </div>
+
+
+                                            <div class="change" id="change">
+
+                                                <form action="{% url 'upload_pic' %}" method="post"
+                                                      enctype="multipart/form-data">
+                                                    {% csrf_token %}
+                                                    <div class="form-group" style="margin-left: 17%;">
+                                                        <input class="mb-4 width" type="file" name="image"><br>
+                                                        <button type="submit" class="btn btn-sm btn-info"> Submit
+                                                        </button>
+
+                                                    </div>
+
+                                                </form>
+
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+
+
+                                    <table class="table table-hover text-center" style="margin-top: 5%;">
+                                        <tbody>
+                                        <tr>
+                                            <td><b>Username:</b></td>
+                                            <td>{{ request.user.username }} </td>
+                                        </tr>
+                                        <tr>
+                                            <td><b>Email:</b></td>
+                                            <td>{{ request.user.email }} </td>
+                                        </tr>
+
+
+                                        <tr>
+                                            <td><b>User Created at:</b></td>
+                                            <td>{{ request.user.date_joined }} </td>
+                                        </tr>
+                                        <tr>
+                                            <td><b>Status:</b></td>
+                                            <td>
+                                                {% if request.user.is_active %}
+                                                    <span class="text-success">Active</span>
+                                                {% else %}
+                                                    Inactive
+                                                {% endif %}
+                                            </td>
+                                        </tr>
+
+
+                                        </tbody>
+                                    </table>
+
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+
+
+                        {#  Rated Movie Part                       #}
+                        <div class="tab-pane fade show" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+
+                            <div id="rated-movie-tab" style="display: none; padding: 20px;">
+
+
+                                <table id="bootstrap-data-table-export" class="table  table-bordered table-hover text-center">
+                                    <thead>
+                                    <tr>
+                                        <th>Movie Title</th>
+                                        <th>Rating</th>
+
+
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+
+
+                                    {% for movie in rated_movies %}
+                                        <tr>
+                                            <td>
+                                                <img src="{{ movie.movie.poster.url }}" alt="movie_poster"
+                                                     width="80"><br>
+                                                {{ movie.movie.title }}
+                                            </td>
+                                            <td style="vertical-align: middle">
+                                                <i class="fa fa-star" aria-hidden="true" style="color: gold"></i>
+                                                {{ movie.rating }}
+                                            </td>
+                                        </tr>
+
+                                    {% endfor %}
+
+
+                                    </tbody>
+                                </table>
+
+
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+    {#  JS For Profile Setting   #}
+    <script>
+        $(document).ready(function () {
+
+
+            var change_text = document.getElementById("change-text");
+            var change = document.getElementById("change");
+
+            change_text.addEventListener('click', function () {
+                if (change.style.display === "") {
+                    change.style.display = "block";
+                } else if (change.style.display === "none") {
+                    change.style.display = "block";
+                } else {
+                    change.style.display = "none";
+                }
+
+
+            })
+
+
+            var home_tab = document.getElementById('home-tab')
+            var profile_tab = document.getElementById('profile-tab')
+
+
+            var profile_setting_tab = document.getElementById('profile-setting-tab')
+            var rated_movie_tab = document.getElementById('rated-movie-tab')
+
+
+            home_tab.addEventListener('click', function (e) {
+                console.log('firstpart')
+                rated_movie_tab.style.display = "none"
+
+                profile_setting_tab.style.display = "block"
+
+            })
+
+            profile_tab.addEventListener('click', function (e) {
+                console.log('2ndpart')
+
+
+                profile_setting_tab.style.display = "none"
+
+                rated_movie_tab.style.display = "block"
+
+            })
+
+
+        })
+
+
+    </script>
+
+
+
+
+
+{% endblock %}

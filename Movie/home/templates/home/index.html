@@ -1,0 +1,226 @@
+{% extends 'home/base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block body %}
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+        AOS.init();
+
+    </script>
+
+    <style>
+
+        .thumbnail a > img, .thumbnail > img {
+            margin-right: auto;
+            margin-left: auto;
+            transition: .2s ease;
+            backface-visibility: hidden;
+        }
+
+        .carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
+            display: block;
+            width: 237px;
+            height: 269px;
+        }
+
+
+        .thumbnail a > img {
+            background-color: white;
+        }
+
+
+        .thumbnail:hover {
+            background-color: black;
+            border: 1px solid black;
+        }
+
+        .thumbnail a > img:hover {
+            opacity: 0.25;
+
+        }
+
+        .thumbnail {
+            background-color: white;
+            position: relative;
+            overflow: hidden;
+        }
+
+
+        .middle {
+            transition: .0 .1s ease;
+            opacity: 0;
+            position: absolute;
+            top: 45%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+
+        .thumbnail:hover .middle {
+            opacity: 1;
+        }
+
+
+        /*
+        #footer {
+           position: fixed;
+           left: 0;
+           bottom: 0;
+           width: 100%;
+           color: white;
+           text-align: center;
+        } */
+
+
+        /* #footer {
+           position: absolute;
+           left: 0;
+           bottom: 0;
+           width: 100%;
+           color: white;
+           text-align: center;
+
+
+        } */
+
+        /* #footer {
+           position: relative;
+           left: 0;
+           bottom: 0;
+           width: 100%;
+           color: white;
+           text-align: center;
+        } */
+
+        .pagination {
+            display: inline-block;
+            padding-left: 0;
+            margin-top: 60px;
+            margin-right: 0px;
+            margin-bottom: 0;
+            margin-left: 0px;
+            border-radius: 4px;
+        }
+
+        .viewdetail {
+            background: #6ac045;
+            border-radius: 3px;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+            display: block;
+            font-weight: 700;
+            color: #fff;
+            top: 5px;
+            font-size: 16px;
+            position: relative;
+            width: 100px;
+            padding: 4px 0;
+            margin: 0 auto;
+            -webkit-transition: all 300ms ease;
+            -moz-transition: all 300ms ease;
+            transition: all 300ms ease;
+        }
+
+    </style>
+
+    <div class="container-fluid">
+
+
+        <div class="row" style="margin-top: 15px;">
+            {% if movies %}
+                {% for movie in movies %}
+                    <div class="col-sm-2 col-md-2 ">
+                        <div class="thumbnail" id="thumbnail_id" data-aos="zoom-in-up" data-aos-duration="250">
+
+                            <a href="{% if request.user.is_authenticated %}{% url 'detail' movie.id request.user.id  %} {% else %} {% url 'detail' movie.id %}  {% endif %}">
+
+                                <img src="{{ movie.poster.url }}" class="img-responsive" width="237px;" height="269px;" id="thumbnail_image">
+                            </a>
+
+                            <div class="middle" id="thumbnail_middle">
+
+                                <a style="text-decoration: none;" href="{% if request.user.is_authenticated %}{% url 'detail' movie.id request.user.id  %} {% else %} {% url 'detail' movie.id %}  {% endif %}">
+                                    <h4 style="color: white;"><b>{{ movie.title }}</b></h4>
+                                    <h3 style="color: white;"><b>{{ movie.imdbrating }} / 10</b></h3>
+                                    <!-- <h4 style="color: #1ce01c;"><b>{{movie.genre}}</b></h4> -->
+                                </a>
+                                <a style="text-decoration: none;" href="{% if request.user.is_authenticated %}{% url 'detail' movie.id request.user.id  %} {% else %} {% url 'detail' movie.id %}  {% endif %}"><span
+                                        class="viewdetail" style="color: white;">view details</span></a>
+                            </div>
+
+                        </div>
+
+                        <!-- <h6 style="text-align: center;"><b>{{movie.title}}</b></h6> -->
+                        <!-- <h5 style="text-align: center;"><b>{{movie.genre}}</b></h5> -->
+                        <!-- <h6 style="text-align: center;"><b>{{movie.imdbrating}} / 5</b></h6> -->
+
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+
+    </div>
+
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-12 text-center">
+                {% if movies.has_other_pages %}
+                    <ul class="pagination">
+                        {% if movies.has_previous %}
+                            <li><a href="?page={{ movies.previous_page_number }}"><span>&laquo;</span></a></li>
+                        {% else %}
+                            <li class="disabled"><span>&laquo; </span></li>
+                        {% endif %}
+                        {% for i in movies.paginator.page_range %}
+                            {% if movies.number > 3 and forloop.first %}
+                                <li><a href="?page=1"><span>1</span></a></li>
+                                <li class="disabled"><span>⋯</span></li>
+                            {% endif %}
+                            {% if movies.number == i %}
+                                <li class="active"><a href="?page={{ i }}"><span>{{ i }} (current)</span></a></li>
+                            {% elif i > movies.number|add:'-3' and i < movies.number|add:'3' %}
+                                <li><a href="?page={{ i }}"><span>{{ i }}</span></a></li>
+                            {% endif %}
+                            {% if movies.paginator.num_pages > movies.number|add:'3' and forloop.last %}
+                                <li class="disabled"><span>⋯</span></li>
+                                <li>
+                                    <a href="?page={{ movies.paginator.num_pages }}"><span>{{ movies.paginator.num_pages }}</span></a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                        {% if movies.has_next %}
+                            <li><a href="?page={{ movies.next_page_number }}"> <span>&raquo;</span></a></li>
+
+                        {% else %}
+                            <li class="disabled"><span> &raquo;</span></li>
+                        {% endif %}
+                    </ul>
+                {% endif %}
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+{% endblock %}
+
+
+
+
+
+
+
+
+
+
