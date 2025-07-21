@@ -1,13 +1,8 @@
-
-## NextGen_Movie_Recommender
-
+## NextGen Movie Recommender
 
 #### A modern movie discovery platform(site) powered by collaborative filtering with Pearson correlation, delivering personalized recommendations. Trained on large-scale, real-world datasets to ensure highly accurate and dynamic movie suggestions for every user.
 
-
 #### (Tech stack: Python, Django, JS, GIT, MySQL etc)
-
-
 
 
 #### To run this project Movie_Recommendation:
@@ -15,9 +10,7 @@
 
 1) At first, clone the repo.
 
-
 2) Create python virtual environment as 'movie_env' using following command as:
-
 
     a. To create python virtual environment
 
@@ -57,5 +50,39 @@
 7) You also need to have 'media' folders which is collection of movie posters or images.
 
 8) You need to first create & kepp a file like, 'item_similarty_df.feather' file inside 'Movie' directory. 
-
 This file is itemsimilarity matrix file which is the output of recommendation algorithm (i.e Pearson correlation)
+
+
+
+
+#### NextGen_Movie_Recommender website successful deployment visuals.
+
+
+- **Home page**
+
+![Home Page](showcases/landing_page.jpg)
+
+
+- **Movie Detail & general Recommendation page**
+
+![Movie Detail & General Recommendation](showcases/general_recommendation.jpg)
+
+
+- **Sign In page**
+
+![Sign In Page](showcases/signin.jpg)
+
+
+- **Admin Dashboard**
+
+![Admin Dashboard Page](showcases/admin_dashboard.jpg)
+
+
+- **User Specific Recommendations page**
+
+![User Specific Recommendations Page](showcases/user_specific_recommendations.jpg)
+
+
+- **Pearson correlation coefficient - Heatmap**
+
+![Pearson correlation coefficient Heatmap](showcases/pearson_correlation_heatmap.jpg)
